@@ -1,0 +1,90 @@
+Iva N
+General Qualifications
+Over 3 years experience of testing desktop and web applications;
+Strong knowledge of test processes and testing techniques;
+Writing of test cases;
+Writing of test plans;
+Working with different bugtracker and trouble ticket systems;
+Technical user support.
+Education
+2000-2004: Kharkov Computer College. Faculty: "Programming"
+2007-2009: Computer Academy "ШАГ". Faculty: "Software development".
+Technical Summary
+Platforms:
+Windows: ME/XP/Vista, Linux: Ubuntu/Seue/Fedora, Mac OS: Tiger/Leopard.
+Programming Languages and Tools:
+C, HTML, CSS 2, Joomla, TestComplete.
+Configuration Management Tools:
+Microsoft Project, SVN, Mantis, Test Link.
+Other Tools:
+Microsoft Office (Word, Excel, PowerPoint, Outlook), VMware Workstation.
+Professional Experience
+Jun/2007 - current - presented Company A
+October 2008 - June 2009
+Name: Project A
+Type: Desktop application.
+Product: This application is based on peer-to-peer technology. It stores the data of shared workspaces securely on the computers of all participating team members. All the communication between users is encrypted and transmitted securely.
+OS:
+Windows 2000/XP/Vista;
+Linux Ubuntu 8.04/Suse11/Fedora 9;
+Mac OS Tiger/Leopard.
+Responsibilities included:
+Writing of test plan;
+Writing of test cases;
+Technical user support;
+Regression, Localization, Installation, Stress, Performance, Recovery, Ad-hoc.
+August 2008 - June 2009
+Name: Project B
+Type: Web application.
+Product: E-commerce site which provides VoIP services and payment system.
+Browsers: IE6, IE7, FF2, FF3, Opera 9, Safari 2.
+Responsibilities:
+Writing of test cases;
+Functional testing, Smoke, Load.
+July 2008 - June 2009
+Name: Project C
+Type: Desktop application.
+Product: Cross-platform VoIP application.
+OS:
+Windows 2000/XP/Vista;
+Linux Ubuntu 8.04/Suse11/Fedora 9;
+Mac OS Tiger/Leopard.
+Responsibilities:
+Writing of test plan;
+Writing of test cases;
+Technical user support;
+Regression, Localization, Installation, Stress, Performance, Recovery, Ad-hoc.
+June 2008 - June 2008
+Name: Project D
+Type: Web application.
+Product: Introductions service site.
+Browsers: IE6, IE7, FF2, FF3.
+Responsibilities: Smoke testing, Functional testing.
+April 2008 - June 2008
+Name: Project E Type: Desktop application.
+Product: Manage and export into the different formats .msg and .eml files.
+OS: Windows XP, Windows Vista. 
+Responsibilities:
+Writing of test plan;
+Regression, Installation testing, Localization, Performance, Ad-hoc, Stress, Recovery.
+January 2008 - April 2008
+Name: Project F
+Type: Desktop application.
+Product: Player for digital media and devices. It also makes it possible to organize and share your music, pictures and video.
+OS: Windows XP, Windows Vista. 
+Devices: Sony PlayStation, iPod.
+Responsibilities:
+n
+Writing of test cases;
+Regression, Installation, Ad-hoc, Stress, Recovery.
+June 2007 - January 2008
+Name: Project G
+Type: Application for mobile device.
+Product: Smartphone security.
+Devices: HTC Universal, Dell Axim x51, HTC Touch, T-mobile MDA Compact2 (HTC Charmer), HTC Meteor, BlackBerry 8820.
+OS: Windows Mobile 5, Windows Mobile 6, BlackBerry OS 4.2.
+Responsibilities: Localization, Functionality, Installation testing, Regression, Ad-hoc.
+English Skills
+Intermediate level.
+
+

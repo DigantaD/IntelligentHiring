@@ -1,0 +1,113 @@
+Dmitry V
+General Qualifications
+Over 6 years of experience in programming in C/C++/C# and other languages;
+Strong knowledge of mobile OS and platforms;
+Profound experience in web development;
+Advanced knowledge in web apps, databases, Windows, Linux, client-server applications;
+Good leading skills.
+Education
+2003 - 2008, Kharkov National University of Radioelectronics, department of Applied Mathematics and Management. M.S. in Computer Science. My master's work involved developing software for an iris recognition system.
+Technical Summary
+Languages:
+A lot of programming experience with C/C++, PHP, x86 and ARM assembler, Pascal / Delphi, Basic / VBA.
+Also, good knowledge of C#, ASP.NET, Java, Objective-C, C++/CLI, Python, Mathematica, MatLab, LaTeX and other languanges.
+Web development:
+PHP, ASP.NET, CGI, HTML, XML, DOM, CSS, JavaScript. Apache and IIS servers.
+Networking:
+HTTP, FTP, SMTP, DNS, RPC.
+Technologies:
+WinAPI, OLE, COM, MFC, STL, VCL, DDE, DirectX, OpenGL / OpenGL ES, OpenAL, OpenVG, Regular expressions.
+Databases:
+MySQL, MS SQL (+ Transact-SQL), Oracle, Access.
+Systems:
+Experienced user and administrator of Windows Vista/XP/2003/9x, MS DOS, Windows Mobile, iPhone OS. Also a user of Linux/FreeBSD, Mac OS.
+Developed software for all these systems.
+IDEs / compilers:
+Visual Studio, Xcode, GCC, Embedded Visual C++, C++ Builder, Delphi, Watcom C++, Borland C++, Turbo Pascal, TMT Pascal, MASM, TASM.
+Version control:
+SVN, CVS.
+Other software:
+Jira, phpMyAdmin, Ethereal, IDA, SoftICE, OllyDbg,
+Microsoft Office (including scripting), Adobe Photoshop (including scripting), 3ds Max.
+Professional Experience
+Sep 2008 - presented Company A.
+Role: Senior C++ developer (iPhone).
+Completed projects: 
+Project A
+Responsibilities included:
+Programming of UI, graphics, game logic, AI, sound, etc. (C++, Objective C, Lua, OpenGL ES, OpenAL, iPhone SDK, XCode);
+Flash programming, for GUI (Adobe Flash, ActionScript);
+Wrote several Photoshop scripts for processing animations (ActionScript);
+Wrote a tool for optimizing animations - it compares animation frames, finds similar frame parts and reorganizes animation so that its frames take less space on a texture (Microsoft Visual C++);
+Wrote various tools, scripts and bat-files for processing game resources (Microsoft Visual C++, Python, XML, Windows and Unix shell scripts);
+Map editor(C++/CLI).
+Mar 2008 - Jul 2008 - Freelancing. 
+n
+Role: PHP/MySQL developer.
+Responsibilities included:
+Various minor tasks;
+PHP, MySQL, phpMyAdmin.
+Oct 2007 - Mar 2008 - presented Company B.
+Role: PHP/MySQL developer.
+Responsibilities included:
+Programming an online store website;
+Implementing PayPal support;
+PHP, MySQL, PayPal API, phpMyAdmin.
+Jan 2007 - Jul 2007 - Freelancing
+Role: PHP/MySQL developer.
+Responsibilities included:
+Programming an online store website; implementing PayPal support;
+PHP, MySQL, PayPal API, phpMyAdmin.
+Jul 2005 - Feb 2007 - presented Company C.
+Role: PHP/MySQL developer.
+Responsibilities included:
+Writing regular expressions for a lot of various sites to extract necessary info(data mining using TextPipe and our own tools);
+Writing a tool for automated data mining (PHP/MySQL, phpMyAdmin).
+May 2005 - Oct 2005 - presented Company D.
+Role: ASP.NET/MS SQL developer.
+Responsibilities included: UI, business logic and DB programming for a database of educational institutions, employees and their experience/attestation data. There were about 4 programmers in the team.
+ASP.NET, MS SQL (Transact-SQL also).
+1995 - Open source / personal projects.
+Responsibilities included: Author of several plugins for Miranda IM (multi-protocol instant messaging client), all plugins are written on Microsoft Visual C++:
+Whiteboard plugin - a multi-user whiteboard which is actually an implementation of Shared XML Editing protocol over XMPP (Jabber). The plugin also makes extensive use of other technologies: whiteboard is internally stored as a vector document in SVG format, which is rendered using an OpenVG backend;
+New Away System plugin, which manages status messages and status requests from other clients. The plugin has a wide list of features, like autoreply, custom messages for some contacts, scripts in status messages - a very flexible system which allows to customize status message behavior for people who don't know programming or don't want to create a special plugin just for a single nice status message trick;
+Spam Filter / Autoreplier plugin which uses regular expressions to filter incoming messages and authorization requests, and optionally replies with a user-defined message;
+Other plugins, like ContactSettings (manages per-contact settings in a convenient way), XStatusNotify (notifies when contact changes his extended status; uses sophisticated heuristics to properly filter excessive status changes), ClientChangeNotify (notifies when contact changes his IM client), LogService (a service plugin which provides functions for logging into a file), DataAsMessage (a service plugin for transmitting arbitrary data through usual messages), etc;
+Various patches to Miranda IM core and its base plugins;
+An analog of Supaplex game for iPhone (C++, Objective C, OpenGL ES, iPhone SDK, XCode);
+Pocket PC driver for an infrared keyboard, and a front-end which shows a tooltip with graphical formula representation in realtime when typing formulas in TeX format (written in C++ for Windows CE platform, using Embedded Visual C++);
+A tool for batch conversion of formulas in Microsoft Word documents from TeX format to usual Word formulas (Microsoft Visual C++, COM) - this tool along with my keyboard driver were used by me in university to maintain electronic lecture notes, instead of writing with a pen;
+Software part of an iris recognition system (my master's work at university) - this software uses various image processing algorithms and a lot of smart heuristics to do segmentation of an input image (find iris on it) and to extract iris signature from the image. Recognition is done based on this signature, by comparing it to a database of previously extracted signatures. The software is written on Microsoft Visual C++ using MFC and MySQL;
+Various scripts for Adobe Photoshop and Adobe InDesign (written in ActionScript or VBA);
+Forum (written in PHP + MySQL).
+Music library - a program which maintains a list of all albums existing on a hard drive and allows to generate an HTML report, containing names of all artists, albums and songs (Microsoft Visual C++, MFC, MySQL);
+MIDI file player for MS-DOS (written on Watcom C++, uses assembler to work with sound card);
+3D labyrinth game for MS-DOS. It uses techniques and programming tricks similar to old Wolfenstein 3D game. Written on TMT Pascal + assembler;
+Winner and participant of district and regional programming olympiads in school;
+Was a member of programming olympiad team in university.
+The Major Projects:
+Project A
+Description: Plugin that allows to set status messages using dynamic variables.
+It requires at least Miranda v0.6 to work properly. v0.7 or above is recommended. Also New Away System requires Variables plugin.
+You can find more info and ask questions at the Miranda forums.
+Project B
+Description: This plugin shows a notification when someone in your contact list changes his ICQ/Jabber custom status message. Note that it performs different functions than StatusNotify plugin does. To work properly, XStatusNotify requires Popup or YAPP plugin and at least Miranda 0.6.0.3.
+XStatus Notify thread at the Miranda forums.
+Project C
+Description: Plugin that notifies when someone changes his/her client. Also supports logging to a file using LogService plugin. Requires Popup/YAPP plugin and Fingerprint v0.0.0.18 or later to work correctly.
+ClientChangeNotify thread at the Miranda forums.
+Project D
+Description: Plugin that allows you with your friend to draw something together. It sends all the changes from both sides almost in real-time. Just click "Whiteboard" in the contact menu and start drawing, your friend will see it. Of course, Whiteboard must be installed on both sides, and also DataAsMessage plugin v0.1.0.2 is required. Please note, the plugin is an early beta yet.
+Whiteboard thread at the Miranda forums.
+Project E
+Description: A service plugin that provides API for other plugins to transmit any data to other contacts through usual messages. It's an early beta yet.
+You can post your bug reports, opinions and ideas for DataAsMessage in this thread.
+Project F
+Description: This is a service plugin that allows other plugins to log to files easily. It takes care of "unicodeness" of log files, allows to limit log size and to change log file name. Also it supports Folders and Variables plugins. With the help of Variables plugin it's possible to customize log format according to your preferences, and to log to different files and even folders depending on some conditions.
+LogService thread at the Miranda forums.
+English Skills
+Advanced technical reading and writing.
+Hobbies
+Miranda IM plugin development.
+
+

@@ -1,0 +1,319 @@
+Mohit prasad
+
+E-Mail: mohit@gmail.com
+ 	                   Phone:9801765437 
+
+Career Objective
+
+Insatiable desire to assimilate more and more knowledge and experience to channelize them into constructive and fruitful directions by way of sheer hard work, perseverance and subjugation of individual interests in order to achieve greater organizational objectives.
+SUMMARY
+* Around 6 years of experience. Well versed with complete Software Development Life Cycle with 
+  extensive experience in Requirements Gathering, Design, Development, and Testing.
+* Have experience in Finance, Manufacturing and Project Management domain specific to both Web and 
+  Windows applications development using OOPs methodologies in J2EE technology. Technical expertise   
+   profile includes Java, J2EE, TIBCO, SQL, Oracle and database related technologies.
+* Experience in designing the architecture of the J2EE application using design patterns 
+Education
+
+Degree
+University
+Percentage Marks
+B.I.S(Bachelor Of Information Science)
+Delhi University, New Delhi
+63 %
+Senior Secondary(Class XII)
+CBSE Board
+78 %
+Secondary(Class X)
+CBSE Board
+76 %
+Technical Skills
+
+Operating Systems
+WINDOWS-98/XP/VISTA/7 UNIX.
+Languages
+Core JAVA 
+Web Technologies
+Servlets, JSP, EMS, SQL, XML
+Database
+MS-ACCESS, MS-SQL, ORACLE
+Web Servers
+IBM –WebSphere 5.0 , Tomcat 6.0, JBoss
+Tools
+IDE: Eclipse v3.4, WSAD
+Version control : VSS, SVN, CVS
+Frameworks: Spring, Struts, Hibernate, JUnit, EJB
+BuildTool: Maven, Ivy
+Back Office: Calypso
+Middleware/Messaging: TIBCO-Business Works, JMS, EMS, QuickFixJ(FIX Protocol)
+
+WORK EXPERIENCE: 6+ yr (Feb ’05 – till date)
+
+HeadStrong India Limited (TechSpan)
+Lead Consultant
+Jul 2008 - Till Date
+Sapient Pvt. Corp. Ltd
+Associate Technology
+Nov 2006  -  Jul 2008
+MotherSonSumi Infotech & Design Ltd
+Software  Engineer
+Feb 2005  -  Nov 2006
+
+
+CAREER PROFILE
+
+HeadStrong India Limited (Techspan, A Global Consultancy)
+
+1. Project Name
+B SYSTEM
+Client
+MORGAN STANLEY SMITHBARNEY
+Role
+DEVELOPER
+Organization
+HeadStrong India Limited
+Duration
+DEC, 2010 – till date
+Team Size 
+Project Members :4
+Module: 1
+
+Environment
+Software
+Languages: CORE JAVA, Spring, CPS, JUnit, QuickFixJ(FIX)
+DB : Oracle, DB2
+BuildTool: Ivy
+Project Description
+This project involves working on multiple applications following iterative and incremental agile development methodology:
+
+B System is a realtime application intended for trade information management system maintained by Global Wealth Management Group of Morgan Stanley. Originally developed to handle offers, trade request, RFQs B-System is now being enhanced to handle similar trading messages from Citi Group also after merger of Smith Barney with Morgan Stanley. 
+ 
+Offers for various bonds are being published from Morgan Stanley as well from Citi Group. After receiving these offers (which are in different message formats) through subscribed topics, B-System processes the same and sends it to downstream applications. Traders using these downstream applications can view & compare these offers and trades suitable one by sending trading request, which again received by B-System which in turn forwards accordingly. 
+
+MatrixPricing is a java based multithreaded feed which receives RFQs from different ftp/sftp ECN like chappy, fabkom, Bloomberg etc,  convert to QuoteRequest, sends it to downstream applications used  by traders and then upon receiving the price from traders, sends the reply back to different data sources. This application polls the ftp/sftp directories for new RFQs , convert them into QuoteRequest and publish it to CPS, a messaging system that allows the communication with the downstream applications.  Traders connected to the downstream system  receives the bids, ether submit the price or pull or reject finally publish again on CPS from which application reads the response , write to file and ftp/sftp to the ECN after a certain interval . 
+
+
+Responsibilities
+Involved in daily scrum calls with the client
+Mapping  source  input messages to CPS message and CPS message to the corresponding output messages
+Involved in Designing and Coding
+Implemented concurrency concepts while writing messages and sending to different ECNs.
+Involved in integration of application with ftp/sftp/CPS/Ivy interfaces
+
+
+
+
+
+2. Project Name
+Finance | Platform Centre Of Excellence – Calypso | Config Recon Tool
+Client
+Headstrong Internal - IP Initiative
+Role
+Module Lead
+Organization
+HeadStrong India Limited
+Duration
+Aug, 2010 – Nov 2010
+Team Size 
+Project Members :6
+Module: 1
+
+Environment
+Software
+Languages: Calypso APIs, J2SE 1.5, JUnit
+DB : Oracle, Sybase
+Project Description
+Description: 
+The Calypso Trading and Risk Management Platform is an integrated suite of trading applications. Calypso can handle the entire lifecycle of a broad range of capital markets instruments for any financial institution. The project required undergoing intense training to gain expert knowledge in Calypso by development of IPs that could be plugged into a running Calypso environment.
+Responsibilities
+Involved in understanding and planning for new business requirements of existing Calypso users, development of IPs that function as pluggable layer over and above Calypso tool for configuration management. I am involved throughout the lifecycle of product development for ‘Config Recon Tool’ (Calypso Environment Comparator), creating specification for new features and for additional calypso object types, leading implementation of these features, releasing evaluation version to 2 prospective clients, mentoring junior programmers to better understand the product architecture. 
+
+
+3. Project Name
+EVAL
+Client
+Market Axess, USA
+Role
+Module Lead
+Organization
+HeadStrong India Limited
+Duration
+Oct, 2009 – Jul,2010
+Team Size 
+Project Members :12
+Module: 5
+
+Environment
+Software
+Languages: Core Java, MultiThreading, Smart Client, EJB, Spring, JPA, Hibernate
+O/s: Windows,Unix,
+Application Server: JBoss
+DB : Oracle
+Project Description
+Description: 
+Marketaxess is a leading Bond trading application company. They have a patented Bond trading application currently used by many clients across US for bond trading.
+
+The EVAL System covers US Pricing Cycles for High Yield US Corporate bonds sorted into seventeen sectors. All users within the system are assigned a role, which determines their functional entitlements. Each Sector within a Pricing Cycle is first evaluated by an Evaluator. Toward the end of this process, the official (vetted) benchmark levels are provided by Benchmark Services (FCS), at which time final price/yield/spread calculations can be done for all bonds in the system. After the calculated levels are available, the evaluations and any associated Mag Codes must be approved by a Manager. Once approved, the Manager has indicated that the evaluations are ready to be released for a given sector. Currently, some sectors are released to downstream systems immediately, while other are grouped into a single file and released once all sectors in the group are ready. Once all Sectors in this group have been approved, an EVS Administrator or a Manager can trigger the final release.
+Prior to releasing the file, but after sending evaluations for Manager approval, it is possible for the Evaluators to change their evaluations. To make any changes, the sector’s status must be reverted to Pricing; the Evaluator or Manager must be able to obtain the lock to Revert to Pricing.
+After release of the file(s), any re-release must be coordinated with the downstream systems, as they may have to back the original evaluations out prior to being able to process a new file. This off-system coordination will be done by an EVS Administrator or Manager, who can then revert the current pricing cycle if necessary.
+Responsibilities
+Involvement in functional specifications and design. 
+Designing layout and coding front-end using SmartClient 
+Coding the backend services.
+Involved in the system integration.
+
+
+
+4. Project Name
+ML-ELT-Post-Trade
+Client
+Merrill Lynch
+Role
+Module Lead
+Organization
+HeadStrong India Limited
+Duration
+Aug, 2008 – Oct, 2009
+Team Size 
+Project Members :9
+Module: 2
+
+Environment
+Software
+Languages: Java, MultiThreading,  Tibco–Business Works, JMS, EMS 
+O/s: Windows,Unix,
+Architecture: SOA
+Special Software: TIBCO 
+Project Description
+Description: 
+This Project involves migration activities for multiple existing feeds in Merrill Lynch from Java/J2EE framework to Tibco’s Business Work. Feeds are middle ware systems which receive trade details from Metro, for every new trade entered into RAM database. Feeds will enrich these input messages from Metro as per the requirements of specific downstream systems with which feeds interact. In the initial phase following feeds are being migrated: TESSBTM, OLTP, Cash Manager and STR. These applications are part of Middle Office.
+
+TESSBTM -  
+TESS is the Trading Enrichment & Settlement System that does Routing, Instruction Generation, Allocation, Figuration, and Confirmation of trades at broader level.  BTM is Bond Transaction Manager that feeds Listed Bonds downstream. 
+
+
+OLTP - 
+OLTP provides semi-real-time trade feed to Account Payable System (Transaction processing, Journal Entry, Cancel and Correct) and EBAR for MLPFS and MLFM entity. Contains many mappings unique to OLTP (i.e., origin codes). 
+It handles over 20-40 K trades a day and provides automatic error reprocessing / reporting.
+Responsibilities
+• Involved in weekly status call with the client.
+• Requirement gathering from the client on weekly basis.
+• Understanding the legacy code of various feeds based on Java/J2EE framework   
+  and migrating it into TIBCO-Business Works.
+• Designing and simplifying the complex logic in TIBCO using user friendly 
+  Palettes which increases the scalability of the Feeds.
+• Mentoring the new team members and helping them understand the complex 
+  Tibco-BusinessWorks Architecture. 
+• Exercising code review and code walk through in the project.
+
+
+
+  PRIOR WORK EXPERIENCE
+
+1. Project Name
+ResultSpace NextGen
+Client
+Sapient(UK, India, US, Toronto)
+Role
+Developer
+Organization
+Sapient Corp. Pvt Ltd , India
+Duration
+Nov,06 – Jul,08
+Team Size 
+Project Members :30
+Module: 1
+Environment
+Software
+Languages: Java, Hibernate , JSF , Servlets , JSP
+Database : MySql
+Special Software: BackBase, ANDROMDA, JBoss, Magic Draw, Maven and LDAP
+Project Description
+ResultSpace Next Gen code name for ResultSpace 3.0 is a project taken up by Sapient Approach team to build an Application Lifecycle Management Tool. ResultSpace is an enterprise-grade Application Lifecycle Management (ALM) solution designed for organizations that have adopted or are in the process of adopting Agile, lean or iterative methods. With a strong focus on usability and scalability, ResultSpace enables to embrace the delivery practices that transformed the software industry and fueled Sapient’s own track record of delivery excellence. ResultSpace gives you the essential tools for facilitating effective software delivery, particularly as teams become increasingly distributed
+Responsibilities
+Involvement in functional specifications and design. 
+Designing layout and coding front-end using JSF/Backbase 
+Coding the backend services.
+Involved in the system integration.
+Performed unit testing and system testing.
+
+2. Project Name
+ILEX
+Client
+Contingent Network System(USA)                              
+Role
+Developer
+Organization
+Motherson Sumi Infotech & Design Ltd., (MIND)	
+Duration
+Aug,05 – Nov,06
+Team Size 
+Project Members 7
+Module: 8
+Environment
+Software
+Languages Core Java, JSP, Servlets , Struts
+Database : SQLServer 2000
+Special Software: Eclipse 3.1 , Tomcat 5.5
+Project Description
+Contingent is a network service company, provides network solutions in USA.  Ilex system is design for tracking & managing the lifecycle of projects and helpdesk services.
+Ilex is a web based enterprise application for tracking & managing the lifecycle of projects and helpdesk services. This begins with the initial proposal creation, follows through to project completion and extends in support activity by tracking the tickets raised to closure
+Responsibilities
+Designing of HLD and DLD. 
+Application and database design 
+Coding of business objects and security module 
+Installation and implementation of the software 
+Involved in Requirement Gathering and DP Activities
+Configuration coordinator
+Preparation of unit test cases
+
+
+3. Project Name
+Sales Force Automation System (SFAS)
+Client
+South City Ford, Noida India
+Role
+Developer
+Organization
+Motherson Sumi Infotech & Design Ltd., (MIND)
+Duration
+Feb,05 – Aug,05
+Team Size 
+Project Members 4
+Module: 1
+Environment
+Software
+Languages Core Java, JSP, Servlets 
+Database : SQLServer 2000
+Special Software: WSAD 5.1.1 , Tomcat 5.5
+Project Description
+South City Ford is dealer of automobile. SFAS system is design for planning, tracking and managing sales activities. Sales Force Automation System is web-based software for planning, tracking and managing the activities of Sales Representatives for a dealership company e.g. an automobile dealer. 
+SFAS system is design for planning, tracking and managing sales activities. Sales Force Automation System is web-based software for planning, tracking and managing the activities of Sales Representatives for a dealership company e.g. an automobile dealer. 
+Responsibilities
+Application and database design 
+Coding of business objects and security module 
+Installation and implementation of the software 
+Client interaction to gather the requirements.
+Configuration coordinator
+
+Training
+1) StreamBase : StreamBase is a high performance highly scalable complex event processing (CEP) platform enabling the rapid development, deployment and modification of applications that analyze and act on large amounts of real-time streaming data
+2) Calypso : Calypso supports a full set of back office functions that includes Settlements, Messages, Confirmation matching, Position management, Accounting etc.
+
+Personal Details
+
+Date of Birth
+Dec 24, 1982
+Sex
+Male
+Nationality
+Indian
+Marital Status
+Married
+Designation
+
+Location
+
+
+
+ ** References: Furnished upon Request                                                                 Amrish Kumar

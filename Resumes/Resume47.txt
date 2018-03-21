@@ -1,0 +1,55 @@
+Summary
+Knowledge of advanced level programming in C/C++ including thread synchronization multithreading, multi processing, concurrency and TCP/IP Socket Programming.
+Developed dozens of applications for inventory maintenance, vendor information and order processing which increased efficiencies and reduced operating costs 11 percent.
+Reduced support costs 22 percent by creating hundreds of enhancements for existing apps running on Windows and UNIX platforms. Tactics included troubleshooting, root cause analysis, bug fixing and decreasing the codebase 25 percent.
+Increased e-commerce revenues 3 percent by fine tuning 16 applications involved in the fulfillment of website orders.
+Proficient in Web technologies: HTML, CSS, PHP and Java
+Recipient of several awards including: Most Innovative Developer of the Quarter, Team Player and Users’ Appreciation Award
+Technical Skills
+Languages
+C, C++, Assembler, Java, C#, SQL, HTML, CSS, PHP, JavaScript
+Libraries and Frameworks
+WinAPI, STL, BOOST, MFC, ATL, .NET, OLE/COM, Microsoft Office API, DAO, ADO
+Concepts
+OOA/OOD (UML, Design Patterns, Refactoring), Multithreading/Multiprocessing, Networking, Obfuscation
+Software
+Microsoft Visual Studio, MS Office, IntelliJ IDEA, DevPartner Studio, Maven, SourceSafe
+Systems
+Windows 2000/XP/Vista/7/8, UNIX/Linux
+Hardware
+PCs, PDAs, Peripherals, Network accessories
+Databases
+Oracle, MySQL, SQL, DB2, MS Access
+ 
+Career Highlights and Achievements
+Senior Developer, Club Stores USA   2012 to present
+Environment: C, C++, UNIX, Java, Oracle, DB2
+Hired to spearhead the development of new applications to support the company’s growth. Apps were used to maintain inventory, house and maintain vendor information and process orders.
+Held meetings with vendors and management to outline new business requirements and translate them into technical specifications and tasks.
+Designed, developed, and tested software applications meeting deadlines and budgets.
+Specified, prototyped, developed and tested an object-oriented, multiplatform C++ framework containing support to: data structures, common algorithms sockets, threading.
+Fixed bugs in the order management system.
+Developed highly efficient algorithms in C++ through both pair-programming and independent work. The algorithms improved inventory management benchmarks 18 percent.
+Analyzed code to identify and improve performance bottlenecks and contingencies with shared resources. Streamlining the code was instrumental in reducing support costs.
+Significantly contributed to the calculation engine, which was based on evaluation of rules and rule groups.
+Fine-tuned order fulfillment apps that boosted repeat orders and customer loyalty 8 percent.
+Designated “Most Innovative Developer of the Quarter.”
+Application Analyst and Developer, Big Time Capital Management   2010 to 2012
+Environment: C, C++, OOP, STL, Multithreading, Linux/UNIX, Windows, JavaScript
+Responsible for maintaining, enhancing and developing applications and infrastructure that provide a trading framework.
+Analyzed server side infrastructure including function calls for memory management, kernel bypass messaging (point-to-point and multicast), trading and market data protocol design/implementation, implementation of search/sorting algorithms, system redundancy design.
+Resolved infrastructure functioning, troubleshooting and performance issues encountered by the trading technology largely through the development and implementation of enhanced sorting and searching algorithms and redesign of the rollout/deployment mechanism. See nonproprietary samples [Insert GitHub link]
+Developed automated test harnesses for volume and latency stress testing.
+Provided coding, data propagation and validation procedures for technology platforms.
+Designed, coded, implemented and tested new features and modules for the derivatives system as part of an Agile team. Earned Team Player and Users’ Appreciation Awards.
+Developer and Tester, Trading Resources Group   2008 to 2010
+Environment: C++, Java, Visual Studio, Rest-Based Web Services
+Oversaw the testing of apps and features including the implementation and execution of automated testing. Responsibilities included the creation of test documentation, and debugging and investigating issues utilizing C++ on the client server. Also supported full life cycle development activities of a 12-member Agile team while pursuing a bachelor’s degree.
+Education, Training and Certifications 
+Bachelor’s Degree, NYU Polytechnic School of Computer Science and Engineering
+Associate’s Degree, Borough of Manhattan Community College
+Advanced C++ Programming Training Course, Udemy
+Agile Workshop, Scrum Alliance
+Microsoft Certified Solutions Developer (MCSD)
+Brainbench Certified Master, C++
+

@@ -1,0 +1,214 @@
+xxxxx
+
+PROFILE
+
+I am an engineer with over fifteen years experience in control systems integration which includes approximately five years C++ development. I have designed and commissioned systems for the Oil and Gas, Food, Pharmaceutical and Water industries. Customers include BP, Conoco, IOOC, Nestle, Glaxo Smith Kline, Rhone Poulenc Rorer, Severn Trent Water, Environment Agency and BBC.
+
+EDUCATION
+
+1981 to 1984 - University of Sheffield - B. Eng (Hons) Control Engineering
+1979 to 1981 - Chesterfield College of Technology - A level Maths, Physics & Chemistry
+1972 to 1978 - Lady Manners School, Bakewell - O level Maths, Physics, Chemistry, Biology, English & Geography
+
+SKILLS
+
+Experienced in project delivery through to successful installation
+Customer liaison and representation on customer sites
+Trouble shooting and problem-solving experience in the office and on customer sites.
+A flexible, focused approach with total commitment to achieving goals and objectives
+Communication and interpersonal skills, always willing to help out in order to provide a high level of customer service
+C/C++ and shell scripts on Unix. Visual C++, Borland's C++ ver 4.5, C Builder, J Builder and Delphi. Java 2 for win32 on Microsoft Windows.
+Database development using Oracle, Ingres and Sybase on Unix. SQL Server on Windows.
+Control System design, PLC programming and SCADA configuration. Experienced in Gem80, Modicon, Allen-Bradley and GE Fanuc PLCs. SCADA systems include Wonderware Intouch, FactoryLink, Iconics, Setpoint Setcim, Orsi Cube and CSE-Servelec ScopeX products.
+Project documentation to company (ISO 9001, TickIT) standards including Functional Design (FDS), Software Design (SDS) and Customer Factory Acceptance Test (CFATS) specifications.
+
+EMPLOYMENT HISTORY
+
+Apr 2011 to Present	
+ConverTeam
+Contract SCADA/PLC Programmer – Queen Elizabeth Class Vessel Power and Propulsion Control System.
+
+Iconics Scada, GE Fanuc Proficy programming RX3i PLCs, ISaGraf programming AMC (ConverTeam’s Advanced Marine Controller).
+
+Sep 2010 to Mar 2011	
+Schneider Electric
+Contract FactoryLink SCADA engineer - BAA LHR T1 Baggage Handling System
+
+Aug 2010 		
+
+Building a website for a local self-employed Damp Proofer
+
+June 2010 to Aug 2010		
+
+Evaluating free Scada packages, Integraxor, Citect, and IGSS with a view to integrate with fire curtain control panels.
+
+July 2009 to May 2010		
+
+Studying Mobile phone application development using manufacturer’s development environments (Java and Symbian C) aimed at Nokia, Motorola and Samsung.
+
+Sep 2008 to Nov 2008
+IES-PCA, Pleasley Vale Business Park
+Mansfield Contract SCADA / PLC Engineer 
+
+Project - Wyeth PK Processors upgrade 
+Upgrade of hardware and software to currently supported revisions. 
+Wondereware InTouch v10.01 and Rockwell SLC 505. 
+Modifications to each of the three systems to make operation more consistent
+Rewrite FDS and FAT specifications
+In house testing.
+
+Dec 2007 to Aug 2008		
+
+Voluntary work with British Trust for Conservation Volunteers
+Undertaking voluntary work on a number of BTCV conservation projects as part of a team
+
+Feb 2003 to Feb 2007		
+
+Caring for elderly father during his health problems
+
+May 2002 to Feb 2003	
+PDS, Wyvern Business park, Derby
+Project Engineer (PLC / SCADA programming)
+
+Project: Queensway Tunnel Refurbishment
+FDS, SDS, FactoryLink configuration and modicon PLC programming
+
+
+July 2001 to Feb 2002	
+HGS, Sheepbridge, Chesterfield, Derbyshire 
+Systems Engineer (PLC / SCADA / C++)
+
+Project - Lindsay Oil Refinery Priority 1 Alarm system replacement
+
+Intouch SCADA configuration
+C++ program for external alarm annunciation
+SDS and CFATS.
+
+Project - Nestle Halifax Eurotherm replacement
+Intouch configuration
+FDS, SDS and CFATS.
+
+May 1989 to April 2001		
+Servelec, Eckington, Chesterfield, Derbyshire
+Leaving position - Senior Software Design Engineer
+
+May 1989 – Mar 1993 
+Oil and Gas department 
+Design Engineer (PLC / SCADA programming)
+
+Project - Hamilton Brothers Oil & Gas Ravenspurn ST2 
+Dual redundant PLC Emergency Shutdown (ESD) system with auto testing using Gem80 160, 165, FDS, SDS and CFATS
+Programmed the PLC systems
+Performed Customer acceptance tests
+Offshore commissioning
+
+Project - I.O.O.C Salman Offshore Complex
+Dual redundant PLC Safety systems, consisting of 6 Emergency Shutdown (ESD) and 8 Fire & Gas Protection systems using Allen-Bradley PLC 5’s. 
+Lead PLC software engineer
+FDS and SDS
+Designed the PLC software
+Allocated PLC programming tasks
+Performed Customer acceptance Tests. 
+
+Project - Conoco Loggs expansion
+Dual redundant PLC Fire & Gas Protection and Process Control systems using Modicon 984-780’s & 984-680’s
+FDS, SDS and CFATS
+Designed and programmed the PLC Software
+Performed Customer Acceptance tests.
+
+Mar 1993 – Jun 1994 
+Development dept
+Design Engineer (C/C++)
+
+Project - Environment Agency NRA ARTS 
+C/C++ interface programs for acquisition of third party data into Xtel, specifically tidal and meteorological data from the Met office and data from Thames Barrier. 
+Customer acceptance testing and commissioning.
+
+Jun 1994 – Dec 1996 
+IT and Process Control dept
+Senior Design Engineer (PLC/SCADA/C++)
+
+Project - Southern Water Expansion 
+Addition of two Ingres databases
+Modification of existing code and forms to include access to the data, using embedded sql in C programs and Ingres forms v4. 
+FDS, SDS and CFATS.
+
+Project - BBC Nationwide Transmission Monitoring System
+C++ program for the audible annunciation of email alarms generated from sybase.
+
+Project - Glaxo Smith Kleine
+Commissioning PLC5’s for a pharmaceutical control system.
+
+Project - Walkers Crisps
+Setcim database configuration for a crisp line control system.
+
+Project - Rhone Poulenc Rorer
+Commissioning Orsi Cube DCS for a pharmaceutical control system.
+
+Project - Severn Trent SSM 
+Wrote bulk configuration scripts to populate Xtel database from csv files.
+
+Project - Severn Trent SSM
+Developed objects and an interface from Xtel to a Stoner model. 
+FDS, SDS and CFATS.
+
+Jan 1997 – Apr 2001 
+Development dept 
+Senior Software Design Engineer (C++/Unix/Windows)
+
+Project - Development 
+Wsql (Xtel specific SQL) enhancements and scripts to allow bulk configuration of the Xtel database incorporated into standard release. FDS, SDS.
+
+Project - Bristol Water Upgrade
+Converted interface programs from Pascal on VMS to C++ on Unix.
+
+Project - Southern Water Archive replacement 
+Programs and scripts on Unix to extract archive data from Oracle Database and populate a PI database. 
+Xtel interface to directly populate PI database with live data from Xtel. 
+FDS, SDS, and CFATS.
+
+Project - Environment Agency 
+Outstation Simulator software to mimic a variety of outstations, used for communications loading during Customer Acceptance tests
+FDS, SDS and CFATS
+
+
+Project - Heathrow Airport
+Implementation of CALMU protocol, comms implemented via A-B basic module to a PLC5. SDS, CFATS.
+
+Project - Severn Trent
+Implemented the Ascom pager protocol into Xtel. FDS, SDS, CFATS.
+
+Crown Castle International (BBC)
+Redesigned the interface between Sybase and Xtel to include Xarchiver and other archive formats
+FDS, SDS, CFATS.
+
+Project - Bristol Water
+C++ program to convert VMS file format to Unix file format
+SDS, CFATS.
+
+Project - Merlin Communications (BBC)
+Implemented the 1784-PKTX card into Xworks, a real time control database, used for World Service transmitters. FDS, SDS.
+
+Project - NTL (Virgin Media)
+Implemented Simple Network Management Protocol (SNMP) into Xtel. FDS, SDS, CFATS.
+
+Oct 1987 to Apr 1989	
+Marconi Defence, Basildon, Essex
+Contract Systems Engineer - Digital signal processing algorithms.
+
+Jan 1986 to Oct 1987	
+Taylor Instruments, Stevenage, Hertfordshire
+Software Engineer 
+
+Project - BP Forties Echo Emergency Shutdown (ESD) system
+Dual redundant Allen-Bradley PLC3s and PCAP SCADA
+Design
+Acceptance tests and commissioning at the module yards and offshore.
+
+Aug 1984 to Dec 1985	
+British Aerospace, Stevenage, Hertfordshire 
+Graduate Engineer - Guidance control.
+
+REFERENCE AVAILABLE UPON REQUEST
+
+

@@ -1,0 +1,68 @@
+Curriculum Vitae
+
+abhishek nand
+										
+Profile 
+Senior Software Developer with 10+ years experience building Java applications for mobile operators using OO, Java, Wicket, JSP, HTML, Swing & Oracle/SQL and prior to that, 10 years experience developing financial trading systems using C & C++ on Windows, Unix & VMS.  Full product life-cycle experience from analysis to post-installation support including XP & SCRUM processes.  Now seeking next opportunity to make a successful contribution in a new environment.
+Achievements
+Provided complete product expertise for product-related billing system integrations, through analysis, design, implementation, installation and support.  This included streamlining the process and tools, minimising the effort/cost required to implement new integrations.
+Updated an outdated Swing GUI app, updating & enhancing functionality while providing a modern build environment, drastically reducing the effort required to build releases.
+Earning a reputation as someone who’s able to deliver in tough situations and across a wide range of areas.
+Introduced and promoted various corporate services and best practices, such as a Continuous Integration server, a departmental Wiki and a corporate Maven repository, improving product integration efforts and easing the sharing of information within the company.
+Complete development cycle of a Java J2EE mobile recharge product (i.e. analysis, design, development, testing, implementation and support), which was installed at a number of overseas mobile operators - at least one instance is still in active use, generating revenue. 
+Designed and developed a real-time financial trading system allowing digital financial feeds to be shared across multiple users, lowering the corporate per-user information costs.
+A committer with the Apache Wicket open-source web framework.
+Skills
+Development:
+Java (10yrs) (including J2EE (5yrs), JMS (2yrs), JDBC (8yrs), JCE (1yr), Servlets (8yrs), Swing (3yrs), JNI (3yrs), Spring (3yrs) & Ibatis) on Unix (15yrs) and Win32 (3yrs)
+Python (3yrs) (including Django web framework)
+SQL (10yrs), Oracle (10yrs), MySQL (3 yrs), Oracle SQL*Plus (10yrs).
+C (5yrs) & C++ (5yrs) on Windows, VMS & Unix (Ultrix, OSF/1 & Solaris)
+HTML (10yrs), CSS (3yrs), Wicket (3yrs), JSP (5yrs), WML (5yrs), XML (5yrs), XML-RPC (5yrs) & Soap WS (2 yrs).
+Mobile Telecommunications, Billing Systems, Financial Systems & Data Feeds 
+(Diameter, Ericsson SCAP, Siemens PaymentPlugin)
+Maven (3 yrs), JUnit (5yrs), EasyMock (3yrs) & Ant (7yrs)
+XP, Scrum, Unit-testing, Test-driven design, Continuous Integration.
+
+Operating Systems:
+Unix (Sun Solaris, OSX, Linux, Ultrix, OSF/1), Win32 & Win16, VMS.
+Technical Roles:
+Consultant, Designer, Analyst, Programmer, Second/Third-level Support, WWW Developer/Administrator, Systems Manager, Tester and Technical Writer.
+Typical Applications Used:
+Jetty, Tomcat, Oracle, SQL*Plus, IntelliJ, SVN, Ant, Maven, ClearCase & WireShark 
+Employment History
+Feb 2004 to Present		SmartTrust Ltd, Windsor, Stockholm and Teleworking.
+I rejoined SmartTrust as a Solution Consultant in the Custom Development group, creating and supporting custom solutions for customers, typically extending or interfacing to the core products and supporting and enhancing existing TopUp systems.  This frequently entailed interfacing to various third-party billing systems, but also involved designing & implementing solutions to customer-specific problems.  As the company emphasis moved away from custom solutions and the TopUp solutions became mature, my role was primarily split between billing-interface development & support and WML-based web-app development, but still providing ongoing support for the various Custom Development solutions.  This involved team working in Windsor and Stockholm combined with tele-working with distributed teams at remote sites. Billing system integrations included interfaces to a Huwawei Diameter-based system, Ericsson SCAP systems and Siemens PaymentPlugin systems while custom developments included Python & Django as well as Java, using tools & APIs such as Wicket, JUnit, EasyMock, JSTL, SQL (Ibatis/Hibernate), Maven, ClearCase, SVN & Hudson. 
+In addition, I provide second/third-level support for billing integration servers for engineers at customer sites and have implemented various XP-related features, such as Continuous Integration tools to various project teams.
+Technologies I’ve developed with include various customer-specific web-interfaces, including some supporting English and Arabic using JSPs and Apache Wicket, a Cell Broadcast management application and a SMSC address management application interfacing to a customer API.  I also championed the use of Maven to help with build issues and introduced a corporate repo and a departmental wiki.
+More recently I’ve completed updating and re-releasing an Swing-based GUI application, updating its user-interface, documentation, tests and build procedure into a repeatable, automatable routine.
+Sept 2001 to Jan 2004		Zaryba Ltd, Englefield Green and Teleworking.
+I joined Zaryba to provide technical expertise for the company.  I had responsibility for the complete technical life-cycle of the product.  (Detailed design, development, testing, implementation and support.)  The work location was split between tele-working and the office. 
+I developed and deployed the product onto Sun Solaris systems using BEA Weblogic 6.1 and Oracle 8i/9i databases.  J2EE technologies used include EJBs, JMS, JDBC, JCE (Java Cryptography Extensions) and Servlets.  Development applications used included CVS, Ant, XDoclet and IntelliJ IDEA.  Web applications were developed using FreeMarker, Niggle, Millstone and Struts.  Other technologies used included XML-RPC (for interfaces to third-parties) and SQL*Plus (for system reports generation).  Customer-specific developments included connections to Euronet Payment Gateways, Ericsson/ SchlumbergerSema PPAS systems and Siemens IN systems.  
+I also setup and maintained various corporate support systems, including networking, source control, backup systems, document synchronisation, bug tracking and demo systems.
+March 2001 to Sept 2001		JDev Ltd, Various Locations.
+Working as a Consultant, providing Java development expertise for various clients.
+May 2000 to March 2001		Sonera SmartTrust Ltd, Stockley Park.
+I was employed as a Senior Software Developer, providing Java development expertise plus support and mentoring for junior developers.  I developed the mobile client interfaces for an EJB-based PAYG Topup system using Servlets & JSPs to produce WML/WAP pages.  Also created an XML (XML-RPC) interface.  Designed & developed the server-side system for a PKI trial involving a UK mobile operator and a UK government department.  This involved the use of Servlets, JSP, JDBC, SQL and JCE, allowing the user to enter form data via a series of web pages then sign the summary via a PKI system on their mobile handset. Designed and developed a media content server as part of a secure media service, involving registering media devices & purchases and serving selectively encrypted audio files.  This used Java Servlets as the core technology, with JSPs and tablibs used to provide control and administration pages.  Developed an internal JCE provider for secure signing, which involved the use of DESede (TripleDES) symmetric encryption used to produce MAC codes for message verification.
+
+July 1991 to April 2000		OpenTrade1 / DESISCo/MTi, Uxbridge/Harrow
+I was involved in a range of areas covering VMS, Windows NT, Unix & Windows.  These included new product design & development, product porting, support and trouble-shooting, both at Uxbridge/Harrow and at client sites.  I progressed from C to C++ then Java, reaching the level of Technical Consultant/Senior Developer.
+I joined to provide VMS expertise for a port of their system from Unix to VMS. I developed a cross-platform control app, allowing site-wide, cross-platform system configurations. I re-wrote feed-handlers from apps that could run efficiently on VMS or Unix and extended VMS I/O api’s to cope with networked task-to-task communications as well as porting VMS based apps to Unix(Ultrix).
+Determined there was a role for a server-based feed-handler product and developed a Java API and implementation, allowing clients feed-neutral access to various forms of real-time financial data.
+Sep 1986  to Jun 91		Security Pacific Hoare Govett, City of London..
+I joined SPHG as one of a team of five responsible for the design, development and implementation of a financial dealer information network (DIN). This system consisted of feed-handler and dealer workstation MicroVaxes passing real-time data via an in-house, dual-ethernet network distribution system that the team developed.  I designed a package of core routines to aid the development of page-based data-feed handlers for this system.  Using these, I implemented feed-handlers for Reuters RDCDF and Telerate SOP protocols. 
+After the above, I designed and developed a GUI for the system to run on VAXstations using the UIS windowing system. I then designed/implemented a second VAXstation based GUI, based in this case on DECwindows XUI/X-windows.  Software development was done using Vax C on MicroVAXes and VAXstations running VMS (Versions 4.5 through to 5.3).
+Aug 1984  to Sep 86	Plessey Naval Systems Ltd., Addlestone, Surrey.
+I started at Plessey as a member of a team designing and implementing a real-time record storage/management facility for a naval command and control system. After completion of the above, I became involved in the system integration and testing of the complete system. 
+Education
+1981 – 1984: University of Essex: B.Sc. in Computer Science (Hons) – 3
+1974 – 1981: Gwernyfed High School, Powys, Wales: 3 A-levels, 7 O-levels
+Interests and Personal
+Family, Technology, Reading, F1 motor racing.
+DOB: 23-01-63
+Nationality: British
+Full Driving Licence
+Married with 2 children
+
+
+Salary details and references can be provided upon request.

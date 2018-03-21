@@ -1,0 +1,50 @@
+Evalyn 
+Simonis
+677 Filiberto Skyway 
+Chicago 
+IL 
+ 
+Phone
+ +1 (555) 998 0340
+EXPERIENCE
+SENIOR PYTHON DEVELOPER
+07/2014 – present
+Discusses technical and design issues with other developers, managers, users or customers whenever necessary to achieve best solution
+Familiarity with Tornado, Robot test framework, Continuous Integration environment (Jenkins), SDN, network switches/routers and DevOps a plus
+Mentors and assists activities of junior developers
+Help recruit and grow development talent
+Implement or leads the implementation of complex solutions with minimal technical debt. Develop solutions that are easy to deploy, maintain, and are bug free
+Participating fully in the development process through the entire software lifecycle
+Participating fully in Agile software development process
+PYTHON DEVELOPER
+11/2008 – 06/2014
+The work will involve the development of workflows triggered by events from other systems
+Develop easy to use documentation for the frameworks and tools developed for adaption by other teams
+Iterate rapidly and work collaboratively with product owners, developers, and other members of the development team
+Work closely with Teams across the BU to create comprehensive test tools and automation frameworks
+Works with other team members, including DBA's, Other ETL developers, Technical Architects, QA, Business Analysts & Project Managers
+Work directly with project owners across the business and plan, manage and execute key projects
+Follow and improve established processes for software development life cycle with an agile approach to delivery software
+JUNIOR PYTHON DEVELOPER
+04/2005 – 08/2008
+Develops processing, archiving, and recovery procedures for systems. Provides production procedures for programs
+Develop relationships with the Quant and Financial Development Teams to resolve pricing related issues
+Coordinate, communicate and provide technical support to other functional groups relating to web applications
+Development of at least one (1) NSA TYPE I security product using NSA IAD security practices
+Investigate new technologies, tools and processes and make recommendations for adoption
+Network Security
+Contribute to the design and development of application features
+EDUCATION
+BELMONT UNIVERSITY
+SKILLS
+Excellent communication skills, and good attention to details
+Being innovative in creating re-usable patterns, frameworks and components for scalable Enterprise quality solutions, utilising a variety of technologies
+Strong sense of ownership, ability to work independently, and have strong communication skills
+Strong knowledge of operating system knowledge (Linux, Unix)
+Good oral and written communication skills, analytical skills and a highly professional attitude are essential
+Ability to learn quickly and an interest in using distributed computing to solve complex problems are highly desired
+Thorough knowledge of statistics and econometrics and experience with statistical software (SAS, R) highly desirable
+Detailed knowledge of cross-platform development using C++, including modern features provided by C++11 and/or the Boost libraries; and
+Knowledge of capital markets and risk management very desirable
+Database technology (Graph databases highly desirable)
+

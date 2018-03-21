@@ -1,0 +1,127 @@
+mahima 
+
+Citizenship : Indian
+
+
+
+
+Profile
+Summary
+Over 3+ years of experience in IT Industry in Java (J2EE) using core and Advanced java well acquainted with software development life cycle.
+Proficient knowledge in JDBC, Swing,  Servlets, JSP, EJB, Hibernate, Struts  using Apache Tomcat, Web Logic as server technologies.
+Experience in System level applications, Enterprise world applications and web enabled applications using Java, Swing, JSP, Servlets and Struts.
+Project experience using Servlets, JSP, JDBC, EJB, Swing, Struts. 
+Project experience using Eclipse, Net bean .
+Developing applications in MVC architecture using Struts framework.
+Good exposure to Web/Application servers Tomcat/ Weblogic
+Excellent team member possessing good communication and interpersonal skills.
+I would take up assignments with enthusiasm and challenges, playing positive role in the team and ability to interact with individuals at all levels.
+
+
+
+Key Skills
+Proficient or familiar with a vast array of programming languages, concepts and technologies, including:
+Languages		             :   Java (Core java, Swing), J2EE
+Testing                                       :   Manual Testing, JUnit, JMeter.  
+Operating Systems		:   Windows, Linux.
+Server Components		:   Servlets, JSP, EJB
+Frame works			:   Struts. 
+Server Technology		:   Tomcat , Web Logic.
+Database Connectivity	:   Java Database Connectivity (JDBC).
+RDBMS			:   Ms Access, Oracle, Mysql.
+Internet Technologies  	:   Ajax, HTML, XML,DTD,XSL, JavaScript
+IDE/Tools                                 :   Eclipse, Net bean, Swing Designer.  
+
+
+Professional Experience
+Working  as  Software Engineer in Pearl Software, Bangalore from Dec 2009 to till date.  
+Worked as Software Programmer for Genser Aerospace Pvt. Ltd. Bangalore from Sep 2008 to Feb 09
+Worked as Software Engineer for iProSoft Solutions Pvt. Ltd. Bangalore from Feb 2007 to Aug 2008
+Worked as  Software Engineer for  N.S. Solutions  Pvt. Ltd. Bangalore from April 2006 to Jan 2007
+
+
+Education
+2004
+B.E.  From  R.P.S.I.T, Patna                                                                          Marks, 70%
+1997
+Intermediate  From  Gossner College, Ranchi                                          Marks, 50%
+1995
+Matriculation  From  R.P.R.H.S, Baghwa, Saharsha .                              Marks, 64%
+
+
+Domains
+                Investment Banking , ERP
+
+Projects Descriptions
+ Project #1
+Client             :  Boschung  
+Duration         :  Dec 2009 to till date  
+Role               :  Developer 
+Project Name : MDSS(maintenance decision Support System)
+  Platform         : Java Swing, core java, XML
+Description : 
+              The objective of the MDSS project is to provide a tools for decision support system to winter road maintenance managers. The MDSS is a complex system that merges state-of-the-art weather forecasting with computerized roadway maintenance rules of practice. Output from the system consists of a series of optimizes road treatment guidance geared specifically for winter road maintenance manager.
+  Responsibilities  :       SAM(signaling and alerting machine)
+                                      Design and implementation of SAM.
+                                      Writing Classes and Connectivity of SAM.
+                         Development of Test cases and Test Execution for File Conversion Utility
+                         Designing test cases as per the given specification.
+Project #2
+Client              :  In House   
+Duration          :  Oct  2008 to Feb 2009  
+Role                :  Developer 
+Project Name  : RFQ & Quotation Generator (Request For Quote & Quotation Generator).
+Environment    : Core Java, Swing, Oracle,  Eclipse and Windows.
+Description : 
+              One of mainline Objective of Genser is sourcing and supply of aviation, electronic parts and other aerospace related parts across the globe. The purpose of this document is to specify the functional requirement of sourcing for the software design and development team. The software is intended to serve as a complete support for trading team in process of seeking enquiries, processing of enquiries, Quotation processing, follow up Quotation and Processing System. 
+Responsibilities :        Requirement Analysis Of RFQ Generator. 
+	           Design and implementation of RFQ Generator.    
+	           Writing Classes and Database Connectivity. 
+                                     Development of Test cases and Test Execution
+Project #3
+ Client		 : Corpay Solution.   
+ Duration	 : Jan 2008 to Sept 2008  
+ Role	              : Developer.
+ Project Name    : IT Sys (Investment Tracking System).
+ Environment      : Struts, Hibernate, My Sql, My Eclipse, Web logic  and Windows.
+ Description:
+                            Investment Tracking System is an automation application that simplifies the Tracking of once investment in mutual fund and also asset, management company’s work flow automation. Investment Tracking system is quick reference of the Investors which let them know the current profit or loss. He is in allowing the Investors to analyze the performance of his investment by observing the current Trend in the market. It has Administrator and Investor Modules 
+ Responsibilities:        Implementation of WebPages using jsp
+	         Involved in developing form and navigation using jsp    
+	         Involved in developing Action forms using Struts.
+                                   Development of Test cases and Test Execution  Online Check Book Request
+                      Preparing Test scenarios, Test Cases based on SRS for UI and Functional testing  
+ Project #4
+ Clien                 : Cansoft System  
+ Duration           : March 2007 to Dec 2007   
+ Role	             : Developer.
+ Project	Name    : Investmentz 
+ Environment     : Struts, Hibernate, My Sql, My Eclipse, Web Logic  and Windows.
+ Description: 
+               Investmentz is an online share trading software that design to maintaining the stock of share of an organization and provide information about share trading and market news, customer buy and sell share online and retrieve the vital information about the stock exchange. It has several modules like: Administration, Operator, Transaction, Account, Registration, Report Design.
+ Responsibilities:          Implementation of WebPages using jsp
+	           Involved in developing Action forms using Struts.
+                        Development of Test cases and Test Execution  Online Check Book Request
+                        Preparing Test scenarios, Test Cases based on SRS for UI and Functional testing  
+ Project #5	
+ Client		 : Unique Instruments. 
+ Duration	 : April 2006 to Jan 2007  
+ Role	              : Developer.
+ Project Name    : POMS & MOS (Purchase Order Management System / Manufacture Order System).
+ Environment      : Core Java, Swing, Oracle,  Eclipse and Windows.
+ Description:
+              Purchase Order management System it is a small ERP Project. POMS maintain the client purchase order records like Parts, Row material , PO date, PO due date . Parts Delivery records whether the parts dispatch with same gate Pass number and batch number or not, within Valid PO date. Status of particular Purchase Order/Parts whether all order are dispatch or not, if not how many remaining what is due date.  
+ Responsibilities:          Requirement Analysis Of  POMS & MOS. 
+	           Design and implementation of POMS & MOS using Swing.    
+	           Writing Classes and Database Connectivity(Jdbc). 
+                        Developing Test Case and Test Case Execution.
+                        Involved in Usability Testing.
+                        Test cases preparation , documentation and Performing the GUI check.
+
+Noida Internet Service Pvt. Ltd., Noida (U.P)
+                                            Permanent Jobs
+H/W & N/W Engineer.
+Feb 2005 to Jan 2006
+
+
+

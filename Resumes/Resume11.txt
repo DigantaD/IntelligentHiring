@@ -1,0 +1,585 @@
+Vladimir M
+General Qualifications
+		Over 10 years of experience of software designing;
+		great professional experience of object-oriented designing for Windows, designing of database applications;
+		Good skills of designing of applications with client/server technology (C#, MS SQL Server, Visual C++, Oracle, Visual Basic);
+		Profound experience in ASP.NET, ADO.NET, ADO, COM, OLE, ActiveX, (DCOM and CORBA in theory);
+		Extensive experience of working out of application for Internet using HTML, DHTML, VBScript (based on ASP technology), JavaScript;
+		great professional experience of development Geographical Information Systems (GIS) and Corporate Research Development.
+Education
+1883-1888 - Kharkov University of Radio and Electronics (Ukraine), specialty "applied mathematics", qualification is Engineer - Mathematician
+1991 - 1994 - Department of Engineering and Computer Graphics on specialty "CAD Systems".
+Certifications
+Name:
+Date:
+Authority:
+Score:
+
+2008-04-08
+Brainbench
+4.61
+
+2007-12-08
+Brainbench
+4.84
+
+2007-12-05
+Brainbench
+4.61
+
+2007-11-19
+Brainbench
+4.74
+
+2006-04-26
+Brainbench
+3.78
+TOP on the first place of ASP Classic Ukraine.
+
+TOP on the first place of ASP.NET Ukraine.
+
+TOP on the third place of C++ Kharkov Ukraine.
+
+TOP on the third place of C# Kharkov Ukraine.
+
+Technical Summary
+n
+Operating Systems:
+Windows 2003, Windows XP, Windows NT 4.0, Windows 9x, Windows 3.11, DOS.
+Languages of designing:
+UML.
+Programming languages:
+C#, Visual Basic.NET, C++, Java2, Visual Basic, VBA, SQL, Transact-SQL, PL/SQL, HTML, DHTML, XML, VB Script, JavaScript, C, Pascal, AutoLisp, ESRI Avenue, SharePoint.
+Compilers and tools:
+Visual Studio DOT.NET, DotNetNuke, Visual C++ 4.0 - 6.0, JBuilder 3.5-8 Enterprise edition, JDK 1.1 - 1.4.1, Delphi version 1.0 - 6.0, Visual Basic version 5.0 - 6.0, ASP, AutoCAD 14, ArcView 3.1, Rational Rouse 2000, ERwin ERX 3.5.3 - 4.0.
+Libraries:
+Win16 - Win32 API, DAO, ADO, RDO, ODBC API, MFC, ATL, VCL, Oracle Objects for OLE.
+Database management system:
+MS SQL version 6.5 - 2005, Oracle 8.1.5i - 10i, InterBase version 4.0 - 5.0, MS Access 95 - 2003, Paradox version 5.0 - 7.0, dBASE version III - IV.
+Skills Summary
+n
+Product / Language / Tools
+Level
+Years used
+Last time used
+Delphi 1.0-7.0, VCL, BDE, ReportSmith, QuickReport, MHW.
+Senior
+8
+2003
+Visual Basic 5.0-6.0
+Senior
+6
+Currently
+C#. Microsoft Visual Studio .NET (v 2001, v 2003, v 2005, v 2008)
+Senior
+5
+Currently
+SQL 92
+Senior
+5
+Currently
+MS SQL Server (v 6.5, v 7.0, v 2000, v 2005, v 2008 Beta)
+Senior
+4
+Currently
+HTML 4.0
+Intermediate
+4
+Currently
+ASP.NET (v 1.1, v 2.0)
+Senior
+4
+Currently
+Microsoft Visual C++ 5.0-7.0, MFC
+Senior
+4
+2006
+Java 2 (JBuilder 3.5-8 Enterprise edition)
+Senior
+4
+2004
+Oracle 8.1.5i- 9i, PL/SQL
+Senior
+4
+2006
+Access 95-2003
+Senior
+4
+2004
+DAO 3.0-3.5/RDO/ADO/ADO.NET
+Intermediate
+4
+Currently
+Win 32 API
+Senior
+4
+Currently
+AutoCAD 10-14, AutoLisp
+Senior
+4
+1999
+Visual Basic Script
+Intermediate
+3
+Currently
+Visual Basic Script
+Intermediate
+3
+Currently
+Crystal Reports 8.5.
+Intermediate
+2
+2005
+Visual Basic .NET. Microsoft Visual Studio .NET (v 2003, v 2005)
+Intermediate
+2
+Currently
+ArcView 3.1, Avenue
+Intermediate
+2
+1999
+Visual InterDev 6.0
+Intermediate
+2
+2005
+Visual Basic for Application
+Intermediate
+2
+2000
+InterBase 4.0-5.0
+Intermediate
+2
+1999
+Erwin ERX 3.5.3-4.0
+Intermediate
+2
+Currently
+Professional Experience
+05/2008 - currently - present Company A
+Role:Team Leader, Project Architect, Senior Programmer.
+Project A
+Create social network engine.
+Tools and Technologies:
+		Windows 2008,
+		C#,
+		ASP.NET 2.0,
+		FrameWork 3.5,
+		WebParts,
+		Windows Communication Foundation,
+		WebServices,
+		MS AJAX Control Toolkit,
+		JavaScript,
+		MS SQL 2005,
+		DotNetNuke,
+		VB.NET.
+ 
+08/2007 - 05/2008 - presented Company B
+Role:Team Leader, Project Architect, Senior Programmer.
+Project  A
+Tools and Technologies:
+		Windows 2003,
+		C#,
+		ASP.NET 2.0,
+		WebParts,
+		WebServices,
+		Ajax,
+		JavaScript,
+		WWF,
+		MS SQL 2005.
+Old Tools: ASP Classic, ASP.NET 1.1, Visual Basic 6.0, VB Script.
+
+Project B
+Description: Bank credits. With Same Day Cash, you can initially request up to £200 and promise to pay us back within 30 days. We usually get the money into your bank account within an hour. 
+Tools and Technologies:
+		Windows XP,
+		Framework 3.0,
+		C#,
+		ASP.NET 2.0,
+		WebServices,
+		Windows Workflow Fundation,
+		Ajax,
+		JavaScript,
+		MS SQL 2005.
+ 
+01/2007 - 07/2007 - presented Company C
+Role: Senior Programmer.
+
+Project A
+Description: Search and the order of hotels in the USA
+Tools and Technologies:
+		Windows XP,
+		Visual Studio 2005,
+		C#,
+		VB.NET WebServices,
+		MS SQL 2000.
+Old technologies: Visual Studio 2003, Visual Basic 6.0, ASP.
+Project B
+Description: Scanning barcode on PDA. Use of the central database of warehouses and UPC code.
+Tools and Technologies:
+		Windows XP,
+		Compact FrameWork,
+		VB.NET,
+		C#,
+		WebServices,
+		WebExtension,
+		MS SQL 2005,
+		MS SQL 2005 Mobile Edition.
+
+Project C
+Description: Trace of a way on a map.
+Tools and Technologies:
+		Windows XP,
+		C#,
+		ASP.NET 2.0,
+		WebServices,
+		JavaScript,
+		AJAX,
+		MS SQL 2000.
+Project D
+Description: WEB filters and management of traffic.
+Tools and Technologies:
+		Windows XP,
+		C#,
+		ASP.NET 2.0,
+		Visual C++ 7.0,
+		MS SQL 2000,
+		Oracle 8i, 9i, 10i.
+ 
+04/2005 - 12/2005 - presented Company D
+Role: Team Leader.
+Project A
+Description: Projects Manager of firms
+Tools and Technologies:
+		Windows XP,
+		C#,
+		ASP.NET,
+		MS SQL 2000.
+Role: Senior Programmer.
+Project B
+Description: Windows part of Conduit of Palm OS.
+Tools and Technologies:
+		Windows XP,
+		ActiveX,
+		C#.
+Role: Team Leader
+
+Project C
+Description: Project of marketing.
+Tools and Technologies:
+		Windows XP,
+		C#,
+		ASP.NET,
+		WEB Services.
+		Role: Senior Programmer. 
+Project D Description: Project of customer management
+		Tools and Technologies:
+		Windows XP,
+		C#,
+		MAPI,
+		ASP.NET,
+		WEB Services.
+		Project E Description: Project storage data from Outlook to database. Outlook plug-in.
+		Tools and Technologies:
+		Windows XP,
+		C#,
+		Object model of Outlook,
+		MS Exchange,
+		MS SQL 2000,
+		ASP.NET,
+		WEB Services.
+		Project E Description: Database Application to store and synchronize with PocketPC.
+		Tools and Technologies:
+		Windows 2000,
+		Visual Basic 6.0 conduit,
+		VB.NET application.
+		Project F Description: Global parcel tracking webservices (e-mail notification, barcode, weight tracking).
+		Tools and Technologies:
+		Windows 2000,
+		C#,
+		ASP.NET,
+		ActiveX,
+		WEB Services,
+		MS SQL 2000.
+		  03/2004 - 03/2004 - presented Company E
+		Role: Senior Programmer. Project A Description: Creating universal bridge to DLL usage WEB server TomCat.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual C++ 6.0,
+		ActiveX,
+		JDK 1.4,
+		JNI,
+		TomCat.
+		Project B Description: Creating library of components - ActiveX Control to projects of Visual Basic 6.0. Creating of components - Data Base.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual Basic 6.0,
+		ADO,
+		ActiveX.
+		Project C Description: Scanning, transformation of images - Java. Using ActuveX component -ImageEnXLibrary.ocx.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual C++ 6.0,
+		ActiveX,
+		JNI,
+		JDK 1.4.
+		  10/2003 - 12/2003 - presented Company F
+		Role: Senior Programmer. Project A Description: Production records og gas.
+		Tools and Technologies:
+		Windows 2000,
+		Delphi 7.0,
+		VCL,
+		ADO,
+		MS-SQL 2000.
+		  03/2004 - 03/2004 - presented Company G
+		Role: Senior Programmer. Project A Description: Source code conversion of Java to Visual Basic.
+		Tools and Technologies:
+		Windows 2000,
+		Excel,
+		VBA.
+		Project B Description: Enterprise accounting through of WEB interface. Connection of calculation part (ActiveX DLL, Visual Basic 6.0) to Java (JNI JNI technology, intermediate bridge Visual C++ 6.0). WEB interface JSP, WEB server TomCat.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual Basic 6.0,
+		Access 2000, ADO,
+		ActiveX,
+		Crystal Reports 8.5.,
+		Microsoft Visual C++ 6.0,
+		JBuilder 7 Enterprise edition,
+		JNI,
+		JSP,
+		TomCat.
+		
+		Project C Description: Enterprise accounting through of WEB interface. Connection of calculation part (ActiveX DLL, -- Visual Basic 6.0) to Java (JNI technology, intermediate bridge -- Visual C++ 6.0). WEB interface -- JSP, WEB server TomCat.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual Basic 6.0,
+		Access 2000,
+		ADO,
+		ActiveX,
+		Crystal Reports 8.5.,
+		Microsoft Visual C++ 6.0,
+		JBuilder 7 Enterprise edition,
+		JNI,
+		JSP,
+		TomCat.
+		Project D Description: Creating protected mode of WEB server TomCat. DLL, incoming by customer (without source codes) and have memory leak.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual Basic 6.0,
+		ActiveX,
+		Microsoft Visual C++ 6.0,
+		JDK 1.4,
+		JNI,
+		TomCat.
+		Project E Description: Production management (IT development) on the basis of the common database of firm. WEB the interface for all departments.
+		Tools and Technologies:
+		Windows NT2000,
+		Oracle 9i,
+		Erwin ERX 4.0,
+		PL/SQL,
+		JBuilder 8 Enterprise edition,
+		JSP,
+		TomCat.
+		
+		Project F Description: Accounts department through WEB. Connection of a calculation part (ActiveX DLL, developed on Visual Basic 6.0) to Java (JNI technology, intermediate bridge on Visual C++ 6.0). WEB The WEB is realized on JSP, WEB server TomCat.
+		Tools and Technologies: n
+		Windows 2000,
+		Microsoft Visual Basic 6.0,
+		Access 2000,
+		ADO,
+		ActiveX,
+		Microsoft Visual C++ 6.0,
+		JBuilder 7 Enterprise edition,
+		JNI, JSP,
+		TomCat.
+		Project G Description: Accounts department. Creation calculation ActiveX DLL (developed on Visual Basic 6.0). The data on employees are kept in database Access 2000. The user interface is realized on Visual Basic NET.
+		Tools and Technologies:
+		Windows 2000,
+		Visual Basic 6.0,
+		Microsoft Visual Basic NET,
+		Access 2000,
+		ADO,
+		ActiveX,
+		Win 32 API,
+		Crystal Reports 8.5.
+		Project H Description: Calculation of wages pensions through WEB. Connection of a calculation part (DLL, developed on C++) to Java (JNI technology). The WEB is realized on JSP, WEB server TomCat.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual C++ 6.0,
+		JBuilder 7 Enterprise edition,
+		JNI,
+		JSP,
+		TomCat.
+		Project I Description: Calculation of pensions through WEB. Connection of a calculation part (DLL, developed on C++) to Java (JNI technology). The WEB is realized on JSP, WEB server TomCat.
+		Tools and Technologies:
+		Windows 2000,
+		Microsoft Visual C++ 6.0,
+		JBuilder 7 Enterprise edition,
+		JNI,
+		JSP,
+		TomCat.
+		  01/2002 - 04/2002 - presented Company H
+		Role: Senior Programmer. Project A nDescription: Working process of firm on trade of tackle. Interaction of a database of the central office and two branches, management of commodity circulation, reports.
+		Tools and Technologies:
+		Windows 2000,
+		ASP,
+		VBScript,
+		Access 2000,
+		VBA,
+		Excel 2000,
+		Win 32 API.
+		Project B Practical part on Java2.
+		Tools and Technologies:
+		Windows 2000,
+		JBuilder 7 Enterprise edition,
+		UML,
+		Rational Rose 2000 Enterprise Edition.
+		Project C Description: Work with database - management of educational process.
+		Tools and Technologies:
+		Windows NT2000,
+		Oracle 8.1.6i,
+		PL/SQL,
+		JBuilder 7 Enterprise edition,
+		Delphi 6.0.
+		Project D Description: The firm of realtor workflow.
+		Tools and Technologies:
+		Windows NT 4.0,
+		ASP,
+		MS Visual Basic 6.0,
+		Access 2000.
+		Project E Tools and Technologies:
+		Windows,
+		MS Visual C++ 5.0,
+		MS SQL 7.0.
+		Project F Description: Teacher from programming languages.
+		Tools and Technologies:
+		Windows NT 2000,
+		Access 2000,
+		VBA.
+		Project G Description: Managing with allocation of the land areas.
+		Tools and Technologies:
+		Windows NT4.0,
+		Visual Basic 6.0,
+		DAO 3.5,
+		ArcView 3.1,
+		Avenue,
+		Access 97.
+		Project H Description: The software module based on ActiveX technology was worked out. The CD-ROM "Bank of commercial propositions" was released out. It contains information about firms, institutions, establishments, etc. of Kharkov city. The objects are managed with GIS based on geographical map (scale 1:10000). The map has vector form and is operated with the module mentioned above.
+		Tools and Technologies:
+		Windows 95,
+		Visual Basic 6.0,
+		DAO 3.5,
+		Win 32 API,
+		ActiveX,
+		Access 97.
+		Project I Description: The program based on geographical map of Kharkov (scale 1:20000) was worked out. The module of graphics displaying based on ESRI MapObject 1.2. library was worked out.
+		Tools and Technologies:
+		Windows 95,
+		Visual Basic 6.0,
+		DAO 3.5,
+		Map Object 1.2,
+		dBASE IV,
+		Access 97.
+		Visual Basic 6.0.
+		Project J Description: The module of data transferring with protocols TCP/IP, HTTP, FTP.
+		Tools and Technologies:
+		Windows 95,
+		ASP,
+		Visual Basic 6.0,
+		ActiveX,
+		PowerTCP.
+		Project K Description: Hardware-software complex.The main goal of the project is working out of the system intended to automated detection of person making anonymous telephone calls about acts of terrorism (for instance, hidden bomb) and location where such call was made. The next modules were worked out:
+		The "Server" module performs processing of signals received from telephone station;
+		The "Operator" module is finding out the address of place where the call is made;
+		The "Manager" module creates reports, performs checking of operators, collecting statistics.
+		The "Support" module performs validation of data stored in database, provides possibility of telephone number modification.
+		Tools and Technologies:
+		Windows NT4,
+		Delphi 4.0,
+		VCL,
+		BDE,
+		Quick report,
+		Win 32 API,
+		Paradox 7.0.
+		Project L Description: The next programs where worked out:
+		"The Montage specification";
+		"The Technological specification";
+		"Building up of 3D model of the technological equipment".
+		Tools and Technologies:
+		Windows NT4.0,
+		Visual Basic 6.0,
+		AutoCAD 14,
+		AutoLisp,
+		DAO 3.5,
+		Access 97.
+		Project M Description: Processing of orders to products.
+		Tools and Technologies:
+		Windows NT4.0,
+		Visual Basic 6.0,
+		DAO 3.5,
+		Access 97.
+		Project N Description: Database management system of firm: a warehouse, implementation of production.
+		Tools and Technologies:
+		Windows NT4.0,
+		Delphi 4.0,
+		VCL,
+		BDE,
+		InterBase 4.0.
+		Project O Description: Localization of crashes on ammonia networking, calculation of distribution of a cloud of ammonia, evacuation of the population, allocation of repair brigades. The module was implemented being based on ESRI MapObject 1.2.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 3.0,
+		VCL,
+		BDE,
+		Map,
+		Object 1.2,
+		dBASE IV,
+		Paradox 7.0.
+		Project P Description: The program of registration of resources of firm was worked out.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 3.0,
+		VCL,
+		BDE,
+		dBASE IV.
+		Project Q Description: The system of designing of the technological processes was worked out.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 3.0,
+		VCL,
+		BDE,
+		dBASE IV.
+		Project R Description: The program to operate with cable network documentation was worked out.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 3.0,
+		VCL,
+		BDE,
+		Paradox 7.0.
+		Project S Description: The program to operate with cable network documentation was worked out.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 3.0,
+		VCL,
+		BDE,
+		Paradox 7.0.
+		Project T Description: Instrumental geoinformational system. Where created modules:
+		Inspector of the graphical object's properties;
+		Visual creator of queries to the data in the database;
+		Creating and administrating of the database of GIS;
+		Exporting tables of the database to another common format;
+		Support of the protocol of operations;
+		Data recovery.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 2.0 - Delphi 3.0,
+		VCL,
+		BDE,
+		Paradox 7.0.
+		Project U Description: The module performing processing of graphical information.
+		Tools and Technologies:
+		Windows 95,
+		Delphi 1.0,
+		VCL,
+		Win 32 API.
+		English skills: Pre-Intermediate. 

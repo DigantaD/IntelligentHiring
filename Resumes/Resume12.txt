@@ -1,0 +1,39 @@
+Frank Holdstrom
+123 Main Street, San Francisco, CA 94122
+Home: 000-000-0000 | Cell: 000-000-0000
+email@example.com
+Professional Summary
+Python Programmer available to fulfill all requirements of the position of Python Programmer with a reputable company in need.
+Core Qualifications
+Highly-qualified in Python programming for many different industries
+Extremely good problem solving skills 
+Great at working in high-pressure situations
+Extensive knowledge of basic and higher mathematics
+Available to put in extra hours or travel when needed
+Experience with many versions of Python as well as their differences and features
+Open to learning and using new systems involved in Python Programming
+Experience
+Python Programmer
+8/1/2007 – Present
+Python
+Huntington, NC
+Travel to different companies to introduce and encourage the use of Python programming to computer technicians
+Work with companies to implement Python programming and train on-site Python Programmers 
+Speak at conferences and make presentations regarding Python as well as its applications and features
+Act as guest speaker in college programs to educate students on programming options
+Develop readable and simple curriculum for the average user to get started with Python
+Python Programmer
+7/1/2004 – 8/1/2007
+SultonCorp
+Raleigh, SC
+Used Python programming and language to develop a working and efficient network within the company
+Utilized Python in the handling of all hits on Django Redis and other applications
+Performed research regarding Python Programming and its uses and efficiency
+Developed object-oriented programming to enhance company product management
+Education
+BachelorÕs Degree
+XXXX – XXXX
+Computer Science Clemson University
+Clemson, SC
+
+

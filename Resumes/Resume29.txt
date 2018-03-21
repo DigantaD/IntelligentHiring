@@ -1,0 +1,165 @@
+Mahesh Reddy
+
+Objective
+To work in a dynamic company where my analytical/technical skills and work experience are utilized. Looking for a Project lead/Tech lead position.
+
+Summary
+Over 8 years of IT Industry experience in Java/J2EE encompassing a wide range of skill set, roles and industry verticals 
+Extensive experience with analysis, design, development, customizations and implementation of software applications.
+Experience in Leading Teams, Client Co-ordination, Delivery and Software Configuration Management.
+Proficient in analyzing and translating business requirements to technical requirements and architecture design.
+Domain experience of Investment Banking, Financial Services, Retail and HealthCare.
+Possess technical expertise in Java, Servlets, Struts, hibernate, EJB, WebServices, and various databases.
+Experience with various Architectures, Frameworks and Design Patterns.
+
+Technical skills
+Java Technologies		Java, J2EE, Servlets, JSP, JDBC, EJB
+Frameworks/Tools	Struts, Hibernate, Spring, Apache Axis, Crystal Reports SDK, 
+Apache POI, log4j, DOM, Ant, Google Analytics and Maps API, Java Cryptography
+Database			Oracle9i , SQLServer 2005, MySql 5
+Application/Web Servers	WebLogic8.1, Tomcat5.0, WebSphere AS 5.1, ApacheWebServer2.2
+UI Tools			ExtJS, AJAX, JavaScript, JSON
+GUI/IDE	Eclipse3.3, NetBeans, WSAD5.0
+Case/Design Tools		UML, SOA, Design Patterns
+Reporting Tools		Crystal Reports XI, iText Library.
+OS Environment		Windows, Solaris8.0, IBM AIX3.5, RedHat Linux.
+Languages			C, C++, SQL, PL/SQL, XML, JavaScript
+Version control tool		StarTeam 2005, VSS.
+Other Tools			MS Project, MS Visio.
+Experience
+October 2008 – Present AUXANO Technologies, Mumbai   
+Auxano provides IT Services in the area of Publishing, Healthcare and Business Consulting.
+Primarily catering services to eCrossingsMedia, is a part of Lebhar-Freidman, Inc. USA.
+Roles assigned: Project Lead
+
+September 2005 – March 2008 Infrasoft Technologies, Mumbai   
+Infrasoft Technologies is a specialist Banking and Financial Solutions Company
+Roles assigned: System Analyst
+
+January 2002 – August 2005 Pentafour, Bangalore
+Roles assigned: Software Engineer  
+
+Feb 2000 – December 2001 Apollo Software, Hyderabad
+Roles assigned: Admin/Trainer.
+
+Education
+
+1997 – 1999    	Master of Business Administration (Systems) 
+- Sri Venkateswara University, Tirupati, AP
+1996 – 1997    	Diploma in RDBMS from SSIL.
+1993 – 1996    	Bachelor of Science (Computers) 
+- Sri Krishnadevaraya University, Ananthapur, AP
+2000 Brainbench certification in Java.
+Trained in MS Project and ITILv3 Foundation course.
+Projects
+
+Project			ChainStoreGuide.com & CSG-OnlinePro
+Organization		eCrossingsMedia 
+Client			ChainStoreGuide, LF group, USA
+Time span		October 2008 – present
+Role			Project Lead
+Technologies  	Struts, Hibernate, WebLogic8.1, SQLServer
+Chain Store Guide details all major retailers, restaurants, distributors and wholesalers in the United States and Canada with Business and contact information. Industry information is categorized into various products. Customer can choose to buy online product. Query Builder feature is available to search the data within the purchased product. Google Analytics are used to track the Customer Activity to prepare Management Reports.
+
+Responsibilities & Activities
+Requirement gathering, Estimation, Analysis and Design.
+Client Co-ordination and Reviews
+Upgrading PayPal Payment gateway.
+Database Migration from SQLServer2000 to SQLServer2005
+Integration with Salesforce.com and data export to support popular CRM applications.
+PDF generation using iText.
+Integration with Google Maps and Google Analytics.
+
+
+Project			ITP Classifieds
+Organization		AuxanoTech, Mumbai
+Client			ITP.com, Dubai
+Time span		November 2009 – February 2010
+Role			Project Lead
+Technologies 		PHP, xampp, MySql, Apache Web Server 2.0
+ITP Classifieds is built on using AJ Framework; this application is developed with more focus on Real Estate, Auto and Events classifieds. It has a main User Access application to post classifieds. Admin application is available to manage and control User accounts, posted classifieds, Payment gateway configuration and Content Management.
+Responsibilities
+Planning, Estimation, Task Allocation.
+Team Co-ordination and Progress Reviews
+
+Project			iSmile32
+Organization		AuxanoTech, Mumbai
+Client			iSmile32
+Time span		January 2009 – November 2009
+Role			Project Lead
+Technologies  	ExtJs, Spring, Hibernate, JSP, Tomcat5.0, MySql
+iSmile32 is a Dental Practice Management System. It provides many features and assists doctors, clinic staff to manage various operations.  Features include Patient Scheduling, Visit History, Drug Information, Clinicals, Treatment history, Accounting, Report Generation and Notes on each section. Interfaces are developed for Online Insurance Claims, digital x-rays and Drug information assistance. 
+
+Responsibilities
+Team Leading, Requirement gathering, Analysis and Design.
+Client Co-ordination and development review.
+QC Support and Release Management.
+
+Project			CsgDataIntel.com
+Organization		eCrossingsMedia, USA
+Client			ChainStoreGuide
+Time span		March 2009 – September 2009
+Role			Project Lead
+Technologies  	Struts, Hibernate, WebLogic8.1, SQLServer
+CSG Data Intel facilitates users to build custom queries. Queries can be built on based on the various options; this allows the customers to get the exact information with minimum charges. Query data can be downloaded in various formats like PDF, CSV and excel. 
+
+Responsibilities
+Requirement gathering and Analysis.
+Team Co-ordination and Reviews
+Release Management.
+
+
+Project			OmniEnterprise Wealth Management System
+Organization		InfrasoftTech, Mumbai
+Client			Pre-Sales, Internal Product Development
+Time span		February 2007 – March 2008
+Role			System Analyst
+Technologies  	Struts, Hibernate, JSP, Tomcat5.0, IIS5, SQLServer2005
+
+OmniEnterprise: Wealth Management System offers private banks, asset managers, fund managers, trusts, insurance firms, brokerages and banks, a customer centric approach. 
+Wealth Management Framework provides Customer Portals, Fund Manager Dashboards, Broker Interfaces, Core Back Office System, Brokerage & Billing System, Portfolio Management and Reporting.
+
+Responsibilities
+Team Leading, Requirement Analysis, Design and Task Allocation, issue tracking.
+Team Co-ordination and Reviews
+Software Configuration Management
+Testing, QC Support and Release Management.
+
+
+Project			OmniEnterprise Islamic Retail Banking System
+Organization		InfrasoftTech, Mumbai
+Client			UK based Financial Service Provider
+Time span		September 2006 – January 2007
+Role			Sr. Software Programmer	
+Technologies		JSP, Struts, Tomcat5.0, IIS 5, SQLServer2005, Crystal Reports XI
+
+OMNIEnterprise: Islamic Banking is a true Shariah compliant core banking solution. It provides a total riba-free solution to evolve complex financial products. System provides transactions processing & accounting to business process management & reporting.
+OMNIEnterprise Islamic investment banking module is derived out of OMNIEnterprise and provides an integrated automation of front office & back-office operations of a bank. Core banking module provides integrated General Ledger, Profit & Loss and Reporting for all functional modules in an integrated manner. The solution integrates accounts of one customer across the enterprise and provides a customer centric view to transaction processing & accounting.
+
+Customization for Client implementation
+Developing new modules using struts framework
+Code reviews, enhancements and suggesting/implementing coding standards 
+Developing Reports.
+
+
+Project			Treasury Back-office System
+Organization		InfrasoftTech, Mumbai
+Client			European Islamic Investment Bank (EIIB)
+Time span		September 2005 – August 2006
+Role			Sr. Software Programmer
+Technologies		JSP, Struts, Tomcat5.0, IIS 5.0, MySql, Crystal Reports XI, Crystal SDK
+
+The Project is all about designing and implementing various Islamic products and Trading System as part of Treasury Back Operions.  Implemention supports Murabaha, Sukuks, Ijara Leasing and Financing, Musharakha, Salaam, Istisna. etc.., products. This Product is a fully integrated banking solution with multi-entity & multi-currency accounting. This project catered to customizing solution as per client needs.
+
+Development and Unit Testing of Various modules, using struts and jsp.
+Leading Reports Development Team. Reports release responsibility. 
+Reports development using Crystal Reports and integrated with OmniEnterprise using Crystal Reports SDK.
+Team Co-ordination, Compatability and Performance Testing on various platforms.
+
+Soft skills
+Have good motivation to learn new skills/technologies, excellent analytical/problem-solving skills, fast-learner and self-initiative.
+Good communication skills, interpersonal skills and team player. 
+Ability to learn new concepts, adapt to new environments, plan and execute a given job to perfection.
+
+Address - Green Hmbai –400059
+References will be provided on request. 

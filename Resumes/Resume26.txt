@@ -1,0 +1,106 @@
+ 
+RAM
+SUMMARY
+•
+Programmer analyst having more than seven+ years of experience in information technology. His
+expertise lies in the analysis, design, development, implementation of distributed multi-threaded
+and multi-processing applications using C, C++, Java, Rogue Wave, STL, Unix system Server 
+programming (Unix Internals), Design Patterns,IPC, Shell Scripting, Perl Scripting, Socket
+programming, TCP/IP Sockets, XML, Oracle, in Unix (Sun Solaris, HPUX, HPUX-Itanium, Redhat
+Linux), Windows/64 bit and REALOs environment. Also have knowledge of .NET framework and
+C#.
+•
+Experienced in Financial Domain and SS7 (TCAP, SCCP, ISUP, MTP3, MAP) GSM, IS41
+Networks. He also has experience in working in ASN.1. He has excellent communication skills.
+Also Studying Management from HARVARD University.
+TECHNICAL SKILLS
+Operating System
+Environment:
+UNIX, Solaris 5.8/5.6, HP-UX11.0, HPUX-Itanium, Windows NT,
+Windows 2003 64 bit, Windows XP,HP Tandem(NSK)
+Languages& Protocols:
+C, C++, STL, Java, PL/SQL, PRO*C, Perl, UNIX Scripts, TCP/IP,
+UDP, XML, SNMP, Socket Programming.
+Databases:
+Oracle 8i/9i, MS-Sql Server.
+Software & Tools:
+Rational Rose, Clearcase, Clearquest, Purify, Code Coverage,
+Quantify, Jbuilder, Sun Workshop, dbx, gdb, wdb, Apache,
+RogueWave, CVS, Source Safe, Visual C++, Win32 SDK,
+Sun/HPUX/AIX c/c++ compilers, gcc, gmake, nMake, clearmake,
+Perforce, Doxygen.
+GUI:
+Java, Visual C++, VB, MFC
+Hardware:
+SUN SPARC, HP, Itanium Platforms.
+PROFESSIONAL EXPERIENCE
+Client NameDate - Present
+Software Engineer 
+•
+Working on C++ for RoadRunner project, RoadRunner is an application which currently is the
+main quoting and news provider for Fidelity's various web and customer facing systems
+•
+Worked on C++ using smart pointers and various design patterns.
+•
+Worked on memory leaks on the project
+•
+Worked on C++ classes to implement quotes and news from Fidelity Market Data (FMD) using
+reuters API (RFA, RV )
+•
+Worked on perl templates which delivers content to fidelity.com site for customers to view quotes
+and accounts information.
+•
+Worked on optimizing the product so that it handles 160,000 ticks per second.
+•
+Also did production support for Roadrunner as well other FEB (Fidelity EBusiness department)
+•
+Used fortify for secure code review
+•
+Upgrading Reuters API from RV network to RFA network.
+•
+Helped in up gradation to Solaris 10 OS.
+Environment:
+C++, Perl, UNIX Internals, Socket Programming, IPLANET (Sun Webserver),
+Clearquest, Clearcase, Purify, Fortify.
+Client Name, LocationDate - Date
+Programmer Analyst
+•
+Involved in RCDR project in .NET C# and SQL-Server.
+•
+Working On initiatives which would require the changes in various components of the system in
+Unix/Windows Environment.
+•
+Involved in projects involving C, C++, Java, .NET C# and SQL-Server.
+•
+Analyzing Data in SQL-Server/Oracle.
+•
+Rectifying Data using T-SQL/PL-SQL.
+•
+Working On initiatives which would require the changes in various components of the system in
+Unix/Windows Environment.
+•
+Doing RCA(Root Cause of Analysis) by reviewing the code ,studying the log files.
+•
+Interacting with other development teams for resolutions.
+
+
+
+
+
+
+
+
+
+•
+Maintaining a good cycle time for closing of the problems by the worldwide clients.
+•
+Worked on Reference Rate Utility component for modifications for new initiatives.
+Environment:
+C/C++/Java, Unix Internals, Socket Programming, TCP/IP, Sun Solaris 9, Windows,
+Oracle 8, SQL-Server.
+EDUCATION / CERTIFICATIONS / AWARDS
+Bachelor of Engineering in Computer Science & Engineering, Bharathi Dasan University, India - 2002
+Pursuing Microsoft Certification MCPD.
+Microsoft Individual Excellence Award – Awarded for dedication to the job at Microsoft
+Scientific Atlanta Team Excellence Award – Awarded for team work and customer satisfaction at
+Scientific Atlanta

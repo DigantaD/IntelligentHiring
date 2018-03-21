@@ -1,0 +1,173 @@
+
+
+
+
+
+Curriculum Vitae
+
+
+
+
+Profile
+
+Over 20 years contrtact experience working with blue chip companies in the finance, insurance and defence sectors.10 years working with J2EE technologies primarilly targetted to the Websphere platform. Analytical, communication, design and development skills are all equally strong with emphasis on an ability to work efficiently with the business, technical specialists and project management. Self motivated, a good networker with the aptitude to agree and deliver schedules in a timely manner.
+
+Security Cleared
+
+Technical Experience Summary
+
+Java: 		J2EE, Java 2, EJB (MDB), JDBC, JMS, JSSE, XML, Servlets, JSP, Castor, SOAP, WSDL, Struts, Spring (MVC), Hibernate 3, JUnit 4.8, Ant 
+App Servers: 	Websphere 5/6
+IDE’s: 		Eclipse (RAD/WSAD) 
+Version Control: PVCS, CVS, Subversion, (Cruise Control)
+Middleware: 	MQ Series
+Databases: 	UDB DB2, Sybase, Oracle 8i, MySQL
+Methodologies: 	UML 2, RUP, Mascot, TDD
+Standards: 	ACORD, Origo, XA, LDAP, Corba
+Platforms:	Windows, Solaris, SunOs
+Languages:	Java, C, C++ (Rogue Wave), Pascal
+June 2009 – Present                   SlickRock Ltd
+
+Skills: J2EE, Eclipse, Java 6, Tomcat 6, MySQL, Spring (MVC), Hibernate 3, UML, Junit 4.8
+
+Currently completing the development of a small ecommerce retail and support suite for a client using Java 6 and the latest releases of Spring, Hibernate and MySql on Eclipse running under Tomcat 6. Also studying for Java 6 certification.
+
+During this period I took a sabbatical and voluntarily carried out the refurbishment of my villages Guides headquarters and grounds (3 months) and then undertook a solo self supported mountain bike trip from Canada to Mexico along the US continental divide (2 months).
+
+April 2004 – May 2009           Legal & General
+
+Skills: J2EE, Websphere 5/6, Java 2, Eclipse (WSAD), XA, EJB, Hibernate, Spring, JMS, XML, Castor, UDB DB2, MQ Series, UML 2, ACORD 
+
+Capture And Underwriting Of New Protection Business
+
+L&G has the largest share of sales of protection products in the UK market. This greenfield project replaced the clients existing systems and facilitated the on line capture, automated underwriting and administration of  new business. This large project followed RUPs iterative principles with emphasis on modelling, continuous integration, test driven design and change control.
+
+Working with business analysts and representatives I initially produced UML models and implemented the core business model.
+
+I architected and implemented the integration of the new suite of business capture systems with Reinsurance Group of America’s (RGA) back office underwriting system. These distributed scalable systems communicated via a coarse EJB interface passing industry standard ACORD messages in XML format. Utilising a real time distributed locking strategy a new business contract could alternately be progressed by over 700 admin and underwriting staff seamlessly across multiple systems. The systems also communicated with a number of existing administrative systems using an MQ solution wrapped by JMS. The role also required the ability to produce contractual quality technical and requirements documentation and extensive liaison with counterparts within RGA in order to agree the distributed architecture and content of iterative releases.
+
+
+October 2003 - March 2004    Fidelity Investments Ltd
+
+Skills: J2EE, Websphere 5, Java 2, EJBs, JDBC, JMS, SOAP, WSDL, XML, MQ Series, Sybase, Websphere Studio 5
+Pension Contributions
+Requirement was to integrate the clients existing system capturing members pension transactions to a bespoke third party contributions system, ALIS. Integration was achieved by developing an intranet web service using a SOAP architecture coupled to an MQ messaging framework communicating with the ALIS System. 
+
+April 2000 - August 2003              Legal & General
+
+Skills: J2EE, Java 2, EJBs, JSSE, JDBC, JMS, Struts, Servlets, JSPs, XML, UDB DB2, MQ Series, LDAP, Websphere Studio 5, Websphere Advanced Edition  4, Visual Age, RUP, UML
+
+Ecommerce  - Quotation Systems
+
+Project architect and implementer of several key e-commerce quotation systems being migrated from Websphere 3 to Websphere 4. The role required the analysis of existing disparate system architectures and subsequent redesign to fit in with L&Gs strategic e-commerce platform, IBM’s Websphere application server (version 4) on Windows. Emphasis was placed on improving performance by evaluating the role of EJBs, transactional requirements, database architectures and interaction with mainframe quotation services using MQ series.
+
+A significant part of this project centred on tightening and simplifying application security. I was involved in the design process of moving from a bespoke LDAP schema on Netscape to a standard schema on  Secureway, this included supporting a temporary Websphere custom registry during migration. Moving to Secureway allowed role based declarative security to be applied easily and part of the migration process was to identify and remove programmatic security in favour of declarative.
+
+Some applications returned quotes to clients on an asynchronous basis, I replaced the existing mechanism in favour of Java’s JSSE package, this allowed Websphere applications behind the firewall to tunnel through the proxy and establish a secure HTTP connection with clients. This required setting up trust stores of known clients.
+
+Because J2EE secures at the functional level I also designed and implemented a common service that allowed data access rights to be assigned to users and interpreted by applications, this enabled data access to be controlled on a per user basis. I developed a struts based web application that facilitated the dynamic creation of data types to be secured and the allocation of rights to users.
+
+Ecommerce - Stakeholder Pensions
+
+L&G required a new web site allowing employees of corporate clients to apply for and subsequently manage a Stakeholder Pension Plan. A J2EE architecture was developed on Visual Age and deployed on Websphere 3 Advanced Edition. RUP was used to drive the project life-cycle
+
+I designed and implemented web and mid tier solutions that facilitated the dynamic creation, maintenance and serving of client specific content.
+
+An internal struts based web application allowed the administrative team to dynamically create, upload and persist client specific images, text and style.
+
+A mid tier service, using BMP EJBs, provided client specific content to the web tier on demand allowing generic web pages generated using JSPs and servlets to be served. With content definition held on a UDB database, including images as blobs, caching was used extensively on the mid tier for performance gains. 
+
+I developed a generic Transaction Manager allowing on line client requests to be subsequently processed using peripheral services, for example the switching of existing or future contributions to alternative funds.
+
+November 1995 – April 2000           Merrill Lynch
+
+Skills: Java 2, Servlets, Apache, Oracle 8i, Object Designs PSE, Corba - Orbix (Web), Rendezvous, C++, Sybase, Rogue Wave -Tools++, Solaris, SunOS
+
+Technology Infrastructure (1998 -> 2000)
+
+Member of the infrastructure group supplying consultancy services to all projects across the Corporate and Institutional Client group globally. The role ensured that suitable architectures and complementary technologies were deployed across projects. Older systems based on the client-server paradigm were being re-engineered into multi-tier architectures. Technologies used include Java/Swing front ends; Java/C++ middle tiers with EJBs starting to feature and Sybase/Oracle DBs. Middleware was achieved with CORBA (Orbix and Orbix Web being the platforms of choice) with data transfer and some persistence using XML. Rendezvous was used for point to point and multicast messaging. Servlet technology was also in place for web based reporting systems.
+Working in the group involved researching new technologies; extensive prototyping and working closely with project teams to transfer skills.
+Bond Management - 18 Months (1996)
+
+The global swaps business manage hedging using Bonds through a dedicated system. I extensively  re-engineered this system with emphasis on decomposition into smaller more ‘pluggable’ units. The entire infrastructure was replaced with reusable components in the form of C++ libraries. Not only was this an architectural rewrite but significant business functionality was also introduced in the form of support for more complex deal structures including amortising bonds and repos. Additionally the on-line and overnight pricing functionality was replaced to support global risk management. Ability to manually enter and manage bond indicatives and also capture from third party systems was built in. Extensive reporting also provided P&L, cash and credit risk detail at various levels of granularity. Numerous feeds into other systems were also delivered. This system is currently used globally by over 300 staff. 
+
+Risk Server - 6 months (1995)
+
+Designed and implemented a system providing risk information against various types of instrument, initially Swaps and Bonds, gathered from disparate trade entry systems into a local warehouse. By translating the trade definition into a generic OO model the system was able to utilise Merrills numerous existing analytics libraries for the purpose of pricing. Risk detail was subsequently obtained by clients through subscription and Merrills proprietary messaging tools. Design was supported by Rationals C++ Rose tool with implementation in C++ and extensive use of Rogue Wave Tools.h++.  
+
+January 1995 - November 1995     Marks & Spencer                                 
+
+Skills: C++, OMT, RS6000/UNIX
+Foods Ordering
+
+Carried out an Object Oriented analysis of business requirements using Rumbaughs OMT supported by the Select CASE tool. Produced class diagrams and specifications supported by Data Flow and Object Interaction Diagrams which fed into the implementation phase achieved using C++ on a UNIX platform. Delivered system forms part of M&S ordering architecture for their foods departments.
+
+September 1993 - December 1994      Bank Of America                        
+ 
+Skills: UNIX SunOS, C++/C, GALAXY, Ingres
+Risk Management
+						
+Requirement was to re-engineer the banks existing Front Office Risk Management system used to price and maintain Swaps portfolios with Bonds, Futures, Options, FRAs and FX supported as hedging instruments. The design  provided a platform independent client/server architecture, with an Object Oriented approach allowing new financial techniques to be brought to market more quickly. Software was implemented using Visix’s GALAXY GUI development environment and C++ on a UNIX/SunOS platform.
+Additionally responsible for designing and implementing the client/server functionality of the system using Galaxy’s DAS product which allows the encapsulation and distribution of abstract data types using C++ and GALAXY class libraries. Also developed the GUI based client Application which managed the reporting functionality of the system.
+
+March 1993 - August 1993       Sanwa International                         
+
+Skills:  VAX/VMS, 4GL, Vision
+Financial System
+
+Requirement was to design and implement a new financial system to replace the banks existing XTAS system. This phase of the project considered the overall system architecture and implemented the core data component. Implementation was achieved using Ingres Vision, ABF/4GL and ESQL (C).
+
+July 1992 - December 1992 	J.P.Morgan	                                   
+
+Skills: ESQL - C, VAX/VMS
+Bond Issuing
+
+Designed and developed several facilities incorporated into the banks existing bond issuing system. Implementation achieved using embedded SQL in C targeted to an Ingres database. Liaised with business managers in order to specify system requirements. Also produced documents and gave seminars on how to use C in the VMS environment effectively.
+
+March 1992 - July 1992 	UIS Limited		                   
+									              
+Skills: C, Ingres, VMS
+Data Capture and Specification of Design Standards.
+
+Designed and developed a system to transfer information supplied by a third party company into an Ingres database where the data could be analysed. for marketing purposes. Also produced departmental standards for the development of C software in a VAX VMS environment and an advisory document outlining the components required for a quality assurance system, covering concepts such as configuration management, change control and documentation standards.
+
+
+August 1991 - February 1992           Sabbatical
+
+Invited to USA to consult on the production of a series of documentaries on white water kayaking. Later organised and lead guided kayaking expeditions in Canada.
+
+September 1998 – July 1991	Royal Blue 
+
+Royal Blue are a software house specialising in solutions for the financial sector. This was a permanent role.
+
+Skills: Pascal, C, VAX/VMS
+
+March 1990 – September 1991		                                         Risk Management
+
+Worked on two projects providing Risk Management information for the London Clearing House:
+
+Design and development of a real time data feed handler for the LIFFE TSCS data feed. Supplying a variety of data including security prices, margins and position information to risk analysts.
+Design and implementation of a price dissemination system providing real-time price information to a number of different applications running within a VAX cluster using DECnet.
+
+November 1984 - August 1988 	Racal Avionics
+
+                   Helicopter Flight Management System
+
+Skills: Perspective Pascal, Z8001 assembler, VAX/VMS, MASCOT
+				
+Worked from inception to delivery on a project to provide a fully integrated cockpit and flight management system for the Royal Navy Lynx helicopter. The embedded system contained Core, Mission and Stores management facilities. Software was designed using the MASCOT methodology and implemented using the Perspective support environment in Pascal targeted to the Z8001 processor.
+
+Initially responsible for developing the MASCOT based operating system which allowed both co-operative and pre-emptive scheduling of tasks. Later, team leader, responsible for the design and implementation of the Core avionics software encompassing the following subsystems: Navigation; Performance Monitoring; Flight Planning; Steering and Communications.
+
+Non Business Activities
+
+Outside of my business life I attempt to achieve a balanced blend of family, voluntary and adventurous pursuits.
+
+Recent expeditions have included 4 winter races in Alaska on the Iditarod trail. Two solo self supported mountain bike rides along the US continental divide from Canada to Mexico. Kayaking the Grand Canyon of the Colorado. Numerous national and international adventure races.  I have also given presentations to professional and educational groups on these trips.
+
+
+EDUCATION
+
+		University of Kent at Canterbury - B.Sc. Hons Computer Science
+		‘A’ Levels - Mathematics, Physics, History	
+		‘O’ Levels - 12

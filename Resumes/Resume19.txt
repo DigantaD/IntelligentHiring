@@ -1,0 +1,100 @@
+Nike F
+General Qualifications
+6 years experience in web development, 3 of them on offshore outsourcing projects.
+Developed 2 unique frameworks for the eCommerce and high performance.
+One of the Huffington Post core development team, over 10 e-shops, 3 custom websites, 1 community/service portal, a few intranet business solutions.
+Expert in Database Management Systems, Enterprise Application Integration, System architectures.
+Favorite technologies: server-side scripting (PHP).
+Expert in Payment gateways; OOP in PHP5, DOM, AJAX, HTTP, SMTP; Database connectivity, SQL engines, XML-technologies, SQL fine-tuning.
+Prefer to work with complex systems, sites with really huge load.
+Education
+2000-2006, National Technical University "Kharkiv Polytechnical Institute" (NTU KhPI).
+M.S. degree, Computer Science.
+n
+Technical Summary
+Hardware:
+IBM PC Compatibles; Intel x86, AMD platform.
+Programming languages:
+PHP, Perl, JavaScript, SQL, C.
+Database:
+SQL, Visual Basic.
+Operation Systems:
+Windows 95/98/NT/2000/XP, Linux.
+Tools and technologies:
+Smarty, AJAX, Imagemagick, CVS, SVN, own designed tools and techniques.
+CMS:
+Unisico (non-public company product).
+Frameworks:
+PRADO, IDEO (non-public company product), Lyra (own).
+Professional Experience
+06/2007 - presented Company A.
+Team leader, code architect.
+Project A
+
+Primary Responsibilities:
+Code analysis, performance tuning, algorithms optimization, db optimization.
+Outsourcing development.
+Database architecture.
+Key Contributions:
+Created many modules that work with huge amount of data.
+Performance tuning, algorithms optimization, db optimization, especially for front-end parts because of huge load.
+Position- System architect.
+Project- Shanaka.
+Primary Responsibilities:
+Architecture and database tuning.
+Key Contributions:
+Code analysis.
+performance tuning.
+algorithms optimization.
+db optimization.
+Position- Developer.
+Project B
+Description: Developing database structure, admin and client functionality, PDB export/import, etc.
+Perl/ Postgresql/MySql/Javascript/Ajax/YUM.
+Role: Team Lead, Developer.
+Developers involved: 3
+Project C
+Description: This is an e-market place and has a powerful admin part with intensive use of AJAX. I have created plug-ins for Fire Fox and Internet Explorer for the quick deal postings. Users can share their deals, post comments to the posts, can communicate via integrated webmail. Although the site is not completely filled with content, as the customer doesn't make a lot of planned advertising. I'm sure this site will be very popular after the proper advertising. The site has unlimited categories nesting, stars rating (like yahoo has), tags (like gmail and docs.google.com have), power search engine, black list words filtering. Dealbundle also uses XML and a lot of JavaScript to make the site quick and user-friendly.
+PHP/MySQL/Ajax/XUL/C++/ATL.
+Role: Team lead, Developer.
+Developers involved: 2
+ 
+07/2006 - 06/2007 - presented Company B. 
+Core developer, project leader.
+Project A
+Primary Responsibilities:
+Requirements gathering and analysis.
+Estimating and resource planning.
+Functional and technical specifications development.
+Prototyping.
+Design and development of source code.
+Database design and development.
+GUI design.
+Performance profiling and optimization.
+Key Contributions:
+Developed and tested API-used modules to payment systems.
+Developed wysiwyg site generator. End-level users don't need any knowledge of HTML of some programming language.
+Proposed and created admin area for all the site functional parts.
+Researched and deployed different types of statistics.
+Developed unique framework (high performance oriented).
+ 
+06/2005 - 07/2006 - presented Company C. 
+Core developer.
+Own e-commerce core developing.
+Projects A, B, C, D
+Primary Responsibilities:
+Core development for eCommerce framework.
+Design and development of source code.
+Database design and development.
+Performance profiling and optimization.
+Key Contributions:
+Developed and tested API-used modules to payment systems.
+Developed unique framework (eCommerce oriented).
+ 
+08/2002 - 06/2005 - presented Company D 
+Intranet developer.
+Warehouse management programs, organization tools, a few unit sites.
+English skills
+Writing.
+
+

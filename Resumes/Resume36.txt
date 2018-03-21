@@ -1,0 +1,108 @@
+﻿Sergey R
+General Qualifications
+Over 5 years of experience in programming in C/C++/C#;
+Profound experienced in Windows OS development, including both desktop (Windows NT-based) and mobile (Windows CE-based) families;
+Good experience in system-level development including driver development and low-level capabilities in embedded systems;
+Extensive experience in cross-platform development under desktop and embedded platforms;
+Team leading skills include emotional management, risk management and software architect;
+Professional preferences are extreme programming-like method, delivery of highest code quality and deepest analysis of task problems in order to deliver the most appropriate solution;
+Doesn't accept quick and dirty solutions, work-around programming, "voodoo programming" and "cargo cult" development style.
+Education
+r
+2000-2005 Kharkov National University Of Radio Electronics;
+M.S. degree, Applied Math.
+Technical Summary
+Managerial Skills
+Team Lead
+Software Development Methodologies
+XP
+Programming Languages
+C, C++, C#, Pascal, XML
+Operating Systems/Platforms
+MS DOS, Windows 95/98, Windows NT, Windows 2000/XP/2003/Vista, Windows CE 3.0-5.2, Pocket PC 2000, 2002, Windows Mobile 2003, 5.0, 6.0, Symbian OS
+Technologies and Libraries
+OOP, Design patterns, Refactoring, Win32 API, COM/ActiveX, XPCOM, DirectX, Symbian API, STL, ATL/WTL, MFC, DOM/SAX
+DB
+DAO, ADO, ADOCE; MS Access, Pocket Access, MSSQLCE
+Version Control Tools
+CVS, SVN, VSS, Trac
+Development Tools
+Microsoft Visual C++, Microsoft Visual Studio 2003, 2005, WINDDK, Platform Builder for Windows CE, eMbedded Visual C++, CodeWarrior for Symbian OS, Carbide.C++
+Networking/Protocols
+TCP/IP, UDP, WinInet, BSD sockets, FTP, cURL, SSL, Wi-Fi scanning
+Professional Experience
+10/03 - presented Company A
+Position: Team Lead (2005 - current).
+Positioning System (cross-platform).
+Description: Wi-Fi/Cell hybrid positioning system, redesigned to cross-platform code. Includes support for Windows XP/Vista, Windows CE/Mobile, Symbian OS (Series 60 and UIQ), Linux, Mac OS X.. Technologies include access to 802.11 interface for scanning, GSM cell scanning, virtual serial port driver (Windows) or location plugin (Symbian) to emulate GPS device, NMEA protocol parsing and generation.
+Accomplishments: Leading the team, architect, project development (mostly involved in Windows and Symbian).
+Role: Developer.
+Positioning System (PPC).
+Description: WiFi positioning system for Pocket PC (NDIS 5.1). Includes virtual COM-port driver for emulating GPS COM port output, NDIS user-mode protocol driver, FTP client.
+Accomplishments: Full project development.
+Positioning System (PC).
+Description: WiFi and GPS combined positioning system for PC (NDIS 5.1).
+Accomplishments: Full project development.
+Day Planner. 
+Description: Pocket PC applications used to display information about meeting events, exhibitors, room and vendors. The applications use an XML file as database and allow users to quickly and easily filter, find their data.
+Accomplishments: Full project development.
+Remote Desktop.
+Description: Remote desktop control system for PC.
+Accomplishments: WinNT service, WinNT desktop switcher implementation, bugfixing.
+File Encryptor.
+nDescription: File encrypting application:
+Accomplishments: PC, Pocket PC versions general support & bugfixing.
+Team Lead (02/2004 - present).
+Technical consulting, architect, requirements management, responsible for team delivery, communication with customer.
+Developer (10/2003 - 02/2004).
+Technical investigation, estimation, development.
+Security System.
+Description: Complex security system that provides protection for all kinds of information on PDA.
+Accomplishments: PocketPC version general support & bugfixing, encrypted file system driver component porting from WinCE 3.0 to WinCE 4.2 platform, SMS policy PC/PPC components development.
+WPS(10/2004).
+Wireless Positioning System technology: cross-platform client software.
+Project A
+A simple Day planner application for Pocket PC based on XML.
+Project B
+Security software for Pocket PC, Symbian and RIM devices.
+Project C
+Remote desktop software for Windows NT OS family.
+Project D
+Windows BMP to Palm PDB convertor.
+Project E
+Description: Cross-platform encrypting library.
+Accomplishments: Support & bugfixing of PC, PPC, Symbian and RIM platform-depended parts, testing application (PC, PPC, Smartphone, Symbian, RIM).
+Project F
+Description: Cross-platform project. 2D Casino games.
+Visual Studio 2003, BREW SDK.
+Project G
+Description: Online application.
+Visual Studio 6.0, Symbian Series 60 SDK, Symbian UIQ SDK.
+Project H
+Description: 2D sport game.
+Visual Studio 2003, Symbian Series 60 SDK.
+Project I
+Description: 2D card game.
+Visual Studio 2003, Symbian Series 60 SDK.
+Project J
+Description: Avi player.
+Visual Studio 2003, Symbian Series 60 SDK.
+Project K
+Mp3 player for s60 3rd edition. Carbide c++, Symbiam s60 3rd edition SDK.
+05/2003 - 10/2003- presented, Company B
+Position: Developer (05/2003 - 10/2003).
+Technical investigation, estimation, development.
+Bitmap Convertor.
+Description: Windows Bitmap to Palm database convertor with color depths selection.
+Accomplishments: PC application development.
+Distributor companion.
+Client/Server system for purchase order registration. Client was designed to run on Pocket PC devices.
+Personal
+Curious and fast learning;
+Creative and motivated in a dynamic environment ;
+Result minded;
+English Skills
+English - fluent.
+Ukrainian and Russian - native.
+
+

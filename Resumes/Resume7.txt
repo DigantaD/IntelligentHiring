@@ -1,0 +1,218 @@
+
+harshita bang
+OBJECTIVE:
+	To work in a dynamic and growth stimulating environment, which provides ample opportunity to utilize and enhance my skills and be a successful professional in the field of Information Technology.
+
+EXPERIENCE SUMMARY: 
+
+Approx 3.5 years of experience in all phases of application software development: troubleshooting, bug –fixing, testing and maintenance using Core JAVA, JSP, SWINGS, Servlets, Struts, Hibernate,  QT 4.4.3, C++, MySQL, LINUX, Windows XP.
+
+Good knowledge in Railway Signalling, Banking and Finance & Management domains.
+
+Expertise in Web technologies, Frame work technologies and Protocol development.
+
+Experience in socket programming, Process Communication, TCP/IP, and UDP.
+
+Involved in the complete implementation, like preparation of Design docs, test plans, manual, help doc AND testing etc... And product delivery. 
+
+Ability to adapt quickly to new environments and technologies.
+
+Possesses good interpersonal, mentoring, analytical, written, and verbal communication skills.
+ 
+
+B) SKILLS PROFILE:
+
+System Design and Development	: Core JAVA, JSP, Servlets, Struts, Hibernate,  
+					  SWINGS, QT Jambi 4, C++, MySQL, SQL Server, 
+                                                            Tomcat 5.5.                                                            
+
+Tools/IDEs				: Net Beans6.7.1, Eclipse.
+
+Web Server               			: Tomcat 5.5, Web Logic Web Server
+
+Operating Systems			: Windows, Linux (Fedora 9) and Dos.
+
+Special Software			: Microsoft Visual Source Safe, CVS.
+
+Application Domains			: Railways, Banking, Finance and Management.
+
+
+c) Personal Details:
+
+Non – IT Experience	: 2+ years of non-it experience, working as a asst. professor and teach JAVA and J2EE subjects. 
+
+Education Details			:  M.Tech with 75 % from JNTUniversity, 2005
+					   B.Tech with 62% from JNTUniversity, 2001
+Contact Details			:  Mobile @ 9949657909
+					  
+DOB					:  05-04-1976
+Marital Status				:  Married
+Nationality				:  Indian
+Language Known			:  English, Telugu, Hindi.
+Current CTC				: 4.0 Lakh per annum
+Expected CTC				: Minimum of 5.5 lakh.
+Notice					: 45 days 
+C) DETAILED EXPERIENCE:  
+
+Project# 1	 
+CBTC MICROLOK Simulator
+
+Customer
+Ansaldo STS, USA
+
+Project Description
+The CBTC MICROLOK Simulator is a web based application that simulates the functionality of a MICROLOK field unit and the behaviour of field equipment connected to the MICROLOK field units.
+
+Key features of this simulator are:
+Simulation of functionality of a way side system controller in the field.
+Simulation of behaviour of field equipment connected to the way side controller.
+Is platform independent, browser based functionality.
+Communicates with MICROLOK field units.
+Prepared MICROLOK Generator in Swing Technology
+
+Period		 
+April09 - to till date.
+
+Position	 
+Team lead with team size of 4
+
+Responsibilities
+Designed, developed, Tested CBTC MICROLOK Simulator for Linux and Windows
+Designed JSP pages to display all signal communication information using UI Tags.
+Designed xml generators, Simulators etc based on Swing technology, 
+Implemented Socket communication between MICROLOK Simulator and Zone Controller.
+Followed SCRUM methodology for developing the MICROLOK Simulator. 
+Implemented Socket communication between MICROLOK Simulator and Zone Controller.
+Implemented Serial Communication in MICROLOK Simulator and communicated with MICROLOK field units.
+Operating System
+Linux (Fedora 7) and Windows XP.
+
+System Software
+Servlets, JSP, Struts, Hibernate, Swings, XML Parsing, Tomcat 5.5 Web Server , UI Tags, CSS, Java Script, C++, QT, Sockets, Ethernet communication, MySQL database and Install Shield Setup for Windows / RPM for Linux.
+
+Work Location
+CMC, Hyderabad - India.
+
+
+
+Project	 
+MICROLOK Configuration Generator
+
+Customer
+Ansaldo STS, USA
+
+Project Description
+The MICROLOK Configuration Generator has the ability to generate the Configuration file (which is used by the MICROLOK Simulator) using a Graphical User Interface (GUI Based). It is standalone application capable of running on Linux and Windows 2000/XP. The generated XML Configuration file functionality of a MICROLOK field unit and the behaviour of field equipment connected to the MICROLOK field units.
+
+Key features of this simulator are:
+Provide the Graphical User Interface (GUI) based application; the user can enter the inputs in the User Interface. 
+The Generator will generate a XML file, having all the configuration information of the MICROLOK System and information about the way side connected field equipment.
+The User Interface will facilitate the user to add and delete the information in the GUI or in the text view. 
+The user interface having the facility to validate the Generated xml file and save, open the xml file where it is required.
+In User interface, the Maximum of 350 filed devices equipment data will generates dynamically in the xml file.
+Prepared MICROLOK Generator in JAVA Swing Technology, XML Parsing and XML Generator.
+
+Period		 
+Sep’08 - Mar’09 
+
+Position	 
+Team lead with team size of 3
+
+Responsibilities
+Designed, developed, MICROLOK Configuration Generator for Linux and Windows
+Designed xml generators, Simulators etc based on Swing technology, 
+Dynamic field devices adding and generation of configuration file. 
+Validation of XML File.
+Test the Generator with MICROLOK field equipment, 
+Followed SCRUM methodology for developing the Generator. 
+Preparation of Design Document, User manual and Test Plan documents.
+
+Operating System
+Windows XP / Linux (Fedora 7) 
+
+System Software
+Core JAVA, JAVA Swings, XML Parsing, XML Generation, Preparation of Design Document with UML Diagrams, preparation of User Manual and test plan document, Install Shield Setup for Windows
+
+Work Location
+CMC, Hyderabad - India.
+
+
+
+Project	 
+Automatic Train Operation (ATO)
+
+Customer
+Ansaldo STS, USA
+
+Project Description
+The Automatic Train Operation (ATO) Simulator has the ability to display the Train operation using a Graphical User Interface (GUI Based). It is standalone application of simulates the behaviour a Train Operation with UDP communication signal received from Train Operation Display (TOD). 
+
+Key features of this ATO simulator are:
+Provide the Graphical User Interface (GUI) based application; the simulator can easily test the received signal from Train Operation Display unit.  
+The ATO Simulator will communicate with the TOD with TCP/IP Networking Technology, Multi-Threading and continuously display the  Tx/Rx information with regular interval of 100 m. sec.
+The ATO Simulator will update the data in the User Interface text fields.
+The ATO Simulator having a facility to store the Tx/Rx information with date and time in .fat files in user specified location with specific time gap.
+The ATO Simulator will fame the messages with msg header, data part and terminator.
+The ATO Simulator is validate the incoming/outgoing data with CRC16 
+Prepared Automatic Train Operation (ATO) in JAVA Swing Technology, UDP/Serial Networking Technologies, Multi-Threading 
+Period		 
+Mar’08 - Aug ‘08
+
+Position	 
+Team member
+
+Responsibilities
+Designed, developed, the ATO for Windows 2000/xp and Linux OS (Fedora 9). 
+Standalone Application developed JAVA Swing Technology
+Implemented the Socket technology i.e., using UDP/Serial Communication and Multithreading to communicate with TOD. 
+Followed the SCRUM methodology and regular client interaction (Scheduled Client call twice in a week). 
+Regular demos, demo versions send to client for review.  
+Prepare the Requirement Document, Design document with UML Diagrams and Test Plan document.
+Leading the team, internal meetings, and preparation of metrics, sending the ACS and MOMs to clients. 
+Delivery the product with meeting dead lines.
+
+Operating System
+Windows XP / Linux (Fedora 7)
+
+System Software
+Core JAVA, JAVA Swings, Ethernet communication (UDP/Serial com, Multi – threading, XML Parsing, MySQL database and Install Shield Setup for Windows.
+
+Work Location
+CMC, Hyderabad - India.
+
+
+
+
+
+
+
+Project
+Cheque Truncation System
+Customer
+CMC In-house product
+
+Project Description
+Truncation is the process of stopping the flow of the physical cheque issued by a drawer to the drawee branch. The physical instrument will be truncated at some point en-route to the drawee branch and an electronic image of the cheque would be sent to the drawee branch along with the relevant information like the MICR fields, date of
+presentation, presenting banks etc. Thus with the implementation of cheque truncation, the need to move the physical instruments across branches would not be required. This would effectively reduce the time required for payment of cheques, the associated cost of transit and delay in processing, etc., thus speeding up the process of collection or realization of the cheques.
+
+- Struts Framework
+- Hibernate as ORM tool
+- File generation: XML and FII (Multiple Flat Files)
+- Connectivity with Core Banking Software (TC/4)
+ 
+Period		 
+March’07 – Feb’08
+
+Position	 
+Team Member.
+
+Operating System
+Windows XP/2000 
+
+System Software
+Struts, Hibernate, Tomcat 5.5 and MY-SQL
+
+Work Location
+CMC, Hyderabad - India.
+
+

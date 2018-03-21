@@ -1,0 +1,76 @@
+Richard Williams
+SUMMARY:
+Highly experienced in developing and implementing SaaS software.
+Expert at designing, delivering, and maintaining customer-focused software solutions.
+Expert at designing and developing applications based on a Client Server architecture.
+Highly proficient at development of front-end, middle tier and back-end of applications.
+Expert at designing customer-facing UI.
+Expert at developing apps using spreadsheet API and interface.
+Thorough unit tester and quality focused developer.
+EXPERIENCE:
+Over 10 years of development experience in:
+Designing, architecting and developing software applications.
+Developing multiplatform UI.
+Creating Web Servers to provide a wide array of Web Services using Apache Tomcat Servlets.
+JavaScript and Java Servlet and XML and Database integration (AJAX).
+Connecting to databases & retrieving data using JDBC technology.
+Creating thin web clients using JavaScript.
+Using Java Server Pages (JSP) to create dynamically generated web pages.
+Creating software applications using Java-based Actuate e.Spreadsheet API.
+Deploying applications using Java Web Start methodology
+Deploying serverside applications on Linux-based servers.
+Creating Java Archive (Jar) files to distribute Java apps.
+Creating Web Application Archive (War) files to distribute Java Servlets.
+Creating context-based online help using Javadoc.
+Extensive software and application development experience (aggregate 10 years) using the following technologies and processes:
+SQL expertise and creating databases using MySQL.
+Visual Basic for Applications (VBA).
+Rich Internet Applications using HTML and XHTML.
+Developing web-based mobile application development platform and applications.
+Highly skilled at executing Proof of Concept development projects.
+Mission critical application production deployment and support.
+Application maintenance & porting.
+Rapid Application Development (RAD).
+Systems and requirements analysis.
+Commercial software development and implementation through a Web portal.
+PROFESSIONAL SKILLS:
+Highly capable of multitasking and meeting aggressive deadlines.
+Outstanding ability to create complex technical presentations for a non-technical audience.
+Professional developer highly focused on delivering structured, efficient and readable code.
+Highly proficient in working with users and translating their needs into technical solutions.
+Skilled at developing analytical and technical reference and user documents.
+Performing financial analysis, budgeting, forecasting, projections and man-power planning.
+PERSONAL TRAITS:
+Excellent organizer, communicator & project planner.
+Outstanding written skills.
+Collaborative team player.
+Keen ability to see the ‘big picture’.
+Detail oriented.
+Master of complexity.
+Highly quality conscious.
+EMPLOYMENT HISTORY:
+February 2003 – September 2010
+ABC Inc, Any Town, NY
+Developer and Administrator
+Customized applications to fit customer needs.
+Performed daily maintenance and troubleshooting.
+Integrated web interface for applications using AR Web.
+Jun 1996 – September 2002
+XYZ Corp, Any Town, NY
+Database Developer
+Performed Business Analysis with company representatives in the Executive, Administrative, and Operations departments to gather requirements and create a viable scope of work.
+Removed approximately 90% of the existing VBA code while adding functionality and improving performance.
+Made extensive use of SQL Server stored procedures, triggers, and views to move processing overhead from the client to the server.
+Created user-friendly forms and reports using Access 2003 front end.
+Re-engineered the SQL Server database with improved normalization, indexes, and proper Primary and Foreign Key constraints.
+Designed and executed DTS packages to move original data from the old schema to the new schema.
+Set up backup and maintenance plans and trained employees how to use the new system.
+October 1995 – March 1996
+BCD Inc, Any Town, NY
+Software Developer
+Develop and maintain website include both Admin and Client site using SQL, Stored Procedures, VB, VBA, VB.net, Perl, ASP, IIS, ADO, HTML, XML, AJAX, CSS, JavaScript, VBScript.
+Using VB, MS Excel, PivotTable, Macros, VBA, and SQL Server 2000 to develop the Any Rate software, data analysis reports products and software tools.
+Work with SQL Query Analyzer, Enterprise Manager to write Sorted Procedures and Import/output data.
+EDUCATION:
+1993 – University of Illinois, Urbana-Champaign, Bachelor of Science in IT
+

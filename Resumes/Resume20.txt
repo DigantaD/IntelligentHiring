@@ -1,0 +1,120 @@
+Sergey S
+General Qualifications
+Over 5 years of technical experience in software and programming;
+Programming technical skills in C and C++;
+Participation in community development of Ubuntu Linux.
+Education
+2002 -2007, National Pharmaceutical University of Ukrain;
+M.S. degree, Biotechnology.
+Technical Summary
+Methodology
+Object-Oriented Software Design; Design Patterns GoF; Systems Development Life Cycle, Application lifecycle management; Win32/Unix Development; Unix Scripting (Shell); Cross-platform Software Design (Win32/Unix)
+Operation Systems
+GNU/Linux, Windows 2000/XP/Vista, Mac OS X, Windows CE/Mobile, Mozilla Firefox extensions (C++/JavaScript), .NET compact, Symbian, OpenBSD
+Programming languages
+C++, C, Python, C#, Java
+Tools and technologies
+GCC, Vim, CMake, Autotools, diff/patch, GDB, Microsoft Visual C++, Microsoft Visual Studio, STL, Java, Valgrind, Ethereal, Subversion, CVS, Microsoft Visual Source Safe, WinDDK, Platform Builder, COM, ActiveX, ATL, WTL, MySQL, SQLite, bash, Qt, KDE, Gtk+, SDL, UML, Design patterns, Code Refactoring, XML, DOM, SAX, J2ME, Debian/Ubuntu packaging, git, strace, J2SE, JNI, XPCOM, Mozilla Firefox extension development, PyQt, PyKDE, UNIX shell programming, Regular expressions, glib, Glade, Trac
+Version control
+CVS, SVN, VSS, GIT
+Network and protocols
+TCP/IP, MS AD 2003 Directory Services, Encryption, Ethernet, Firewalls, LAN, Routers, Sniffers / Analyzers, UNIX/NFS, FTP, curl, samba.
+Professional Experience
+2004 - presented Company A
+C++ Developer
+WPS
+Cross platform application that leverages wardriving data to create a simulated GPS device for other applications to utilize via a virtual COM port.
+Platform:
+Windows;
+Windows Mobile;
+Windows CE (custom platforms);
+Mac OS X;
+Linux;
+Symbian.
+Tools/Libs:
+CMake;
+GCC;
+MSVS;
+Wlanapi;
+log4cpp;
+xerces;
+nmea;
+ATL/COM;
+Openssl;
+curl;
+gecko-sdk;
+wcecompat;
+WTL;
+Zlib.
+GUI:
+WTL;
+Gtk+.
+Team leader.
+Project A
+Set of the programs/plugins to enable operations with WPS (WiFi location).
+Tools/libs:
+Skype , Visual Studio.
+Programming languages:
+C++.
+Platforms:
+Windows.
+Project B
+Set of the programs/plugins to enable operations with WPS (WiFi location).
+Tools/libs:
+Visual Studio, DOM, COM, flex, byacc, curl.
+Programming languages:
+C++.
+Platforms:
+Windows.
+Project C
+Set of the programs/plugins to enable operations with WPS (WiFi location).
+Tools/libs:
+XPCOM, Visual Studio, DOM, flex, byacc, curl.
+Programming languages:
+C++.
+Platforms:
+Windows.
+Project D
+Set of the programs/plugins to enable operations with WPS (WiFi location).
+Tools/libs:
+Visual Studio , DOM, ActiveX.
+Programming languages:
+C++.
+Platforms:
+Windows.
+Project E
+Set of the programs/plugins to enable operations with WPS (WiFi location).
+Tools/libs:
+Visual Studio NET.
+Programming languages:
+C++, C#.
+Platforms:
+Windows Mobile.
+Project F
+Multiplatform wireless casino with operating in handicapped environment conditions.
+Platform:
+Palm OS;
+Symbian OS (Series 60);;
+PocketPC/ Windows Mobile 2002 - 2005;
+Windows 98/NT/2000/XP ( client side);
+Windows 98/NT/2000/XP(server-side).
+Tools:
+Visual Studio .NET (Server side);
+Visual Studio Embedded (Pocket PC);
+Metrowerks Code Warrior 9.0 (Palm);
+Visual C++ 6.0 (Symbian).
+FOSS project participation:
+Kubuntu;
+Debian;
+KDE;
+kaffeine;
+dolphin;
+linuxdcpp;
+PyKDE;
+liferea;
+relaxian.
+Other projects were under strict NDAs.
+English Skills
+Fluent.
+
+

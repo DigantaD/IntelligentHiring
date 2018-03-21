@@ -1,0 +1,125 @@
+Mahesh Reddy	                                                    		           
+
+
+SUMMARY
+
+Around 3+ years of IT industry experience in Software Development & SDLC Process. 
+Extensive experience in development of GUI using Core Java, Java Swing.
+Have experience on Build Management using ANT.
+Having the experience on Manual Unit Testing.
+Interaction with the client for requirement gathering.
+Presently working on Software Development for Embedded systems for automotive and processor Controller Architecture.
+
+WORK HISTORY	
+
+Software Engineer 							May 2007 - till date
+KPIT Cummins InfoSystems Ltd.
+Hinjewadi, Pune.
+
+EDUCATION
+
+B.E. (Computer Science & Engineering) 			        Graduation: May 2006 
+D.K.T.E’s College of Engineering
+Shivaji University
+Kolhapur - MH
+
+STRENGTHS
+
+A quick learner with the ability to make solutions-oriented, creative & innovative contributions in highly demanding situations.
+Efficient analytical problem solving & decision making skills. 
+Excellent written and oral communication skills with clients.
+Can take the independent responsibility.
+Ability to work in a team environment, along with an ability to manage one’s own task, 
+lead the team and deliver on goals.
+
+TECHNICAL SKILLS & TOOLS
+
+Languages:			Core Java, Java Swings, C, C++, VB, XML
+Web Technologies:                   JSP(Novices), Servlet(Novices)
+Operating Systems:		Windows XP, Windows 98 and Windows 2000
+Build Management:		Build Scripting using ANT
+Version Management:		Win CVS
+Tools:                 		Eclipse
+Testing Tool:			Rational Robot
+Databases:			MySQL
+
+PROFESSIONAL EXPERIENCE
+Project-I Name: 	          	Rapid Application Initialization and Documentation (RAppID)
+                                                    Tool for a Microcontroller Initialization Code Generation.
+Client: 		          		Freescale Semiconductor, USA.
+Technology			Core Java, Swing, XML, Excel Sheet, VB		
+Environment:                    	Java 1.5, Eclipse, Win CVS, Windows XP OS
+Duration:		         	Since May 2007 
+Role:			          	Software Engineer
+
+Description:
+
+             The project is based on the following:-
+
+The Tool generates initialization code in C/assembly for Freescale’s MPC55xx/56xx automotive series of microcontrollers.
+It is basically used to Initialize all Registers for Controller; configurable (Read/Write) bits in any register are provided GUI components in Tool.
+The tool has module specific GUIs for configuring the different parameters. 
+Typically tool has GUIs for configuring ADC, LCD, DCU, SGL System Clock Timers, CPU, SCI, CAN, LIN, MMU, Interrupt etc.
+GUI is basically developed for Configuration of all devices & peripherals for series of controllers, so that the configuration can be saved & can be used repetitively. 
+It also generates HTML reports, detailing the settings done by the user in GUI.
+Tool was developed for MPC55xx/56xx series of Freescale controller, which are meant for Automotive Control Systems. 
+
+Features of RappID Tool: 
+
+Window based stand-alone tool. 
+GUI based for ease of use and speed. 
+Generates initialization ‘C’ code for Microcontroller series. 
+C Code can be configured for different compilers. 
+Built in Tool tips for the user. 
+Perform consistency check. 
+Performs report generation. 
+Wizard development.
+Device Import Export.
+
+Contribution and Responsibilities: 
+
+Development of GUI for devices & peripherals. 
+Model tie-up with GUI.
+Integration of the device with the tool.
+Interactions with the client to understand the functional requirements of the tool, its interfaces with various system units and end users for better development of tool. 
+Designed and developed multiple peripherals in tool like SGL, LCD, DCU, EMIOS, DSPI, INTC, CPU. This involved complex GUI design and data persistence mechanisms.
+Code Generation in ‘C’ and Report Generation in ‘html’.
+Active participation in the tool architecture and implemented various Design patterns to increase tool efficiency. (Observer, Singleton implemented.)
+Preparing of unit test plans, designing unit test cases. 
+Code-Reviews and Optimization of the code.
+All modules consistency checks implementation and testing.
+Unit test-case preparation each and every module developed.
+Unit testing of the tool. 
+
+
+Project-II Name: 	          	Pin Configuration Wizard Utility                                                   
+Client: 		          		Freescale Semiconductor, USA.
+Technology			Core Java, Swing, XML, Excel Sheet, VB
+Environment:                    	Java 1.5, Eclipse, Windows XP OS
+Duration:		         	Since May 2007 (currently in support and enhancement stage)
+Role:			          	Software Engineer
+
+Description:
+
+Pin Configuration Wizard Utility for configuring function assignment to pins for different package and target parts of the MPC56xx semiconductor chips.
+This utility provides the user interface to configure and see the assigned functions for the individual peripherals.
+HTML Report is generated to view all pin configurations.
+
+Contribution and Responsibilities: 
+
+Contributed in Implementation of the tool
+Prepare unit test cases
+Prepare the excel sheet and its script for data entry, from which property files are generated for GUI value
+
+ACHIEVEMENTS:
+
+Excellence Work Certificate at KPIT Cummins InfoSystems Ltd.:
+
+SIGNIFICANT CONTRIBUTION IN QUALITY DELIVERABLES – August 2008
+PROACTIVE APPROACH FOR MULTI-SKILLING – March 2010
+
+PERSONAL PROFILE:
+
+Date of Birth			:    20th Oct 1983
+Marital Status			:    Single
+Passport No			:    G0357953

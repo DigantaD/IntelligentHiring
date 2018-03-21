@@ -1,0 +1,340 @@
+sunil kumar
+
+
+Java, C#.NET Developer:
+I am a sincere, loyal and dedicated individual who has a great deal of ambition. Although I have extensive experience in the software industry, I love to learn, and am always up to a challenge. I get along well with others, while also working efficiently on my own. I am seeking a position where I can develop and excel while giving my best to an employer.
+
+Sr. Software Engineer:
+
+Sr. Software Engineer – Unisys Global Service India, Residency Road, Bangalore, Jan 2007 - Present
+http://www.unisys.com/unisys/about/index.jsp
+
+Job Description:
+Apply software engineering methods and techniques to the design, development, integration, qualification and/or support of products and tools within one or more limited but developing areas of expertise.  Work independently or cooperatively as a member of a team under the direction of the project team leader or manager.
+
+Development Details:
+
+My Secure App:
+
+Period			: March 2010 to till date
+Operating System          	: Windows, Linux 
+Languages		: Java, JSP, Servlet, RESTful Web Services
+Framework		: Struts2, Struts2 Portlet
+Database		: MS SQL Server, Hibernate
+Process			: Agile, Scrum
+
+Description:
+My Secure App is a collection of infrastructure resources. My Secure App object is used to start, stop workload information at a specified platform. This application is run in Cloud environment and used extensively for Secure Private Cloud.
+ 
+Role: 
+As a Team Member, design, develop and test the application based on story.
+
+Developed modules for Hybrid Cloud Manager:
+
+Period			: January 2009 to March 2010
+Operating System          	: Windows, Linux 
+Languages		: C#.NET, Java, Metro & Axis2 Web Services.
+Framework		: Windows Communication Framework
+Database		: MS SQL Server – Stored Procedures
+Process			: Rational Unified Process
+
+Description:
+I have designed, developed and tested some of the modules of Hybrid Cloud Manager (HCM).
+Module 1 – ServiceGovenor: A client-server model is developed to serve UI requests. The server is a WCF windows service; client is an ASP.NET web page. Server API’s are exposed as web services to clients. Strategy pattern is used to separate the implementation of each web API’s. Lazy Holder Idiom Pattern is used in many places where usage of class is singleton. Client creates proxy once and continues use that proxy to call server even if the logic for implementation of a server keeps changing (depending on the requirement). Client and Server uses a single point of method invocation defined in a ConfigParameters.xml. This xml contains signature of methods, details of input and output to respective methods. This is commonly used by both server to validate the method all from client and client to call each method with proper input parameters.
+Module 2 – Netuitive Gateway: A gateway (adapter) to Netuitive (an analytics tool). The gateway is responsible to talk to Netuitive using RESTful web methods (exposed by Netuitive) and retrieve the necessary information about the data center and store them into Microsoft SQL Server database using stored procedures. The methods are being called using REST way of calling web API’s.
+Module 3 - Alarm Listener & Analyzer: Alarm Listener listens to any SNMP traps and receives the data and parses it to form an AlarmInfo object. Analzer then analyzes such AlarmInfo objects for different types of alarms like SLO (Service Level Objective), Statistical, Administrative, and so on. Each type of trusted alarm coming from Netuitive is handled separately and differently in Service Governor.
+Module 4 – Correlation Component: Correlates Netuitive values against Service Governor Values.
+Module 5 – Autonomous Infrastructure Management: Converted the code written in C#.NET to Java. WCF is converted to Metro Web Services. Metro is used because Axis2 is not supported by uOrchestrate a container which interacts with datacenter to do ScaleIn, ScaleOut operations. While converting the code, found many challenges and resolved the same with necessary changes. An example of such a challenge is: DataSet. In C#.NET code, DataSet is extensively used to convert DataSet to xml and send the data to stored procedures. The same has been achieved in Java by creating a CustomDataSet which is an exact duplicate of DataSet. objectCustomDataSet.toXml() will return the xml format of the object in the required format.
+ 
+Role: 
+Different roles performed for Design, Development, Unit Testing, Integration Testing, and Component Testing for the product. Taken many initiatives to found bugs in the entire product and informed the respective team member to fix it. A team of 4 members is led by me to make sure that component testing and development of a module is complete.
+
+Performance Review:
+
+Review Year
+Business Rating
+Interim Review 
+Details
+Review Manager
+Manager’s Comment on Interim Status
+2009
+2 – Excellent
+Status: 
+On Track
+
+Date: 07/03/2010 3:45:49 PM
+Priyamvada Kakunje
+Triguna joined the project in Feb 09. He has picked up the knowledge on uGovern very quickly and was productive within 2 weeks of joining the project. His productivity is good. 
+Triguna takes complete ownership of the tasks assigned to him and is very delivery oriented. He could focus more on the product perspective and also do a practical check on the feasibility of proactively taking on additional tasks. 
+Triguna works very well with the team and is committed to the project. He is passionate about his work.
+
+Manager’s Overall Comments:
+Triguna is a very good team player and a quick learner. He has built his knowledge base over the last one year and is now the SME for BMC and Netuitive. He has made good contributions on the server side code and integration testing. He takes complete ownership of tasks assigned to him and delivers them as per expectations. He could improve on his capability to do a thorough thought process before directly getting into the implementation aspects of a problem. 
+
+He is able to handle multiple complex tasks simultaneously and efficiently. In 2010, the expectation from him is to be able to take lead roles and be able to own and drive the development of one or more independent tasks/ modules.
+
+Developed Tool using Core Java & Swings for Safeguard 30M solutions:
+
+Period			: January 2008 to January 2009
+Operating System          	: Windows XP 
+Languages		: Core Java, Swings and XML
+Description:
+Using core Java and swings developed an interface known as Log Analyzer. This project is about analyzing cluster or RA logs got from the cluster environment of the Safeguard 30M solutions. User has given an option to open any sized log file and this log file is formatted to a user friendly table format. A nice user friendly GUI is designed to show the opened log files in a hierarchical tree structure. Selected files will open in a table with the details like Record #, Node #, Date, Time, Message Type [Info, Err, and Warn], Message ID, and Message. User has given an option to filter the logs for future use. The product also contains options to apply filters (Filtered by MessageType, Message ID, Message, ThreadID, User Input text), load existing filters, save filters. Bookmark options is also given for the logs so formatted. Encode/Decode status codes are supported for user information.
+ 
+Role:
+Single handedly designed, developed and implemented the code for Log Analyzer.
+
+Performance Review:
+
+Review Year
+Business Rating
+Interim Review 
+Details
+Review Manager
+Manager’s Comment on Interim Status
+2008
+3 - Fully Effective
+Status: 
+On Track
+
+Date: 12/02/2009  1:45:55PM
+Guruprasad Rajan
+Need to be more adaptive to new areas of technology as per the product requirement. Performed the identified task with few delays. Would like to see accomplishment in the VMWare technology in the second half. 
+Need to adhere to office timings. On the meeting front, must be prompt for the meetings would like to see those in the second half. 
+Were committed to most of the tasks assigned, but required follow up for the same. Would like to see less dependency on other team members. There were few instances of the test bed were not bought up to stable state and the same was not notified to other members. In these areas needs to give more attention, as the test beds are being used by many other team members.
+
+Manager’s Overall Comments:
+Able to demonstrate well. Worked well and completed tasks after continuous follow on the VMware testing. Need to adhere to schedule and timings. Not very punctual at work. Need to reduce the dependency on continuous monitoring. Has good technical knowledge. Need to see taking more initiatives. Overall Triguna has performed well. With his technical capabilities he could scale up more.
+
+Developed Tool using C# .NET for Safeguard 30M solutions:
+
+Period			: September 2007 to January 2008
+Operating System          	: Windows XP 
+Languages		: C# .NET
+	
+Description:
+Using C# .NET developed an interface known as Ease of Deployment. This project is about developing value add software to the existing product. This product is a standalone software tool by which we can remotely install/update software packages on different servers in LAN environment. 
+ 
+Role:          
+A core team member for Ease of Deployment tool using C# .NET. This tool helps the user to deploy software’s on the selected servers. The tool is software centric and lists all the available software’s and its details. User can add new server, update server and archive servers. User also can add and update software’s list. User can also able to see the deployment history for what software’s are already exist in which server. Servers are listed with IP Address or Server name. User can find the server using Windows Server Directory and/or using user generated text file.
+Developed An RCP Application for Safeguard 30M Solutions:
+
+Period			: January 2007 to June 2007
+Operating System          	: Windows XP 
+Languages		: Core Java, RPC Application
+
+Description:
+Using Eclipse RCP developed an interface known as Safeguard 30m solutions. This project is about developing value add software to the existing product. This product is to handle the failover of application and data within 30 minutes for a distance 3000 Km and above (disaster recovery). This is currently support for windows clustering environment. 
+ 
+Role: 
+Working as the core team member to develop the application and fixing the issues related to the application. A new methodology for event view plug-in is designed and coded which supports showing up the events on the table. These events are triggered as errors/warnings/information and this event view plug-in has functionalities like, filters, group by, preferences and so on.
+
+Developed An Eclipse RCP Application for VMware Project:
+
+Period			: April 2007 to December 2007
+Operating System          	: Windows XP, Linux
+Languages		: VMware, Servlets, JSP, MS-Access
+	
+Description:
+Using Eclipse RCP developed an interface known as RTC (Real Time Chargeback). This project is about testing the Safeguard30M based disaster recovery solution for VMs on VMware environment. 
+
+Role:
+Working as the core team member to develop an RCP application - VMware appliance and fixing the issues related to that.  Support for opening HTML, Flash files and a webpage on the RCP application is the added advantage of this GUI.
+
+Performance Review:
+
+Review Year
+Business Rating
+Interim Review 
+Details
+Review Manager
+Manager’s Comment on Interim Status
+2007
+3 - Fully Effective
+Status: 
+On Track
+
+Date: 26/02/2008  4:54:31PM
+Guruprasad Rajan
+Need to make sure the effort logged against project must be increased in the second half. Need to understand VMware technology faster and must help in deploying the same. 
+
+Demonstrate good progress on VMware appliance development. Must take initiate in technology and come with quick solutions.
+
+Manager’s Overall Comments:
+Able to demonstrate well. Need to adhere to schedule and timings. Not very punctual at work. Need to be punctual at work. 
+As Team member well demonstrated team work.
+
+Software Engineer – Datacard Group India, Ulsoor Road, Bangalore, Jan 2006 – Jan 2007
+http://www.datacard.com/about_datacard/about_datacard.jhtml?contentId=09707dK0s8BQa
+
+Job Description:
+Apply software engineering methods and techniques to the design, development, integration, qualification and/or support of products within one or more developing areas of expertise.  Work cooperatively as a member of a team under the direction of the project team leader or manager.
+
+Development Details:
+
+Developed GUI for Syntera Product:
+
+Period			: January 2006 to January 2007
+Operating System          	: Windows 2000 and OS/2 
+Languages		: Core Java, Swings
+Database		: Oracle – 9i, 10g
+	
+Description:
+The Syntera software system creates a single, real-time information repository for managing every aspect of card issuance, from data input to scheduling, workflow management to auditing.  The elimination of redundant, error-prone processes inherent to traditional card issuance allows card issuers to produce more cards per hour, reduce operational costs and minimize errors for better bottom-line performance.  The Syntera system is designed with modular, scalable system architecture to offer card issuers a variety of configurations to meet their specific business needs.  The Syntera system is designed with modular components that can be configured in a variety of combinations to meet specific customer needs. 
+
+Role:          
+Working on the main part of the GUI called Production Overview, which helps customer to view the charts related to the work completed, In Production, Pre-production jobs, to view stations present in the Syntera database and query them for job details present in those stations. Each station defined in the station setup has its own accepted jobs and available jobs list and the same is displayed on the GUI and Work issues tab is another GUI, which will display the number of Critical, Warning, and On Track threshold to get the complete picture of which one to look at first. Also worked for other GUI’s to fix bugs to make the product stable.
+
+Software Engineer – L&T Infotech, Whitefield Road, Bangalore, Mar 2005 – Jan 2006
+http://www.lntinfotech.com/aboutus/overview.asp
+
+Job Description:
+Apply software engineering methods and techniques to the design, development, integration, qualification and/or support of products within one or more developing areas of expertise.  Work cooperatively as a member of a team under the direction of the project team leader or manager.
+
+Development Details:
+
+Developed GUI for Parlay Telecom Application Server:
+
+Period			: March 2005 to Jan 2006
+Operating System          	: Windows 2000
+Languages		: Core Java and Swings
+Database                           : MySql
+
+Description:
+This project is mainly for mobile communication networks and deals with the operation of mobile device. When a user makes a call, the call will go to software, which will in turn call the server and finds the number which user dialed and check the connection with the other server which is selected based on the number and if connection exists, it will connect and it will give the dial tone to the other user. If user responds then it will activate a connection pool through which user can talk with each other. If user’s phone is busy, a busy tone will be sent back to the caller. If user doesn’t respond, no answer tone will be sent to the caller. Each server is may be in different locations. GUI, which is developed, is used to see what is happening in all these conversations, whether user gets a proper connection or whether user is responded properly and all. Each of this is shown on the GUI through a blinker image, which will get activated based on the request from the user.
+
+
+Role:         
+Design and Development of the GUI which will be helpful for user to see all the incoming and outgoing calls, helps the customer to make some settings based on the speed of the line, based on the speed of the network connection so available and so on.
+
+System Engineer – Yugathri Info solutions, Bangalore, Jun 2004 – Mar 2005
+
+Job Description:
+Apply software engineering methods and techniques to the design, development, integration, qualification and/or support of tools within one or more limited areas of expertise.  Work independently to manage a team under the direction of the manager.
+
+Development Details:
+
+Developed GUI for File Distribution Software
+Operating System          	:  Windows 2000
+Languages		: Core Java and Swings
+Databases		: MS-Access
+
+Description:
+Using the Socket and Socket Channel classes developed a GUI to transfer the selected file/files from one machine to another machine.
+Role:  
+Designed and developed entire functionality.
+
+Developed GUI for Production Report Software
+Operating System          	:  Windows 2000
+Languages		: Core Java and Swings
+Databases		: MS-Access
+
+Description:
+A Production Report Software which can help the Project Manager, Team Leader and the User to View the report of their production process.
+Role:  
+Designed and developed entire functionality.
+
+Developed GUI for CRM Software
+Operating System          	:  Windows 2000
+Languages		: Core Java and Swings
+Databases		: MS-Access
+
+Description:
+Customer Relationship Management software developed to keep track of companies every day’s work.
+Role:  Designed and developed entire functionality.
+
+Developed GUI for Mailing Service Software
+Operating System          	:  Windows 2000
+Languages		: Core Java and Swings
+Databases		: MS-Access
+
+Description:
+This software product is used for internal mailing communication. This product is similar to the outlook express, which is a Microsoft product. A similar number of options are provided in the product, which is called as Mailing Service.
+
+Role:  
+Designed and developed entire functionality.
+
+
+Effective Team Membership:
+	Unisys Global Services India has given an opportunity to attend this training. This training helped me to become a key team player.
+
+VMware:
+	Unisys Global Services India has given an opportunity to attend this training. This training helped me to handle VMware related issues as an administrator and/or developer.
+
+Fagan Inspection:
+	Unisys Global Services India has given an opportunity to attend this training. The Fagan inspection is a review process which helps to find defects in the code at early stages of project life cycle.
+
+The Power of Influence:
+	Unisys Global Services India has given an opportunity to attend this training. This is a soft skills development training which helped me to understand the power of Influence and competence.
+
+
+Recommendations in LinkedIn:
+
+Sr. Software Engineer
+Unisys Global Services India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Engineer
+Datacard Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bachelor of Engineering:
+
+	Jawaharlal Nehru National College of Engineering – Shimoga
+	Bachelor of Engineering, Jun 2000 – Apr 2004
+	Percentage: 71.1
+	Associate Degree:
+	Information Technology
+
+Deshiya Vidya Shaale (D.V.S) Pre-University College – Shimoga
+	Pre-University College (P.U.C), Jun 1998 – Apr 2000
+	Percentage: 79.16
+	
+Deshiya Vidya Shaale (D.V.S) Composite College – Shimoga
+	Secondary School Leaving Certificate (SSLC), Apr 1998
+	Percentage: 70.4
+
+I certify that the statements made by me above are true, complete and correct to the best of my knowledge and belief.   
+
+
+
+									-- Triguna -

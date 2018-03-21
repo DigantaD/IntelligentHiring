@@ -1,0 +1,121 @@
+
+	
+
+
+PROFESSIONAL SUMMARY
+
+I have more than 3.5 years experience in IT Industry. Has good expertise in Java platform and completed Java Certification from Sun Microsystems.
+
+Objective is to become a successful professional in the field of Information Technology and to work in an innovative and competitive world.
+
+EDUCATION
+
+MCA from Anna University in 2006.
+
+B.Sc (Computer Science) from Madurai Kamaraj University in 2003.
+
+
+EXPERIENCE
+
+Presently working as a Software Engineer in Medialive Softech India Private Limited from July 2010.
+Worked as a Software Engineer in Gi Terminal iTech Private Limited from Jan 2007 to June 2010.
+
+
+TECHNICAL SKILLS
+
+
+OPERATING SYSTEMS		:	MS-DOS, Windows 9X/NT/XP
+
+PROGRAMMING LANGUAGE	:	Java
+
+DATABASES		:	Oracle, SQL Server 2000, MS-Access
+
+WEB TECHNOLOGIES		:	HTML, JSP, Servlet
+
+APPLICATION SERVER		:	Tomcat	
+
+IDE			:	Netbeans, Eclipse
+
+CERTIFICATION			:	Sun Certified Java Programmer 
+
+	FRAMEWORK			:	Spring 
+
+PROJECT DETAILS
+
+1)     Project	      		  :	SICBO 
+	
+         Duration	      		  :	Sep’2009 to June’2010
+
+         Technology     		  :	Java, JSP, Swing, Socket
+
+         Client			  :	Martin Lottery Agencies Ltd, Bhutan
+
+         Role & Responsibilities	  :	Developer & Client side development
+
+         Description      		  :
+                                   	   Basically it is a skill based Chinese game. This game is based on the dice combination with numbers. Betting can be done within a specified time frame. Result will be automatically generated and the winners will be generated based upon the result. Winning credit points will be added to the player based upon the result and betting. There are two options in this game as single player and multiplayer. Both the options are based on the client server using TCP socket communication. Everything controlled by the server end itself.
+2)     Project	      		  :	WONDER WORLD 
+	
+         Duration	      		  :	Mar’2009 to Aug’2009
+
+         Technology     		  :	Java, Swing, Socket
+
+         Client			  :	Martin Lottery Agencies Ltd, Sikkim
+
+         Role & Responsibilities	  :	Developer & Client side development
+
+         Description      		  :
+                                   	   This project is concerned with online video lottery games. It comprises of six different types of games. All the games were developed as a client server model. All the games were developed with security. Basically wheel based and slot based games were integrated in the video lottery games. The client game application is connected to the server using TCP socket communication.
+3)     Project	      		  :	SINGLE DIGIT AND TWO DIGITS VIDEO LOTTERY
+	
+         Duration	      		  :	Sep’2008 to Feb’2009
+
+         Technology     		  :	Java, Swing, Socket
+
+         Client			  :	Martin Lottery Agencies Ltd, Sikkim
+
+         Role & Responsibilities	  :	Developer & Client side development
+
+
+
+
+         Description      		  :
+                                   	   This project is concerned with online video lottery game. A video lottery system for playing electronic games on multiple video lottery terminals, the system includes a central computer at a central site and at least one gaming site remotely connected from the central computer. Both single digit and two digit game are video lottery games. Single digit game betting number 0 to 9 numbers and two digit game consists of the numbers from 00 to 99. Single digit and two digits are online video lottery games. The client game application is connected to the server using TCP socket communication.
+4)     Project               		 :	CASINO SLOT
+
+       Duration	         		 :	Mar’2008 to Aug’2008
+
+       Technology         		 :	Java, Swing, Socket
+
+       Client			 :	Martin Lottery Agencies Ltd, Bhutan
+
+       Role & Responsibilities	 :	Developer & Client side development
+
+       Description        		 :
+                                       	  This game is a casino based gambling game. Slot machines casino games based on three or more spinning reels. It requires no special skill to learn this game and it's a game of pure chance. The basic objective of this game is to line up three or more of the most valuable symbols on the spinning reels. These are also called pay lines. Once you strike identical symbols on the pay line, you will get payout according to the payout schedule of the particular slot machine in which you are playing. Based upon the match line he will get the winning or lose the bet amount. 
+5)     Project	: 	Smartwin 
+        Duration	: 	Sep’2007 to Feb ’2008
+        Technology   	            : 	SQL Server 2000, Java, Swing, Socket
+        Client	: 	Martin Lottery Agencies Ltd
+        Role & Responsibilities     :		Developer & Client side development
+        Description	:
+	This project which is currently related to the online lotteries selling through the terminals across 4 states of Maharashtra, Nagaland, Punjab and West Bengal. The client game is connected with UDP socket communication. It consists of four sub games. Each and every game has a different method to win the game. Based upon the prize structure, winning amount will be generated against the betting numbers with the exact result matching. Security id and configuration id can be utilized for security purpose.
+6)     Project	: 	TWO DIGIT LOTTERY
+        Duration	: 	Mar’2007 to Aug’2007
+        Technology   	            : 	SQL Server 2000, Java, Swing, Socket
+        Client	: 	Martin Lottery Agencies Ltd
+        Role & Responsibilities     :		Developer & Client side development
+
+        Description	            :
+	A private VSAT network of over 300 terminals, which is the largest ever Project handled by Bharti Telecom Network Ltd and installed across all major states of Maharashtra, Nagaland, and Punjab, was a standing testimony to the success of the Application. This is another Database centric Project which is online 24x7 and which calls for high degree of monitoring owing to the highly resource intensive stored procedures which requires optimization and generation of a number of reports customized to the clients requirements. This game is based on the last two digits of the betted number.
+
+PERSONAL PROFILE
+Father’s Name                 :  Mahesh Reddy
+Date of Birth                     : 28-04-1983 
+Permanent Address         : 25/7-14  
+Phone (Res)                    :  291217 
+Passport Number            : H0873499
+Languages                      :  Tamil, English                     
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+
+							         Mahesh Reddy

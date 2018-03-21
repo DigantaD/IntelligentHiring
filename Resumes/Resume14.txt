@@ -1,0 +1,111 @@
+
+xxxxxxx
+Personal Profile
+Outgoing, diligent worker
+Quick to adapt to new challenges
+Good communicator
+
+6+ years in C 
+2+ years in C++
+5+ years in Delphi
+18+ years in various flavours of BASIC
+15+ years in various assembly languages
+1+ year in Java
+6+ Years .NET
+
+Qualifications
+B.Sc. (Hons) in Computer Science 
+1994 – 1997 Manchester University
+Professional Experience
+Blemain Finance — Manchester
+2007 to Present
+Developer
+During this job, I have worked on projects including:
+Implementation of dialler integration into our internal web apps 
+Implementation of custom builds/target files on Team Foundation Server to better serve our needs.
+Maintenance of legacy ASP/VB code.
+Worked extensively on areas within the accounting engine to improve overall design. Including full VAT implementation and more accurate cash flow projection.
+Development on Microsoft Dynamics CRM 4.0 to improve its accessibility from a development point of view.
+Part of a team that implemented a framework on top of the Microsoft SDK to improve developer productivity, including a RESTful layer to access all entities.
+Integration of 3rd party dialer software.
+Earned an Microsoft Certified Technology Specialist - .Net Framework 2.0: Web Applications
+Extensive day to day work in VB.Net, ASP.Net, T-SQL, Javascript (C# is my preferred language for home projects though)
+Part of team that provided a solution to get 2D bar code scanning for paper applications.
+Part of team that implemented secure online payments
+Worked in many .Net 3.0/3.5 technologies, including: 
+WCF (plus restful starter kit)
+LINQ (including custom providers)
+Workflow
+ASP.NET MVC
+Microsoft Ajax library (have moved to jQuery now though)
+
+Anchor Computers Ltd. — Bangor, Wales
+2002 to 2007
+Developer/Senior Developer
+My initial appointment at this company involved a trial first month, as they were not looking to employ anyone extra at the time. The work I produced during that time was greeted with enthusiasm, and I was offered full time employment.
+Within a matter of months I was put jointly in charge of one project, leading to greater opportunities for my growth within the company. Responsibilities currently include: liaising with customers to meet their requirements in custom work for projects; delegating work to fellow workers, and ensuring delivery of work to set deadlines. Skills currently being employed include the following:
+VB
+Crystal Reports (reports and API)
+SQL Server 2000/2005
+ADO/ADO.Net
+COM/COM+
+C#/VB.NET
+Aiding colleagues in the use of frameworks employed by the company
+Dealing with clients for training, support and requirements analysis
+Project Management
+XML/XSLT
+ASP/ASP.Net/HTML/Scripting
+Converting legacy FoxPro code into VB
+
+Beach Hotel — Anglesey, Wales
+1999 to 2001
+During this placement, I was constantly developing in my own time. Whilst there, I did extend my customer communication, both face to face and over the phone. Other work included the design of numerous advertising posters for the hotel and other, related establishments. A hotel reservation system was one of the projects that I embarked upon whilst employed here. The IT work that I did do in my own time included the following:
+Delphi Applications/Components
+Client-Server apps (layering remote calls onto Paradox)
+SQL
+OLE Automation
+Python/Javascript enabled applications for extensibility via scripting.
+Java
+Javascript/DHTML
+Tutoring friends in C, C++ and Java
+Gameboy/GBA development
+PIC Microcontroller programming
+
+Rural Computers — Bangor, Wales
+1998 to 1999
+Developer
+My initial period at this placement involved getting up to speed with numerous projects that the company was undertaking at that time, and participating fully in the implementation of the systems. These were generally written using Delphi.
+Most of the systems that I worked on during my stay were bespoke relational databases, and included traditional applications such as accountancy, stock control and general shipping tracking systems. These would involve the use of SQL so far as any queries were concerned.
+Soon after joining the company I was able to manage my own time, and divided it amongst the numerous projects that I was working on at any one time. Projects were either taken up as part of a wider team, or individually.
+One such individual project that I oversaw was a Questionnaire Suite that consisted of three main modules: Design, Input and Analysis, providing a mix of WIN32 and database-oriented programming. This project gave me the opportunity to deal with clients needs directly and adapt to the required changes that invariably crop up.
+Other projects included the updating of legacy DataEase applications into a WIN32 environment. A rapid prototyping methodology was generally used in projects undertaken at the company making it easier to adapt as it is in a bespoke system’s nature to be changeable.
+Internal projects were also undertaken - both application-centred and component based.
+Education and Training
+9 GCSE’s Grades A-C (including 
+English and Maths) 
+1987-1992 Holyhead Secondary School 
+
+3 A-Levels: 
+· Maths A 
+· Computer Studies B 
+
+· Physics B 
+· Physics S-paper Distinction 
+1992-1994 Holyhead Secondary School
+
+Interests
+Music - in particular playing the piano and composing
+Reading - both technical and fictional publications
+Computers - background reading and working for my own expansion
+
+Socialising - in particular, playing pool
+Art - Usually my own drawing, and design
+
+
+
+Personal Details
+Date of Birth:	5th October 1975
+Marital Status:	Single
+Health:		Excellent
+Driving Licence:	Full, Clean
+

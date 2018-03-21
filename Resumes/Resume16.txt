@@ -1,0 +1,314 @@
+Personal Details
+Name: 			Mahesh Reddy
+Date of Birth: 		
+Nationality:		
+Address:	 	
+Mobile:			
+Home: 			
+Email:			
+Qualification Summary
+8 years commercial experience across a broad range of industry sectors.
+Strong research background, qualified in computer science, information systems, and software engineering.
+Exemplary problem solving ability, clear concise logical thinker.  Able to architect, manage, and model large scale complex systems. 
+Independent learner rapidly assimilates new information.  Able to creatively adapt efficient solutions and algorithms to the most challenging scenarios.
+Diversified range of skills and expertise.  Wide general knowledge in information technology and application of mimetic principles.
+Domain expert in internet technologies. 
+Skills Summary
+
+Low ■
+Medium ■■ 
+High ■■■ 
+Expert ■■■■
+Programming & Software Development
+
+C / C++ 
+■■■■ 
+Design Patterns & Methodologies 
+■■■
+Java / J2EE
+■■■■
+Decompilers, Java / C++ (Jasmin, BCEL SoftICE)
+■■■
+C# / Microsoft .NET
+■■■■
+Version Control Systems (CVS, RCS, Subversion)
+■■■
+Sockets Programming (Windows, Linux)
+■■■■
+Libraries (MFC, STL, ATL, Win32)
+■■■
+Multi Threaded Programming (Windows, Linux)
+■■■■
+Component Models (COM, EJB)
+■■
+Pascal
+■■■
+Scripting (Perl, CGI, Python, Ruby)
+■■
+Visual Basic
+■■■
+Function Programming (Haskell)
+■
+Object Oriented Design and Modelling (OOD, UML)
+■■■
+Assembler Language
+■
+Build Tools (Makefiles, Apache Ant)
+■■■
+
+
+
+Web Development, XML & Database
+
+Cascading Style Sheets (CSS)
+■■■■
+Active Server Pages (ASP) / ASP .NET
+■■■■
+HTML / XHTML
+■■■■
+Java Servlets / JSP
+■■■■
+DHTML
+■■■■
+Jakarta (Velocity, Turbine, Torque, Tomcat, Struts)
+■■■■
+XML (XSLT, XPath, DTD, Schema, DOM, SAX)
+■■■■
+Database Related Technologies (RDBMS)
+■■■
+Web Services
+■■■■
+Structured Query Language (SQL)
+■■■
+SOAP / XML-RPC
+■■■■
+MS SQL Databases
+■■■
+W3C Certified Technologies and Standards
+■■■■
+Oracle Databases
+■■■
+Microsoft Internet Explorer Technologies
+■■■■
+MySQL Databases
+■■■
+WAP / WML
+■■■■
+PHP 
+■■
+Java Script / VB Script
+■■■■
+
+
+ Networking, Operating Systems & Administration
+
+Web Server Administration
+■■■■
+Macintosh Operating Systems
+■■■
+Microsoft Operating Systems
+■■■■
+Internet Security
+■■■
+Microsoft IIS / SQL Server
+■■■■
+Network Administration
+■■■
+Unix/Linux Operating Systems
+■■■■
+Network Protocols / Hardware
+■■■
+Windows 2000 Advanced Server Administration
+■■■■
+Unix/Linux Administration
+■■■
+Windows NT4 Administration
+■■■■
+General Communications Hardware and Protocols
+■■
+Network Security
+■■■■
+Network Infrastructures / Topology and Design
+■■
+Management & Technical Experience
+
+Computer Hardware
+■■■■
+Cryptography / Information Codes
+■■■
+Internet Technologies
+■■■■
+GIS Systems
+■■■
+Network Protocols & Standards
+■■■■
+Project Management
+■■
+Artificial Intelligence / Machine Learning
+■■■■
+Production Management
+■■
+Systems Architecture
+■■■
+Infrastructure Design
+■■
+Professional Experience
+Contract – Consultant, Barclays Capital (July 2004 - Present)
+Location: United Kingdom
+Headquartered in London, Barclays Capital is the investment banking division of Barclays Bank PLC, one of the largest multi-national financial services groups in the world. http://www.barcap.com
+Worked on the core engineering team to enhance the performance and improve the design of the existing electronic trading system.  Made several large architectural changes which resulted in significant benefits to the throughput and speed of messaging within the middleware environment.
+Gained extensive experience in optimising resource intensive applications, running on multi processor Windows and Unix environments with hundreds of processes and gigabytes of memory.
+Demonstrated in depth understanding of IPC, threading, event driven architectures, and messaging combined with efficient memory management and optimisation strategies using C++, .NET, and Java.
+Analysed and debugged complicated systems consisting of millions of lines of code in order to determine the most appropriate features for re-engineering, achieving the maximum impact with the minimum amount of associated commercial risk.
+
+Permanent – Consultant, ThoughtWorks (December 2003 – July 2004)
+Location: United Kingdom
+ThoughtWorks is a systems integrator serving Global 1000 companies from offices in the United States, Canada, United Kingdom, Australia, and India.  It is a recognised industry leader in the application of Agile methods allowing delivery of high-value solutions to clients sooner - and in a way that reduces risk, accelerates time to market, and ensures system quality.  http://www.thoughtworks.com
+Worked alongside industry luminaries, Open Source professionals, and thought leaders in the Java and .NET worlds to provide expert consultancy services to a range of UK clients.
+Consulted with and developed applications for a large online retail bank using the Microsoft .NET platform.   The projects were run using Agile methods and Extreme Programming (XP) principles such as Pair Programming and Test Driven Development (TDD).  Used industry leading continuous integration and testing tools such as CruiseControl.NET and NMock to facilitate the rapid development and deployment of several major software projects in a financial environment.
+Gained extensive experience in the application of Agile and XP practices.
+Obtained valuable knowledge about financial and banking related domains.
+Was exposed to many future Microsoft technologies on the Longhorn platform.
+Worked on several teams maintaining and enhancing a multi million pound project with one of the UK’s largest retail companies.  With over a million lines of Java code, the custom written touch screen point of sale system is responsible for every aspect of the day to day business of the organisation.
+Gained further experience with leading edge Java technologies and practices using a mix of Java development environments, testing tools, and managed build processes across multiple platforms.
+Obtained valuable experience in developing high volume transactional, message based architectures.
+Applied problem solving and technical skills to locate and overcome defects in a very large project with a rapidly changing and unfamiliar code-base.
+Research – Technical Architect / Programmer / Technologist (January 2002 – Present)
+Location: Australia / United Kingdom
+This is a self funded research and development project which aims to create and commercialise a platform for data mining and internet search technologies. http://www.harvestman.net
+Over 100,000 lines of platform agnostic C/C++ code.
+Linux/Unix, Windows, and BeOS compatible.
+Rigorous coding standards and documentation.
+Facilitates text mining, searching, and semantic analysis of many types of information.
+Memory and speed optimised, scalable, multithreaded library.
+Sockets and networking modules, allowing both asynchronous, synchronous modes of operation across all supported platforms.
+Multithreaded client/server technology, crawlers, spiders, and agents.
+HTTP, FTP, and SMTP servers and clients.
+High performance architecture http://harvestman.net/performance.html
+Implements and supports many Web Services technologies and standards
+XML 1.1 (DTD Validating parser)
+XSLT and XPath 1.0
+RPC standards such as SOAP and XML-RPC.
+HTML to XHTML document trans-coding, conversion and repair.
+Utilises custom RTTI and a signally rooted hierarchy to create a flexible and elegant OO architecture for authoring all kinds of Web Services and Internet technologies.
+Has absolutely no external code dependencies
+Does not use STL, ATL or COM, C++ iostream libraries or any other unnecessary and non-portable language features.
+Minimal use of C++ templates, and no exception handling or extended language features to maintain maximum portability and speed.
+Well thought out and implemented object oriented design featuring collections libraries comparable to Java and .NET with generics support.
+Specialised string handling and memory management for scalability and performance.
+World class implementations of common internet standards, protocols, and W3C technical specifications with particular emphasis on XML technologies.
+Extensive use of machine learning and artificial intelligence.
+Artificial Neural Networks
+Employs Bayesian, Genetic, and Reinforcement learning algorithms.
+Computational linguistics, lexical and semantic analysis.
+Strong interest from potential investors, collaborators and developers from around the world including leading search engine companies.
+Open Source development and licensing model.
+
+Freelance – Programmer / Technical Advisor, TOTE (August 2002)
+Location: Hobart, Australia / Melbourne, Australia
+This project involved adding additional functionality to existing technology operated by the TOTE, a national business that operates online and traditional sports betting outlets.
+Worked with custom Java/J2EE solutions
+Highly scalable architecture designed to handle many thousands of simultaneous users.
+Developed and implemented an online front end to a Cricket betting application.
+Collaboration with academic staff responsible for the patented algorithms developed at the Swinbourne University.
+Extension and integration of existing code base of over 80,000 lines of Java/J2EE code utilising technologies such as Netscape Live Connect.
+Scratch built J2EE Client/Server messaging application and architecture supporting thousands of users.
+Freelance - Technical Architect / Programmer / Project Management, Australian Government Directory (May 2002 – October 2002)
+Location: Hobart, Australia
+This 6 month project was for the Australian Government Directory, a national business that operates a large online and print directory service. The project consisted of the following elements;
+Extensive use of a diverse range of programming technologies
+C++, Java, J2EE, Apache Tomcat, Java Servlets, Velocity, HTML, DHTML, JavaScript
+Business process re-engineering.
+Infrastructure relocation, purchase and installation of new servers, software, networking hardware, and firewalls.
+Migration of primary operating platform from Microsoft Windows NT 4 to RedHat Linux 8.0.
+Linux administration, networking DNS, Firewall, SAMBA, and RAID.
+Designed, developed, and implemented internet and intranet presence using Java/J2EE Open Source technologies and proprietary C++ software.
+Database design, importation of thousands of records from Adobe PageMaker publishing software to MySQL utilising custom built technology.
+Content management, Administration using Java Servlets and the Velocity engine.
+CD-Rom & XML Print export.
+Context sensitive search engine.
+The publicly accessible site allows the searching, navigation and maintenance of over 30,000 individual records relating to a diverse range of Australian business, educational, tourism, and research organisations. 
+Freelance – Programmer, Optus Cable & Wireless (October 2001 – December 2001)
+Location: Sydney, Australia
+Over a two month period I developed Interactive Television applications for the Optus Cable & Wireless ITV trial.
+Sole developer, liaising directly with the client using technologies never before used in Australia.  
+Liberate ITV platform, ASP and JavaScript.
+Integrated web content to produce an interactive television application 
+Live Video footage merged with HTML layout
+Database driven content
+Noted as one of the best applications on offer to the Optus subscribers during the first ever Interactive Television trial in Australia.
+Permanent – Programmer / Technologist, Massive Technologies (May 2000 – September 2001)
+Location: Sydney, Australia
+C++ programming and technology research.
+Early work with custom XML technologies, Trans-Coding solutions for interactive television, WAP, and SMS based applications.
+Transitional period between two roles, worked simultaneously for a number of months trouble shooting existing web applications for Massive Interactive whilst joining the software engineering group within Massive Technologies.
+Part of a small team of dedicated programmers developing a unique platform for Internet technologies and application deployment. 
+The product, which is called MetaWrap, has one many technology awards in Australia and is still under going heavy development as an Open Source project at:  http://www.metawrap.com
+Worked with C/C++ on multiple platforms including Microsoft/COM, Linux, BSD, and Solaris. 
+Gained extensive experience with all kinds of internet protocols and applications including;
+POP, SMTP, MIME
+DNS
+HTTP, FTP, VNC, Telnet, SSL
+Responsible for researching new technologies as well as the design and implementation of various aspects of the platform with particular emphasis on www standards and search engine capabilities.
+Developed a parser and object model for handling Cascading Style Sheets (CSS) on a custom set-top box browser being developed in house for the Interactive Television market.
+Pioneering work in Australia.
+Gained project management experience writing proposals and requirements documents for large applications.
+Designed and wrote proposals for Interactive Television based Email applications.
+Liaised with several key clients to develop a proposal for an online livestock breeding application with particular focus on the Horse breeding and racing industry. 
+Exposure to many emerging technologies
+Advanced XML processing applications
+WAP & SMS gateways 
+Handheld devices, PalmOS and various Mobile phone platforms such as Ericcson and Nokia.
+Interactive Television platforms such as Liberate and OpenTV.
+Permanent – Senior Programmer, Massive Interactive (August 1999 – May 2000)
+Location: Sydney, Australia / Los Angeles, USA
+Developed large web based applications using ASP, C++, JavaScript and various database technologies.
+Worked as the lead developer on a number of major projects handling all areas from architecture, database design, to programming and scripting, and interface design.
+8 months developing a Geographical Information System for the Sydney 2000 Olympic games. The system which went live several weeks before the Olympics was hosted on http://www.gamesinfo.com.au and allowed people travelling to and from the Olympics to plan their transportation, view maps, and receive detailed directions and walking instructions if necessary.
+Worked in Sydney and Los Angeles liaising with clients and suppliers of the many software solutions that were involved.
+Hosted on a load-balanced rack of servers to handle the large volume of traffic.
+Developed custom GIS mapping server using ESRI architecture using Visual Basic & COM running under Microsoft Windows NT.
+Gained extensive experience with the Map Objects platform.
+Post Olympics statistics and analysis indicated that the Trip-Planner section of the site experienced the heaviest load and was one of the most popular web based services during the 2000 Sydney Olympic Games
+Developed new solutions and maintain existing E-Commerce applications for large clients in the Entertainment Industry.
+Worked with in-house software to provide email based content management systems and automatic database maintenance. 
+Contract – Senior Web Developer, Hydro Electric Corporation (October 1997 – March 1999)
+Location: Hobart, Australia
+Maintained and developed Client and Server side technologies on a Microsoft platform.
+SQL Server Database administration and maintenance.
+Extensive use of Active Server Page (ASP) technology.
+Primary role as a web developer responsible for all production for both Internet and Intranet environments using server and client side technologies.
+Initiated the uptake of many new technologies and development strategies.
+Provided support and assistance to staff and training to other developers.
+Developed extensive intranet architecture using Microsoft technologies
+COM, HTML, DHTML, JavaScript
+Site wide rollouts of custom Internet Explorer browser solutions.
+Maintenance and administration of IIS Web Servers.
+
+Freelance – Web Developer / Graphic Design, Spotted Dog Consultancies (February 1996 – September 1996)
+Location: Hobart, Australia
+Consulted and developed content using HTML, Graphic Design, and Desktop Publishing solutions.
+Produced small scale websites and information brochures.
+
+Freelance – Database Developer (January 1996)
+Location: Hobart, Australia
+Regional Forest Practices Agreement, Tasmanian State Government
+Created and maintained database systems using Microsoft Access as part of the government RFA project.
+Microsoft VBA programming / Forms design.
+Freelance – Programmer (August 1995 – November 1995)
+Location: Hobart, Australia
+Designed and implemented industrial control system for a private client developing a small scale tin smelter.
+Pascal, C, and Assembler language
+Scratch written Dos based GUI with mouse support and animation.
+Hardware interfaces to data loggers and custom control devices via com ports and serial communications.
+Education
+University of Tasmania (January 1996 – April 1999)
+Bachelor of Computing, majoring in Software Engineering and Information Systems.
+University of New South Wales (June 2001 – December 2001)
+Undergraduate study in Finite mathematics / Cryptography
+Postgraduate study in Machine Learning, Artificial Intelligence, and Programming Languages & Compilers
+
+Referees
+
+	
+

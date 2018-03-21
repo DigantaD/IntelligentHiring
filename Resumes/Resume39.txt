@@ -1,0 +1,143 @@
+Mahesh Reddy
+Introduction
+An outgoing enthusiastic individual with a deep rooted interest in computing technology and a great capacity for innovation backed by strong analytical and problem solving skills. Specialising in XML and Java technologies, in particular Native XML Databases. Thriving under challenges and opportunities to explore new technologies and methods. Suited equally well to working in a team or individually, with experience of leading teams and managing projects.
+Core Skills
+Software Development
+XQuery, XPath, XSLT, XSpec
+XML, XHTML, XForms
+Web Services REST, SOAP
+Java, Spring MVC, JSF IceFaces
+JavaScript, AJAX
+JUnit, Ant, JMock, EasyMock
+Eclipse and NetBeans
+Microsoft C# .NET
+ASP / ASP.NET
+Agile Development Approaches
+Test Driven Development
+
+
+Servers
+eXist XML Native Database
+Apache Jakarta Tomcat
+Sun Java Application Server
+Oracle RDBMS
+MySQL
+Microsoft SQL Server 
+Apache HTTPD
+Microsoft IIS
+IXOS LiveLink CMS
+Bind
+Microsoft SBS Suite
+Active Directory
+Courier IMAP
+Postfix
+Samba
+Verity UltraSeek
+Semaphore SmartLogik
+
+
+Systems
+Microsoft Windows 3.1 - Vista, 2003 Server
+Ubuntu and SUSE Linux
+OpenSolaris
+Sun Solaris 10 Sparc/x86
+MacOS 9, X
+FreeBSD
+
+Education
+Sept. 1999 – June 2003	BSc (Hons) Computer Science (Software Engineering)
+University of Derby
+Upper Second-Class Honours Degree (2:1).
+Complete life-cycle including analysis, design, project management, development and testing.
+Also studied and excelled at all BSc Computer Science (Networking) modules.
+Year in industry involving project management, budgeting and development.
+Particularly ambitious dissertation resulting in double A grading.
+
+Sept. 1992 – June 1999	GCSE and GCE A-Levels
+The Kings School
+GCE A-Level – Computing and Physics.
+GCSE – 9 Higher Tier Qualifications; English, Maths, Science, Electronics, Design and Realisation, History and French.
+Gained additional Diploma of Achievement whilst studying GCSEs.
+Employment
+April 2008 – Present			Java Developer
+Landmark Information Group
+Landmark is Britain's leading supplier of land and property search information. Providing digital mapping, planning and environmental risk information, Landmark also delivers comprehensive geospatial solutions.
+Agile development within the Application Services Team utilising Java and C#.NET.
+Providing specialist XML processing development expertise.
+Development, improvement and testing of on-line registers for Home Information Packs and both domestic and commercial Energy Performance Certificates in England, Wales and Northern Ireland. The Register's dataset consists of over 2 Million XML documents, and is increasing by about 1 Million documents a year.
+Currently developing a Data Warehouse solution focused on efficient Java and XML parsing to shred the Registers XML documents and Schemas into Oracle 11g for use by Business Objects Enterprise.
+
+
+
+Sept. 2004 – April 2008		Principal Developer / Technical Lead
+The Devon Portal Project
+The Devon Portal is an initiative of the Devon e-Partnership formed from a central government drive for integrating and providing existing local government services online. The Portal forms the technical delivery platform for the partnership; consisting of – 10 local and unitary Devon authorities, Dartmoor National Park, Devon & Cornwall Constabulary, Devon and Somerset Fire and Rescue Service and Devon County Council.
+
+Responsible for the technical architecture, development and implementation of all hardware and software; diverse role drawing on my wide skill base and research capabilities.
+Designed and developed a substantial online directory of Community Groups to assimilate many existing disparate applications and databases. The solution was delivered atop eXist; an Open Source Native XML Database written in Java. The solution was developed using XQuery, XSLT, XForms and Java. As a consequence I became a developer on the eXist project, fixing bugs and adding necessary missing features to enable delivery of our solution.
+Designed and implemented a federated Search, A-Z and Integrated Public Services Vocabulary meta-data classification system across all partners websites. The solution comprised of SmartLogic Semaphore Server, bespoke Java middleware and SOAP web services, GlassFish application server and a variety of bespoke client implementations for our partners Content Management Systems. As well as designing the architecture, I wrote almost all of the bespoke code and acted as Project Manager during the implementation and delivery phase.
+Mentored and trained a junior software engineer, developing his skills in XML, XQuery, XSLT, XForms, Java, JavaScript and Unix systems administration.
+
+March 1997 – April 2003	Network and Systems Administrator / Web Developer / Trainer
+Project COSMIC
+Project COSMIC is a non-profit organisation and also now a UKOnline Centre aiming to empower rural communities with ICT. Specialising in Web Development, Web Hosting and IT Training. Initially starting as a volunteer, I was shortly recruited for web programming and networking.
+After evaluating their Internet hosting services (web, email and DNS) I successfully migrated them from Windows platforms to FreeBSD, thus reducing costs, improving security and increasing uptime.
+Responsible for design, budget and implementation of provisioning an entirely new network and web hosting facility during the move to a new building following a successful lottery funding bid. Included servers, workstations, network infrastructure, communications provisioning and software.
+Administration of all internal and external server and network services.
+Worked as part of a small team meeting with customers and developing database driven websites using IIS, ASP, ISAPI, Perl and SQL.
+Worked as an ICT trainer within a team delivering to a wide variety of groups within the South West.  Senior trainer in Web Programming.
+
+June 2002 – Sept. 2002	IT Technician
+Ford and Sons Ltd.
+Ford and Sons Ltd. operated a call and distribution centre for the insurance sector. From here they specialised in replacing and repairing electrical and white goods. My employment was within the back office IT team for the call centre.
+
+Development and securing of e-commerce websites for Fords and affiliate groups such as Virgin Group’s Tribe and ONE, CSMA and Unipart.
+Integrated networks and systems across three geographically dispersed sites using VPN and routing technologies following acquisitions by Fords.
+Maintained servers, workstations, and network infrastructure.
+Open Source Achievements
+During my spare time I have contributed to various Open Source projects and have also enjoyed some freelance consultancy resulting from this work.
+
+EXQuery
+Founded the EXQuery project in February 2009 to address shortcomings with using XQuery for developing full applications – http://www.exquery.org.
+Launched the project formally via. a poster session at the XML Prague 2009 conference.
+Recruited known experts from the community to participate.
+
+
+eXist XML Native Database
+Java and XML developer on the project since May 2005 – http://www.exist-db.org
+Many fixes and features committed, including an XQuery SOAP Server, Scheduler and XForms.
+Attended and presented at both XML Prague 2006 and 2007 international conferences.
+
+Chiba XForms Server
+Java and XSLT developer on the project – http://www.chiba-xforms.org
+Created XHTML output version of XSLT.
+Committed several small fixes and new functions.
+Implemented xforms:copy according to W3C XForms 1.0 specification.
+
+
+Apache HTTPD
+Back ported mod_proxy reverse proxy cookie support in C++ from the Apache HTTPD 2.2x branch to Apache HTTPD 2.0.55.
+Freelance Consultancy
+United Nations – Department of Economic and Social Affairs
+Consultancy and development on the Bungeni Project centred around using eXist as the repository for legal documents produced by parliaments in Africa.
+Consultancy on a second piece of work is currently in progress.
+
+University of Oxford
+Lectured Computer Science students on XML native databases; used eXist for practicals.
+Collaborated on development of an online Lexicon of Personal Greek Names for the Classics Department using eXist.
+
+Nature Publishing Group, London
+Consultancy on capabilities of XML native databases; in particular eXist and large datasets.
+Advised on journal publishing platform architecture.
+
+University of the West of England
+Lectured Computer Science students on using and developing with eXist.
+Advised on eXist development for the computing schools information system.
+Interests
+Snowboarding – BASI qualified instructor practising at Torquay Alpine Ski Club.
+Exploring the countryside – visiting and walking on Dartmoor and around the coastal paths.
+Travelling – visited Thailand, Malaysia, Singapore, Australia and many European destinations.
+Home Improvement – renovating a property in Exeter that I recently moved into.
+Others – music, electronics, computing history and reading.
+References
+Available on request.

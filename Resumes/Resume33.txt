@@ -1,0 +1,142 @@
+CURRICULUM VITAE - 
+
+
+PROFILE	 
+
+An experienced and responsible Software Engineer with a high degree of initiative, continuingly updating skill set with new techniques and technologies. 	Excellent computing skills covering the full life cycle of commercial applications using formal and modern methodologies, including requirement gathering,  software design and development, team leadership, mentoring, support, project management and end user liaison skills. Aware of Agile and TDD working environments and practices.
+ 
+Experience has been gained over many years working within the IT industry using various languages and platforms, the last 10 years predominantly being JAVA based, making full use of J2EE including SWING, JUNIT,MVC Design Pattern, Web Development (Spring, Hibernate, Struts, JavaScript, AJAX) using an Eclipse IDE. Educational achievements include a good (2:1) BSc (Hon's) Software Engineering degree gained in 1998. I am also an active member of both the Newmarket Lions Club and Ely City Hockey Club.
+
+SC Security Cleared
+
+TECHNICAL SKILLS SUMMARY
+
+Current 
+
+Java  - J2EE, JUNIT, JSP, Servlets, MVC , Swing, XML, (X)HTML, JSTL, Java Script, Struts,  taglibs, 
+CSS, Spring (2.5) Core, AOP & Web MVC, Hibernate 3, Exposure to apache Tomcat, Ant, and AJAX
+Java IDE’s  - MyEclipse, Eclipse 3.4, RAD 6.0, 7.0, WSAD 5.1.2, VAJ 3.5.3
+Chordiant software (Java J2EE CRM base product) – versions 1.6 to 6.3 
+Subversion, CVS
+Microsoft Windows – 2000, XP, Vista
+Relational Databases - Oracle (8, 9, 10), MySQL, HSQLDB
+SQL - SQL-92, PL-SQL, Toad, SQL Developer, prepared statements
+UML
+Unix / Linux
+
+Previous
+
+COBOL , Hierarchical databases, Visualage for Pacbase, Visualage for Java, IDMS / TPMS
+Relational Databases –Ingress, RPG – II and III, SQL - Embedded in Java, VB, Pacbase, and COBOL. 
+
+Relevant / Recent Training Courses
+
+Chordiant Technical Developer Upgrade v 5.7 to v 6.3 (Java J2EE Web based application)
+IBM Training - Best Practices, EJB, and JSP/Servlet Development	 using Visual Age, Websphere and RAD6.
+Commercial Systems Analysis Training.
+
+EDUCATION SUMMARY
+
+	BSc (Hon's) Software Engineering (2:1) 			- (1998), HND Software Engineering (1996), 		HNC Computer Studies (1985),		City & Guilds Computer Programming in C (1995), 		City & Guilds Computing (Using COBOL) (1982), 		ONC Medical Laboratory Science (1980)
+
+CAREER HISTORY 
+
+May 2009 – Current – BAE Systems ** SC Security Cleared **
+Developer (Contractor) - J2EE,  SWING, JUNIT, CVS, Eclipse,  XML,  Linux
+Client / Server application using above technologies for aerospace industry. Development and design using Eclipse with Swing client and Linux file system (parsed via XML) for data storage. CVS used for source control, JUNIT for test suites.
+
+
+
+
+
+September 2008 – April 2009 – MNG Software Ltd.
+J2EE, Web Development (Spring, Struts, XHTML/HTML, JSP, JavaScript, Hibernate), Eclipse, Tomcat, MySQL.
+
+Development and training within own company. Updated skill-set including latest versions of  Java, JSTL, (X)HTML, JSP, Struts, Spring, Hibernate, JavaScript, JDBC, MySQL, Eclipse 3.4, RAD 7.0, MySQL and HSQLDB.
+
+Continued updating of skill set with Spring / Hibernate / AJAX to keep up with Market trends.
+
+June 2008 – July 2008 – Chordiant Software.
+Consultant (Contractor) – Chordiant Software framework (Java J2EE), IBM RAD 7.0 (Eclipse), Oracle, SQL Developer, Subversion
+
+Development of a pre-sales chordiant banking application for the Russian market. Used chordiant 6.3 doing CAFÉ development / customisation (Java web based application – JavaScript / JSP. Involved all aspects of GUI design to database CRUD functionality (Oracle). Some exposure to Chordiant JSF development.
+
+April 2008 – May 2008 – MNG Software Ltd.
+Web Development – Struts, JSP, MySQL, JavaScript, Eclipse.
+
+Attended training course in Chordiant 6.3 (JSF/Web development). General refresh of skills, especially Struts, JSP, MySQL, Java Script, Eclipse, RAD 7.0, SQL Developer. 
+
+November 2003 – End March 2008 (Contract renewal 14 times). BSkyB Edinburgh.  
+Consultant (Contractor) – Chordiant Software framework (Java J2EE), SWING, Oracle, IBM Visualage Java / Websphere / RAD 6.0 (Eclipse), Rational Rose, Toad, XML, UML, SQL.
+
+Senior developer for the BskyB CRM solution using the JX release (Java J2EE) of Chordiant software. 
+
+Mentoring of new developers and knowledge transfer. Developing in full data lifecycle from GUI design / development to database CRUD functionality.  After go-live part of Data Fix team investigating and fixing problems that arose within the product code and data problems with individual customers. Developed and run data fix scripts within Toad and investigated / fixed Java code problems. Mentored and leading a team of 5 data fix developers.
+January 2007 moved to support. Involved in mentoring off-shore team and continued development of new system functionality from GUI design / development to database CRUD functionality. Unit testing of new functionality.
+Supported and helped to develop the new Broadband functionality.
+
+September 2003 – November 2003. GoldenRod Properties LLC / MNG Software Limited
+Consultant - Websphere / DB2 EJB 2.0, JSP, HTML
+
+Designing and developing of web application to sell and rent houses in the American housing market. Full use of EJB’s, JSP’s and servlets within a Websphere 5 environment. Updated skills using IBM Education services.
+
+December 2000 – August 2003 (Contract renewal 7 times). EDS/BSkyB Edinburgh.  
+Consultant (Contractor) – Chordiant Software framework (Java J2EE), SWING, Oracle, IBM Visualage Java / Websphere, XML, UML, Rational Rose, Toad, SQL.
+
+Phase one:  Developed using VAJ and Chordiant (version 3.0 and 3.5), involving the complete data lifecycle (i.e. GUI design using swing to data CRUD operations – Oracle). There were tight timescales (three 20 day development followed by 10 day test / fix cycles) all of which were met. Involved in development of the telephony side of this phase. Used Toad and SQL to interrogate data. Wrote test scripts, Attended many design meeting with the client to discuss particular needs, and supported training. Repository management in VAJ making sure that versions of projects / packages / classes were the correct ones.  
+
+Phase Two (January 2002): Senior developer for new BSkyB CRM solution using the JX release of Chordiant software (Java J2EE framework). 
+
+Functional expert and lead developer for the complete BSkyB Order Creation process. Functional Expert / focal point for test team.
+
+Developed both client and server side code for many offerings (Swing based for client side – Oracle prepared statements for database access) using J2EE/Swing Java on VAJ IDE. Transfer of chordiant knowledge and mentoring new inexperienced team members, and worked within a team of about 15 other chordiant experienced developers.
+
+Part of the design team that developed the concept of the ‘dynamic tab’ within the chordiant framework which is now the main part of the BskyB client Functionality. Involved in producing design documentation, attending design meetings and producing some use cases and OSD’s 
+
+A Key member of a team that preformed a TPOC for moving the BskyB developed code from chordiant 3.5 to chordiant JX (5.1.2 at that time). Investigated, designed and developed (from GUI design/development to database CRUD operations) the OPPV (Online Pay per View) part of the new BskyB CRM system using chordiant JX. Development in Java J2EE. 
+
+Repository management, including responsibility for creation of all new projects and packages, worked closely with the chordiant technical architect making sure that any new software was introduced in the correct fashion.
+
+Production and execution of unit / link test scripts.   
+
+February 1998 – December 2000. Salmon Ltd. Software Consultancy.
+Senior Developer – J2EE, SWING, EJB 1.0, Chordiant Software framework, Pacbase, COBOL, Oracle, UNIX, Toad, UML, SQL.  
+
+Worked on various projects for Salmon on client sites, including Anglian Water (Cambridge), Andersen Consulting (London, City), EDS (London, Docklands).
+ 
+Work included:- 
+
+Porting a mainframe billing system into a UNIX environment (Anglian Water).  This was a large-scale development of an n-tier system using Visualage Java/Smalltalk on the client, Visualage Pacbase for the business services and Oracle as the database.
+
+Converted an existing Access-based system to a Java based system using SQLServer as the data server (Salmon).  The new system is both PC and web based. IBM’s VisualAge Java. Use of EJB's (1.0) for Server access. Used JDBC for database connections. Extensive use of Use cases and OSD.
+
+Java Developer on Chordiant Project Blue (Andersons Solution Centre, London). The project’s goal was to provide a call centre for web-based house sales built around the Chordiant architecture (version 2.0). 
+
+Chordiant developer for EDS (Docklands, London).
+
+January 1988 - February 1998. 	ST. EDMUNDSBURY BOROUGH COUNCIL, Bury St. Edmunds. 
+Local Government.
+	Senior Analyst / Programmer, Project Manager 
+
+	An active role within the Computer section. The variety of work ranged from installing cabling for PC connection, full project lifecycle development, to post system implementation reviews and user training.
+
+	Specific Project Involvement included:
+Project Manager / Implementer for a new UNIX-Based Personnel package (Peterborough Software).
+Project managed, designed, developed, and implemented Creditors system (4GL and COBOL) 
+Implementation and tailoring of Payroll and Personnel package (Midland Software). 
+Involved with the installation of the Financial Ledger package, Debtors package, and Housing Advances system. 
+
+August 1987 – December 1987. 	CYBERAID, Haverhill. Software house. 
+	Analyst / Programmer – RPG III
+
+		Worked as consultant on client sites (Lotus cars, the 		Post Office) and in-house writing / customising of payroll / personnel package
+
+August 1982 – August 1987. 	CIBA-GEIGY PLASTICS, Duxford. Commercial Business.
+		Programmer – COBOL, RPG III, JCL
+
+		Worked on various projects including stock control, sales forecasting, 		Home/Export shipping. 
+
+June 1978 - January 1982. 	ANIMAL HEALTH TRUST, Newmarket. 
+		Microbiologist
+
+		Worked in small microbiology, haematology, and biochemistry laboratory. (Obtained ONC Med. Lab. Sciences).

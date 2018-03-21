@@ -1,0 +1,90 @@
+Igor V
+General Qualifications
+Over 4 years experience in web development, all of them on offshore outsourcing projects.
+Expert in client / server web-technologies; portal and web-site engines, payment gateways; OOP in PHP5, OOP in JavaScript, DOM, AJAX, object oriented design patterns; Database connectivity, Database architecture, ADO, ODBC, SQL engines; XML-technologies, SOAP, 3-rd party API integration; Database Management Systems, Enterprise Application Integration.
+Education
+09/2005 - 07/2006, National aerospace University "Kharkov aviation Institute", Kharkov, Ukraine.
+Specialist of Science Degree in "Computer systems and nets".
+Engineer - system analyst.
+09/2001 - 07/2005, National aerospace University "Kharkov aviation Institute", Kharkov, Ukraine.
+Bachelor of Science Degree in "Computer Engineering".
+r
+Technical Summary
+Programming languages
+PHP
+Versions: 5.0.x, 5.1.x, 5.2.x
+PHP2, Backbone
+HTML, CSS, JavaScript, Pascal, Delphi 4 and higher, Turbo Pascal 6.0 and higher, C++
+Visual Studio 6 and higher, C++ GNU, Borland C++ Builder 5.0 and higher
+Command line scripts, PHP-CLI, Web Servers
+Apache 1.3.x, Apache 2.0.5x
+OOP, UML, SQL, CSP, Assembler, Cimplicity, Flash
+DB:
+MySQL, Versions: 3.x, 5.0.x
+Oracle, Versions: 9
+Cache, Versions: 5.0.x
+MS Access, Versions: 97, 2003
+Operation Systems/Platforms
+Windows, Versions: 95/98/ME/NT4/2000/XP
+Red Hat Linux, Versions: 6.x, 7.0
+ASP Linux, Versions: 9 (Ural)
+Cent OS,
+Slackware, Versions: 9, 10
+Tools and technologies
+XML, MySQL, Regular expressions, Web Services, Smarty
+Case tools
+Platinum ErWin, BPWin, Versions: 4.0
+Sybase Power Designer, Versions: 12
+Professional Experience
+ 
+06/2007 - current - present Company A.
+Senior developer
+Project A
+Primary Responsibilities:
+Code analysis, performance tuning, algorithms optimization, db optimization.
+Outsourcing development.
+Database architecture.
+Key Contributions:
+Created many modules that work with huge amount of data.
+Performance tuning, algorithms optimization, db optimization, especially for front-end parts because of huge load.
+ 
+01/2009 - 02/2009 - presented Company B
+System architect, Developer, Team Leader
+Project A
+Project description: Donation system.
+Technologies: PHP 5.1.x, MySQL 5.0.x, AJAX.
+Project B
+Project description: Social network.
+Technologies: PHP 5.1.x, MySQL 5.0.x.
+Project C
+Project description: Social network.
+Technologies: PHP 5.1.x, MySQL 5.0.x, XML, AJAX
+Project D
+Project description: Internet TV.
+Technologies: PHP 5.1.x, MySQL 5.0.x, XML, Flex
+Project E
+Project description: News aggregation portal
+Technologies: PHP 5.1.x, MySQL 5.0.x, AJAX
+Project F
+Project description: Very big dating portal. Consists of more then 10 sites. Uses all modern web technologies: Flash, AJAX etc. Uses mathematical algorithms to determine user preferences (Cluster analysis).
+Technologies: PHP 5.1.x, MySQL 5.0.x, AJAX
+Project G
+Project description: Questions and Answers portal
+Technologies: PHP 5.1.x, MySQL 5.0.x, AJAX
+Project H
+Project description: Triathlon, Duathlon and other sport races portal.
+Technologies:PHP 5.1.x, MySQL 5.0. x
+10/2005 - 03/2006 - presented. Auto-Vostok Ltd., Kharkov, Ukraine. Software Developer
+Project A
+Project description: The portal for accepting the announcements of sale and purchase of cars. Announcements from the portal makes up into magazine.
+Technologies: CSP, Cache 5.0.x, JavaScript, C++
+ 
+08/2005-09/2005-presented Company C
+Project A
+Project description: Company goods presentation.
+Technologies: Flash MX, ActionScript
+Language Skills
+English reading, writing, speaking;
+Russian mother language;
+Ukrainian mother language.
+

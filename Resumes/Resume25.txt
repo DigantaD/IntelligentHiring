@@ -1,0 +1,288 @@
+				Malal dhal 
+
+
+A. SUMMARY OF PROFESSIONAL EXPERIENCE
+
+8+ yrs of Software Development Experience in consumer goods , Investment and Financial management, Retail sector gained through working at 1st tier organisation in India
+Experienced in all phases of software development life cycle, Requirement gathering, Planning, Designing, Development and testing.
+SUN Certified Java Professional (Jdk1.5)
+Expertise in Java, Object Oriented (OO) Concepts OOA and OOD, Web-based 
+  	Technologies, J2EE Enterprise software
+Expertise in various technologies like Struts 1.x, Struts 2, Spring, JSF, Hibernate, DWR, DOJO etc.
+Experience in working with various application servers like Weblogic, Websphere, Jboss, Tomcat etc
+Good Experience In Waterfall and Agile (Scrum)software development methodologies
+Develops software that is solid, extensible, reliable, well-documented and user-friendly
+Excellent Technical and Analytical skills and ability to work independently with minimal supervision and can also perform as part of a team. 
+Good Leadership and Training qualities.
+Self motivated with Excellent Communication and Presentation Skills. 
+
+Work Status: HSMP Visa (UK) - authorised to work in UK for any employee.
+           B1 Visa (USA) - valid until 2020.
+Sun Java Certified Programmer in Java 1.5.
+Received bravo award from IBM.
+
+B. TECHNICAL SKILLS
+
+Frameworks
+Spring3.0, Hibernate3.1, JSP with Struts(1.1) Struts2 and DWR (Ajax-Java framework)
+Programming Languages
+Java1.5(Core Java, Jdbc, Servlet, JSP, EJB), SQL, C, C++
+Databases
+Oracle, MySQL, MS SqlServer, MS Access
+Operating Systems
+Microsoft Windows, Unix (Sun Solaris, Linux),DOS
+Scripts
+Java Script, Shell
+Case/Modelling Tools
+Enterprise Architect, Together, Visio,Rational Rose
+Management Tools
+Subversion, Star Team, ClearCase, Visual SourceSafe, CVS.
+Other Tools
+JUnit, JProfile, Eclipse 3.0, RAD, RSA, WASD, JBuilder, NetBeans, JBuilder 9, Xml, SAX/DOM Parsers  
+Web Server’s/Application Server’s
+Apache Tomcat, Weblogic, JBoss,Websphere,
+Oracle App Server
+
+
+
+
+
+
+
+C. Key Strengths
+Expertise in designing web centric object oriented applications using J2EE Technologies- Java, Servlets, JSP, JDBC, JNDI, EJB,  JavaBeans, JavaScript, HTML, AJAX, CSS, XML and Oracle 9i/10i, SQL Server on Windows platform.
+8+ years experience in various domain like Retail, Consumer goods, insurance, Banking & Investments domain.
+Good Knowledge of Different Framework and Architecture like Struts(1.x),Struts(2.x), JSF, Hibernate, Spring IOC,  Spring AOP,  DWR ,  DOJO and Junit
+Design Pattern implementation experience (MVC, Singleton, Business Delegate, Business Service, Data Access Object (DAO), Factory, Abstract Factory, Service Locator, Session Facade, Template Method and Application Controller).
+Experience in playing key team leadership roles including project co-ordination, technical leadership, customer interaction, post-implementation user training and transition.
+Experience in installation, configuration and deployment of J2EE applications on Apache Tomcat, Websphere, and JBoss, Weblogic.
+Experience in all phases of Software Development Life Cycle.
+
+
+
+
+
+D. Education
+
+Master in Computer Science, Osmania University India.
+Bachelors in Computer Science , Kakatiya University, India
+
+Received two times bravo award from IBM .
+
+
+E. Details of Professional History 
+
+Organization	:  Cognizant Technology Services
+Designation	:  Sr. Associate
+Duration	:  May’09 – till date 
+
+Organization	:  Butler International 
+Designation	:  Sr. Software Engineer
+Duration	:  Oct’08 – April’09
+
+Organization	:  IBM      
+Designation	:  Software Engineer
+Duration	:  Sep’05 – Sep’08
+
+Organization	:  Nous Infosystem
+Designation	:  Software Engineer
+Duration	:  June’04 – July’05
+
+Organization	:  Skybase Solution 
+Designation	:  Program Analyst
+Duration	:  April’02 to July’04
+
+
+
+F. Details of Projects
+
+eSIM (Enterprise Supplier Information Management) Tool -                  SEp’2010 – till
+Avon Inc, USA
+
+
+The Enterprise Supplier Information Management (eSIM) application is  tool for the creation and maintenance of Avon standard Suppliers and Supplier Locations, including both Direct and Indirect. it is designed and constructed to use the standard attributes defined as part of the Supply Chain Standard Data program for Supplier. eSIM and E1 are enterprise applications, designated for use in all Avon locations worldwide. eSIM facilitates the sharing of supplier information within and across business units, as well as within and across the Avon regions.eSIM is the global tool for supplier information; enhancements proposed for NPD-Non Beauty project will ensure maintenance of accurate information, thus facilitating overall system integration between Sourcing, Finance and product development organizations.
+
+
+
+
+
+
+
+Environment:	JDK 1.5 (Core Java), J2EE, Spring, Hibernate, JSF, Struts 2, EJB, Ajax, DWR, XML, Oracle 9.1/10g,  Ant,  Junit, Tomcat,Websphere 7.0, MyEclipse, Subversion.
+
+     Role:         
+Sr.Java/J2EE Developer.
+Working closely with Client
+
+ 
+
+ Responsibilities:
+1. Involved in the requirement analysis, design, and development as well as in the testing of this module.
+2. Involved in development of both client and server side programming.
+3. Implemented several front end screens using Struts 2 frame work.
+4. Used the Spring Framework for data transfers between Business layer and the Data Layer.
+5. Used Hibernate for database interactions.
+6. Implemented several front end screen using DWR frame work and Ajax.
+7. Worked with design patterns like Business delegate, service locator, Data Access Object (DAO), Factory Patterns. 
+8. Involved in unit testing of the code.
+9. Involved in Unit testing by using Junit frame work.
+10. Involved in probing the application for memory leaking.
+11. Involved in QAT, UAT.
+
+
+
+
+LCM (Life Cycle Management) Tool -	                                      May 2009 – Sep’2010
+Avon Inc, USA
+The Product Line Simplification (PLS) Life Cycle Management (LCM) tool, which is sponsored by the Global Merchandising group. The IT project is being managed by the Enterprise Master Solutions (Standard Data) group. Approval of this Business Requirements document will trigger activities.
+Product life cycle management automation is to complete the global rollout of an integrated Deletes and Date Management process and system, which will merge the existing capabilities of the New Launch Deletes tool with the existing Life Cycle Management Dates (LCMD) tool.  This new integrated Life Cycle Management (LCM) tool will also provide workflow approvals and notifications, as well as permit users to exit any Beauty or Non-Beauty Regular Life product, independent of new product launches. 
+.
+
+
+
+
+Enviornment:	JDK 1.5 (Core Java), J2EE, Spring, Hibernate, JSF, STRUTS, EJB, Ajax, DWR, XML, Oracle 9.1/10g,  Ant,  Junit, Tomcat,Websphere 7.0, Eclipse, Subversion.
+
+
+     Role:         
+Sr.Java/J2EE Developer.
+Working closely with Client
+
+ 
+
+ Responsibilities:
+Involved in the requirement analysis, design, and development as well as in the testing of this module.
+Involved in development of both client and server side programming.
+Implemented several front end screen using DWR frame work and Ajax.
+Used the Spring Framework for data transfers between Business layer and the Data Layer.
+Used Hibernate for database interactions.
+Implemented several front end screen using DWR frame work and Ajax.
+Worked with design patterns like Business delegate, service locator, Data Access Object (DAO)
+Involved in unit testing of the code
+Involved in probing the application for memory leaking.
+
+
+
+
+
+
+
+
+
+
+CM- Enable PLS Attributing in Horizon				Oct ’08 – May’09 2009
+Avon Inc, USA
+The objective is to capture & store the PLS attributes when creating concepts / concept options in Horizon & eProfile. With PLS attribute data in a centralized data repository, the global and regional brand marketing team can run the redundancy reports at any time to validate the new product in the pipeline, which will help the team on the portfolio optimization strategy. To achieve this, we need to load PLS attributes for products launched in 2Q 2006 forward into Horizon.
+.
+
+Environment:	JDK 1.5 (Core Java), J2EE,Spring, Hibernate, JSF, STRUTS, EJB, Ajax, DWR, XML, Oracle 9.1/10g,  Ant,  Junit, Weblogic10.1, Eclipse, Subversion.
+
+Development Methodology: Agile (Scrum)
+
+
+      Role:         
+Sr.Java/J2EE Developer.
+Working closely with Client.
+  
+Development Methodology: Agile 
+
+
+Responsibilities:
+Involved in the requirement analysis, design, and development as well as in the testing of this module.
+Worked with design patterns like Session delegate, service locator, business delegate.
+Used the Spring Framework for data transfers between Business layer and the Data Layer.
+Used Hibernate for database interactions
+Implemented several front end screen using DWR frame work and Ajax.
+Extensively used Hibernate for all data mappings and database transactions 
+Involved in unit testing of the code
+Involved in QAT, UAT.
+
+
+AMN (Advanced Market Network: Data Access)		                                         Sep2007 – SEP2008
+New York Life Insurance, USA.
+
+AMN Application is designed for retrieving  the details of particular policy and multilife policy, as well as get the available products based one plan  and it has functionality to down load the Management Report and General report,
+
+Environment:	JDK 1.5 (Core Java), J2EE, Spring, Hibernate, JSF, STRUTS, XML, Oracle Junit, Websphere 7.0, DHTML, XML, JUnit, XML, XSLT, JavaScript, RAS and VSS
+
+      Role:         Java/J2EE Developer. 
+
+
+
+
+
+Responsibilities:
+Involved in the requirement analysis, design, and development as well as in the testing of this module.
+Used the Spring Framework for data transfers between Business layer and the Data Layer.
+Used Hibernate for database interactions
+A multithreaded system that scales based on the processing load yet ensuring the latency is low.
+Designed the Serialisation for the data.
+Involved in development of both client and server side programming..
+Extensively involved in the development which involved multi threading and GUI for this product, which was developed in Swing using Spring framework and Hibernate.
+Involved in unit testing of the code
+Extensively used MS Visio for designing and creating UML Diagrams.
+Involved in probing the application for memory leaking.
+          
+
+
+
+
+QuickApp							                             JULY 2006 –FEB2007
+Scotia Bank, Canada
+
+The current IAP system was designed to receive information through an interactive conversation with a customer.  The system effectively allows the user to collect as much information as possible from the customer in order to cross sell other products, while facilitating a more natural interaction. A streamlined application process will reduce the time required to input credit card information into the system, resulting in quicker application turnover.  Quicker processing will deliver credit cards into the hands of our customers faster, thus increasing customer satisfaction, reducing the number of applications customers make to our competitors while they are awaiting our response, and limiting inquiries to Scotia bank relating to application status.  An expedited application process will reduce costs associated with running application processing centers through lower staffing requirements at the input level.
+
+Environment:	JDK 1.5 (Core Java), J2EE, JSF, Jsp,  JSTL, Ajax, XHtml, xsds, xml, SQL Server.
+Development Methodology: Agile (Scrum)
+
+      Role:         
+Sr.Java/J2EE Developer.
+Working closely with Client
+
+Responsibilities:
+Developing the screens in JSF, JSP, Servlets and Java beans as per MVC (Model View Controller) pattern on which the system is designed.		
+Write middle tier java components in java for performing business logic.
+Used JSF, JSTL, Ajax, Xhtml, Xsds, XML to implement the MVC architecture
+Designing XHTML screens.
+
+
+IntraLink IP (Phase II)			                                                       JUne 2006 –june2006
+Scotia Bank, Canada
+
+The Web Application provides way to transfer the amount to Investment Plan; The various Investment Order services will be available.
+
+
+Environment:	JDK 1.5 (Core Java), J2EE, JSF, JSP, EJB, JSTL, Ajax, XHtml, XSDS, XML, SQL Server.
+
+Development Methodology: Agile (Scrum)
+
+
+      Role:         Sr.Java/J2EE Developer.
+
+
+Responsibilities:
+Develop EJB Components within J2EE architecture within a struts environment.
+Worked on the Payment modules for billing systems
+Performing code walk through, code optimising, testing, documenting, interacting with other modules and provide interfaces.
+Write middle tier java components in java, EJB for performing business logic.
+
+
+G. Other Projects
+
+ iSRVCE™ v6.4 		                                                                           
+ IBM Global Service , India
+.
+Customer Service Component		                                                      
+Radii, UK
+
+Tickit	
+Soft gen, Australia
+
+eCRM Applications for eBusiness	
+APEPDCL,India
+
+WOLTS (Web Online Test System),
+US
+
+
+References on request.

@@ -1,0 +1,48 @@
+YuriY G
+General Qualifications
+Over 5 years of experience in programming in C/C++/C# and other languages;
+Strong knowledge of mobile OS and platforms;
+Advanced knowledge in databases, Windows, Linux, client-server applications;
+Extended experience in system analysis and design;
+Good leading skills.
+Education:
+2002 - 2007, Kharkov Technical University of Radio Electronics.
+Master degree in Systems System programming.
+Technical summary
+Programming Languages, Libraries:
+ANSI C/C++, STL, Objective - C 2.0, OpenSSL, SQL.
+Windows:
+WinAPI, WinSock, MFC, COM, MSSOAP.
+iPhone OS/ Mac OS X:
+IPhone SDK, Cocoa, CoreFoundation, BSD Sockets.
+IDE:
+MS Visual Studio 2003/2008, xCode 3.0.
+Source control systems:
+SVN, Team Foundation.
+Bug tracking systems:
+Team Foundation System.
+Other:
+InstallShield, MS Office.
+Professional Experience
+2007 - 2009 - presented Company A.
+Role: Senior iPhone Developer.
+n
+Project Name: ReachAnywhere. 
+Project summary: VNC Remote control system which has:
+Web interface;
+Database;
+Server applications on Cent OS;
+Applications of control (server, client) under WinXP, Win2K, Mac Os 10.4 and 10.5;
+Client application for iPhone / iPod touch;
+MSI package (with custom actions (InstallShield) ) for windows;
+Package for installer.app under Mac OS X.
+Used technologies:
+Windows Development: WinAPI, MFC ,COM, WinSock, BSD sockets, openSSL, MSSoap, OpenSource SOAP libraries , Windows installer, InstallShield.
+iPhone/OS X Development: Cocoa, Cocoa Touch, CoreFoundation, WebService KIT, openSSL.
+English Skills
+Advanced technical reading and writing.
+Hobbies
+Music, sport.
+
+
+

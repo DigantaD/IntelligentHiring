@@ -1,0 +1,229 @@
+﻿Wilson Kunnan Jose								                 
+Sr. Consultant, QA							             
+
+Summary
+· 13 years of experience in Software Testing (manual/ black box). 1 year of software development in static/   dynamic web pages, client and server scripting. 1 year of Automation experience in QTP v8.0
+· Certification on Software Testing, Software Quality Assurance, Business Communication
+· Worked with QA team to test, Prevent problems & Measure success together with Business Analyst to understand the needs & expectation of the client, to clarify requirements and make recommendations.
+· Proficient in wide range of testing (BVT, Functional, Regression, Exploratory, Integration, System, Localization, Browser Compatibility, Ad-hoc/ random, Alpha, Beta, UAT, RC) for domains (Security, Retail, Travel, Clinical Trial Supply Chain Management, Real Estate, Media, Lottery/ Gaming and Utilities).
+· Excellent knowledge in Requirement Analysis, Requirement Traceability Matrix, Test Strategy, Test Plan, Test Cases to cover all product functionality, Test Execution, Defect Management, Defect Log/ Tracking, Metric and Reporting
+· Taking ownership for the project Leading, Planning, Estimating, Scheduling, Executing, Monitoring, Controlling, Improving, Reporting and Closing of testing efforts along with cross functional Team Manager.
+· Efficient in SDLC, Waterfall, V-model, Agile framework and Onshore-Offshore model
+· Defect Management using Bugzilla & Test Management using Quality Center - ALM and TestLink
+· People Management - Allocate resource, Monitor, Mentor and Manage the team
+· Accountable for Test coverage, follow-up on outstanding issues and Quality delivery with KI's
+· Self-starter able to achieve successful outcomes in a non-hierarchical environment with minimal supervision, Prioritization skills to manage multiple projects on different schedules
+
+Education
+· Bachelor of Engineering in Computer Science from VMKV Eng. college, Salem, India	
+Year: 1996-1999
+· Diploma in Electronics and Communication Engineering from NIT, Coimbatore, India	
+Year: 1992-1995
+
+Core Competencies
+· Domains: worked with  Security, Retail, Travel, Clinical Trial Supply Chain Management, Real Estate, Media, Lottery/ Gaming and Utilities
+· Test Management
+· Defect Management
+· People and Project Management
+· Software (Manual) Testing/ Quality Control
+
+Technical Proficiency
+Operating System 		:  Windows flavors XP/ Vista/ Win7/ Win8 (32/ 64bit)
+RDBMS 	         		:  Oracle 8i/SQL Server 2008/7.0/6.5 and MS-Access
+Microsoft tools			: MS-Word, MS-Excel, Visio (MS Office 2010).
+Languages                   		:  C, C#, Java, ASP, PHP
+Front-end Tech		:  HTML, DHTML, JavaScript, VB Script,  MS FrontPage
+Automation Tools         	:  QTP 8.0
+Test management tool 		:  Quality Center11 – (ALM), TestLink
+Desktop Virtualization		:  VMware, Citrix
+Requirement Management	: Doors
+Defect tracking tool		: ALM (QC-11), Bugzilla, Jira
+CM Tool			: Share Point
+Web Server			: IIS 5.0, Apache, Tomcat 
+Workflow Solution in Media	: Flow-brix for publishing industry
+Networking			: Novell Netware, LAN 3.1 & 3.2 dedicated and non-dedicated server
+Imaging			: Adobe Photo-shop, Gif animator
+SQL Tuning			: Toad
+FTP				: Cute FTP
+
+
+Employment History
+
+Sr.Consultant – Defect Manager, QA				   January 2012 – November 2012
+Capgemini, Canada
+Client: BC Hydro
+
+Description
+BC Hydro’s Smart Metering Program is an important foundational step in the modernization of BC Hydro’s electricity system. The program involves replacing existing customer meters, now becoming obsolete, with a comprehensive smart metering system. This system includes the technology and telecommunications infrastructure needed for BC Hydro to continue to manage the electricity system in a reliable, safe and cost-effective manner.
+
+Responsibilities:
+· As defect manager, work with all stakeholders to define/improve the defect management process, work with all parties to get the best practice for the project
+· Effectively facilitate defect meetings and drive defect for the solution
+· Actively follow up with defect owners and communicate with them to ensure the defects are processed effectively
+· Define and monitoring the Quality of defects, help testers on improving the quality of defects
+· Produce defect metrics reports and raise defect related risks/issues to the project
+· Experience in Test & Defect Management
+
+Environment: Win XP, Vista, Win7, 32/64 bit, Citrix, SQL, QC, Jira, SAP, ESB, .NET
+
+
+Sr.Consultant – Test Lead/ People Manager, QA			   September 2011 – January 2012
+CGI, Canada
+Client: Atlantic Lottery Corporation
+
+Description
+GeoSweep - Instead of playing your favourite numbers, you choose your favourite places home, work etc. Atlantic Canada divided into squares called Geos. Players choose one more Geos which can be found by searching by postal code, town or favourite place or by zooming in and out on the map. Players buy the right to own that Geo for 30 days of draws
+
+Responsibilities:
+· Host the Decision Point and Test Kickoff meetings
+· Responsible to develop the Test Strategy and Test Plan
+· Ensure the development of test cases
+· Act as the defect coordinator for the project
+· Mentor/ Coach team members as needed
+· Detail the high-level Entry/ Exit criteria for all test phases
+· Ensure test schedules are met
+· Escalate issues as required to the Project Team
+
+Environment: Win XP, Vista, Win7, 32/64 bit, SQL, C, QC, Jira
+
+
+Project Lead, QA						         September 2008 – September 2011
+McAfee Inc, Canada
+Client: Dell, Lenovo, Acer
+
+
+Description
+PartnerFirst – Test the customized version of McAfee Antivirus for their clients
+Core Team – Test the McAfee Antivirus for their new product features/ version 
+Sustainment – Test the production/ client issue for the McAfee Antivirus
+
+Responsibilities:
+· Responsible for end to end project testing effort, Requirement Analysis, Preparing Test Strategy,    Test Plan, Test Cases to cover all Product functionality, Traceability Matrix, Test Execution, Defect Tracking, Metrics, Reporting and Escalation. 
+· Created, Executed and Maintained Test cases using TestLink, for different builds
+· Performed BVT, Functional, Regression, System, Alpha, Beta and Release Candidate Testing
+· Report defects using Bugzilla, Tested and Verified Bug fixes
+· Work closely with the development team to analyze, debug and resolve any issues
+· Produce Test report for iteration to measure the test progress
+· Plan testing activities to meet project needs and expectations
+
+Environment: Win XP, Vista, Win7, 32/64 bit .NET1.1, IIS 5.0, SQL, C, QC, TestLink, Bugzilla
+
+
+Team Lead, QA							                 May 2006 – April 2008
+Wipro Technologies, Canada
+Client: CTB/ McGraw-Hill,  Hanes Brands INC., Target, Proquest 
+
+Description
+CTB/ McGraw-Hill, USA > Media - Monarch – CTB has initiated a program to improve the processes and systems that are used to create test items, tests, and to process score and report student responses
+Hanes Brands INC, USA > Retail - Apparels - Polaris – ANET: SMES - Capacity Sharing & Application Consolidation Project requires assembly manufacturing system to be able to support commingling of products between the different lines of businesses.
+HBI, USA > OneSource is a custom-built web-application that currently enables SLBA to source Finished Garments from vendors across the world. 
+Target, USA > Retail - B2B Gift Card Ordering System – A program to maximize profitability, Application allows you to create an online order for Gift Card using B2B.
+Proquest, USA > Media - Process Management, 3 utilities - Email Account Manager, Automated Scheduler and a Process Manager that can be used to start a publishing process. 
+
+Responsibilities:
+· Knowledge Acquisition, Documentation & Presentation, Knowledge Transfer
+· Developed Test Strategy, Test Plan and Test Cases to cover all the functionality, Test Execution
+· Analyzed test results, Maintained Test Results and Test Report
+· Created, maintained and analyzed a requirement traceability Matrix
+· Performed product release testing and reported on the status of project
+· Responded to urgent situations, by prioritization
+· Ensured that all high-priority bugs are fixed prior to deployment
+
+Environment: Windows, .NET Framework1.1, IIS 5.0, SQL, Java, Oracle, Test Director, Toad and   Flow-brix
+
+
+Team Lead, QA – Validation					                  July 2005 – April 2006
+Aptuit Inc., India
+Client: Pfizer Inc, AstraZeneca, Abbott Laboratories
+
+Description
+Clinicopia 4.0 - is an end-to-end Clinical Trials Supply Chain suite includes Planning, Inventory Management and Shipment system for conducting pre-clinical studies for a new Drug that has been launched into the Market. Product Consist of systems such as Supply Management, Forecasting, cMRP-Clinical Material Resource Planning, Process Execution, Labeling and Drug Accountability. Design of the product is complex and has some Business rules, which are according to the (Food & Drug Administration) FDA Compliance. iProConsulting offers services to develop custom applications covering a range of issues such as (Current Good Manufacturing Practices) cGMP, (Good Clinical Practice) GCP and FDA compliance with the validations based on the real time scenarios and with constant feedback from the client.
+
+Responsibilities:
+· Requirement Study, Preparing Functional Test Scripts for new requirements & change request
+· Executed Adhoc , Negative, Functional and Regression Testing.
+· Prepared Bug Reports and documenting the same.
+· Involved in Validation Phase by Executing Test Plans
+· Executed UAT for Real time scenarios
+· Clarifying the business requirements with BA's and PA's
+· Developed and Maintained the Matrix SRD x TP and TP x FTS
+· Reporting, Backing up and Resolving issues by necessary actions
+· Reviewed FTS with FDD-Business rules, Functional Design Document
+
+Environment: Windows XP, Oracle/ Java, Win2000 Professional, Doors
+
+
+Team Lead, QA							                 June 2004 – April 2005 
+Remoba Inc., India
+Client: Revelex
+
+Description
+Galileo® International is one of the world's leading providers of electronic global distribution services for the travel industry, has developed travel solution to access schedule and fare information, book reservations and issue tickets for 470 airlines. Galileo International also provides subscribers with information and booking capabilities covering all the major hotel chains, car rental companies, cruise lines and numerous tour operators throughout the world.
+Cendant-Galileo
+Product to serve as a browser-based desktop booking tool as a subset of its current agent population. Pricing and availability are queried through GDS, CRS and consolidators to produce an integrated travel itinerary quickly and efficiently.
+
+Responsibilities:
+· Developed test plan, test case to cover all the functionality
+· Established and executed test procedures
+· Analyzed test results and defect data
+· Reported on the status of project
+· Maintained test records
+· Developed documentation and test procedures
+· Created, maintained and analyzed a requirement trace
+· Performed product release testing, recommended process improvements
+· Implemented and complied with client's quality system
+· Responded to urgent situations, by prioritization
+· Test result analysis and reporting 
+· Defect reporting through Bugzilla
+· Ensuring that all high-priority bugs are fixed prior to deployment
+· Performing black box, functional, integration and regression testing
+· Executed both manual and automated testing using QTP 8.0 on web based travel application
+· Conducted testing, including regression and integration testing.
+· Participates in document and deliverable reviews, change requests, and assessments
+· Testing activities for the development of new software features
+· Assists the client's process through project reviews
+· Promotes positive and effective working relationships
+· Works independently, leverages relationships across other departments, and 
+· Follows up with individuals without guidance
+·  Maintaining Resource and Time Schedule
+· Participates in document and deliverable reviews, change requests, and assessments
+· Testing activities for the development of new software features
+· Assists the client's process through project reviews, Follows up with individuals without guidance
+· Promotes positive and effective working relationships, 
+· Works independently, leverages relationships across other departments
+· Executed both manual and automated testing using QTP 8.0 on web based travel application
+
+Environment: Windows XP, VPN connectivity, Remote Desktop, PHP, JavaScript, Java, MySql
+
+
+Software Test Engineer        						                  June 1999 – June 2004
+Interface Software, India
+Clients: Alemadi Communication Center, STJ Electronics Pvt. Ltd., CN Internet Broker Ltd.,
+
+Description
+Design web pages and website for their client based on the client requirement. Sourcing and delivering website solutions that make commercial sense.
+
+Responsibilities:
+· Created, debugged, tested, documented and implemented website for the clients utilizing skills in HTML, DHTML, CSS, Java Script, VB Script, MS Front Page, ASP, MS Access, Oracle, SQL and IIS.
+· Sourcing and delivering website solutions that make commercial sense.
+· Work on the front-end presentation layer of website, which may change often and considered highly dynamic using ASP with Ms Access on IIS
+· Maintain existing programs and edit website for changes as required.
+· Select & organize information for inclusion & design the appearance, layout & flow of the website. Consult with clients to develop SRS document. Prepare mock-ups and storyboards.
+· Create & optimize content for website using graphics, database, animation & other software.
+· Lead & co-ordinate multidisciplinary teams to develop website graphics, content, capacity and interactivity.
+· Worked directly with end-users to maximize efficiencies and user-friendliness
+· Key deliverable included the client/ server side coding, Content Management and Database Projects as well as Uploading and Setting POP3 email for the web site. The project gave me practical experience in the design and development of web sites.
+Environment: HTML,DHTML, CSS, VB Script, JavaScript, ASP, PHP, MS Front Page, MS Access, Win NT, SQL, IIS
+
+System Support Engineer							        July 1995 – July 1996
+J.S. & Company
+ 
+Description	
+Assemble and service systems In house for their clients
+
+Responsibilities:
+· Assembling Computers, Installing Software’s, Troubleshooting for both Hardware & Software errors
+· Novell Netware experience on dedicated and non dedicated server, to access the authorized network services, resources, application and data available on multiple servers linked together in a cluster configuration
+
+Environment: Dos, Win XP, Novell Netware, Lan 3.1 and 3.2
+

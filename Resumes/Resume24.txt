@@ -1,0 +1,167 @@
+
+OBJECTIVE
+
+To achieve a position in a results-oriented company, where acquired skills and Education will be utilized toward continued growth and advancement of company’s success and mine.
+
+
+PROFILE
+Having 3.6 years of experience in Software analysis, design and development using Java/J2EE Technologies.
+Expertise in Programming J2EE applications using JAVA, Swings, Servlet, JSP, Struts1.1,JDBC,
+EJB 3.0 and Hibernate 3.0
+Having good communication skills, dedication, hard-working and leading activities.
+Ability to learn and adapt new Technologies in short time. 
+
+
+COMPUTER SKILLS
+Programming Languages		: JAVA 1.5, Forte 4GL
+Web Technologies	: Servlets, JSP.
+Frameworks	: Swings, Jgoodies,Struts1.1,EJB2.0/EJB3.0
+Application Servers	: IBM Web sphere 6.0 and oc4j.
+Scripting Languages	: Java Script.
+Databases	: Oracle, Sybase.
+IDE/Tools                                    	: Eclipse SDK 3.2, Eclipse SDK 3.5 Galileo, My Eclipse 5.1,      	   Win CVS,Microsoft Visual Source 	Safe(VSS), IBM Rational   	   Application Developer 6.0,JTest, Aqua DataStudio,SQL          	   Developer and Toad.
+OR-Mapping Tools                              : Hibernate 3.0
+EDUCATION
+MCA from Badruka College of Information Techology  afflicated to Osmania University, Hyderabad with 68% in the year 2006.
+CAREER HISTORY
+
+          
+ Working  as a Software Engineer  for Tata Consultancy Services Hyderabad,under the   			payroll of  Future Focus Infotech Limited  from Feb 2010 to July 2010.
+ Worked for PATNI Computer Private Limited, PUNE, payroll under Magna  Infotech Pvt. 			Ltd. from December 2008 to June 2009.
+Worked for  Goldstone Info Systems, Hyderabad as Software Engineer from 	            		June 2006 – December2008 
+
+
+
+
+
+
+
+
+
+PROJECTS
+Project #1:            
+        Title		:	Abis Configurator
+Client		:	Nokia Siemens Networks(NSN)
+Duration	                :	Feb 2010 to Till date.
+Environment           :              Java 1.5, Swings,Oracle 9i.
+
+
+Description:
+	AbisConfigurator is an  upgradation project for all the concern NetworkElements.The modules are as follows.  1) Wizard 2) Configurator 3) Settings. The main purpose of this project is to copy BSC(Base Station Controller) of Source PCMBs to the BSCs of the Target PCMBs.
+
+Responsibilities : 
+                    Involved in enhancement activities
+                    Involved in preparing the flow of execution document of an application
+                    Code reviews and Unit Testing
+                    Worked  on  solaris  environmental testings. 
+
+
+
+Project #2:
+        Title		:	Centralized Point of Sales (cPOS)
+Environment	:	Jdk1.5, Struts1.1, Ejb3.0, JSP, HTML, JavaScript,	IBM 			  	WebSphere6.0, IBM RAD 6.0. Oracle 10g.
+Team size	:	18 
+Client		:	Vodafone 
+Duration	                :	December 2008 to June 2009
+
+
+
+Description:
+
+	The application used to create, maintain, support and sales all the inventory for the Vodafone. The client divides the regions in to circles. As per the documentation provided there are 23 circles through out India. The client installs this application in each circle. In each circle there are different entities (The one who uses the application), as per the roles and permission every entity can use the application at their end. Entities are say Corporate customer, Distributor, Customer, Vodafone application user etc.., 
+There are different ways of using the application. 
+1) Vodafone initially creates the Inventory say stock, the application updates the details regarding this inventory and differentiate inventory into different items (Handset, e-TOP, SIM  ... 16 types) and group this items into bundles and make these items or bundles ready or sale.
+2) The application uses at costumer end like opening the connections like prepaid, postpaid, CUG etc..,
+3) Customer support end like repairing and replacement. 
+4) Sales the inventory.
+
+
+
+
+
+
+
+
+
+Responsibilities: 
+Developed the interface for Dyna Util.
+Developed UI using Struts TLD, JSP, HTML, Java Script. 
+Developed the Dispatch Action Classes, Form Beans, and Translators.  
+Added mapping for respective action classes and forwards for the action class.
+Developed the Business delegates for delegating the request to business end.
+Developed the Remote Interfaces, Stateless Session Beans for the Business logic.
+Created entities for the Tables.
+Handled logging, Exception Handling.
+Developed Reports Using BIRT.
+
+Project #2:
+Project                           :	System Integrated Information DECEVAL (SIID)
+
+Client			: 	Deposito Centralizado De Valores De Colombia  Deceval S.A.
+Technology		:	JDK 1.5, Swing JGoodies, Spring JDBC, EJB2.0, Forte 4GL
+Application Server         :	Oracle App sever 10.1.3 & Enterprise edition
+Database		:	SYBASE 12.5
+Tools			:	Eclipse 3.2, MyEclipse 5.1
+Duration 		: 	April 2007 – December 2008
+Configuration tool 	: 	Win CVS
+Team Size	: 	42
+
+Description:	
+ Deceval is the financial domain acts as a mediator between stock market of Colombia 
+ And stock brokers. Trading will be done through deceval and deceval charge based on transactions.  Deceval contains five modules,
+1) Supervision module is the one, which contains configuration like parameters of application like rates, list of holidays in a year account activation and deactivation.
+2) Operaciones module contains list of operations like creation of ISIN number which is Uniquely identified by the any user in order to do transaction and also list of activities
+One buyer and one seller, one seller and many buyers.
+3) The AC user will do coordination and he will coordinate the transaction done by the Brokers. Analysts will do analysis and the approval will be given to the transaction
+4) Billing Module, in which daily transactions will be performed, and Deceval charge amount for their services and transactions will be done through Central bank.
+5) Security which is the complex module in this subsystem will be divided as functional and the external security. Functional includes role-based security. External includes
+Entrust mechanism.	
+Roles and Responsibilities:
+Developing User Interface using Swings and Jgoodies
+Customizing UI components 
+Involved in Integrating the code between Client and Server
+Review of the Code
+Defect Fixation: Resolving the issues.
+Integrating modules and performing Unit testing.
+Verifying portability of Application by deploying on 2 major application server such as oc4j, JBoss Application Server.
+Preparing the Builds and send to Testing Team
+Assisting new associates in team.
+
+
+Project #3:
+Project Name		:        TRACK DB
+Client                  	:        GoldStone Info System(Internal -Tool).
+Technology                      :        Windows’2000, Java, J2EE,Hibernate Tool,Struts
+Application Server            :        Weblogic8.0
+Database		:        Oracle 8.0,Mysql
+Tools			:        Eclipse 3.0, MyEclipse 5.2,Aqua DataStudio,Toad.
+Configuration tool 	:        Win CVS
+Team Size		:        20
+
+Description :	        	
+	To build a web-based application, which facilitates the automation of existing manual activities as work allocation to the team resources to defect closing stage
+The purpose of track db application is to track the all project related information [from project initiation to closure] into database and based on this information generate the required metrics for QA team.
+
+This application should also facilitate the employees in the organization to do the activities like assigning the activities and displaying work list of individual to perform the activities. This should also facilitate tracking individual activities for the calculation of effort estimation and deviation.
+
+Roles and Responsibilities:
+as a Team member of the Project, Implemented DAO layer classes and written queries.
+Involed for the persistance layer for the hibernate wise updates in the concern ERD.
+Worked for the ERD wise instance creation and loaded initial scripts  in oracle and mysql databases.
+Worked for the required queries for the team for their screens.(Identificatin and retrieval queries)
+Worked for the DAO interfaces and Hibernate Entity Object Mappings.
+Writing junits for the classes.(Testing of the code with sample data).
+Coordinated with internal bugs in JIRA and resolved issues.
+
+
+
+PERSONAL PROFILE
+
+Name   	                   :                Mahesh Reddy
+	Date of Birth	      :                21-Feb-1980
+	Nationality	      :                INDIAN
+	Marital Status	      :                Married.	
+					
+																					
+Date :                                                     
+Place:                                                        (Mahesh Reddy)

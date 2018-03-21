@@ -1,0 +1,136 @@
+﻿SOFTWARE ENGINEER Resume Sample www.timesresumes.com
+Name & Personal Details of clients are not included for Anonymity
+
+Add: XXXXXXXXXXXXXXXXXXX
+
+Mobile: XXXXXXXX  Email: XXXXXXXX
+
+SOFTWARE ENGINEER
+
+Software Engineer with a broad knowledge of engineering and software technology and its application. Assist in the design, development, and sustenance of product systems or subsystems. Strictly adhere to time schedules and successfully accomplish engineering and organizational mission by completing related results as needed. Employed at present with the India’s leading IT consulting firm, XXXX Technologies Pvt. Ltd., as a Software Engineer. Seeking a challenging role as a Software Developer in a progressive organization.
+
+CAPABILITIES & SKILLS
+
+Analyzing Information, General Programming Skills, Software Design, Software Debugging, Software Documentation, Software Testing, Problem Solving, Teamwork, Software Development Fundamentals, Software Development Process, Software Requirements, Project management.
+
+Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.
+
+Determine customer requirements, implement and follow up as needed.
+
+Ability to troubleshoot issues to resolution. Strong problem solving and root cause analysis skills. Strong oral & written communication skills including facilitating, listening, and presentation.
+
+Multi-Tasking/Multi-Threading Development and ability to work in a team environment. Achieved 100% on time within budget delivery of projects.
+Technical Skills - JAVA, JUnit, SQL, PL/SQL, Ext JS, Javascript, HTML, CSS, MATLAB, Microcontroller Programming, Circuit Designing.
+
+Tools - Eclipse, Spring Source Tool Suite, SQL Developer.
+
+Computer Skills - MS Office, Operating Systems (Mac iOS, Windows 98/2000/XP/Vista/7).
+
+Languages - English, Kannada, Telugu, Hindi, German.
+
+EDUCATION
+
+
+Master of Electrical and Information Engineering
+
+
+2009
+
+
+Micro and Opto Electronics. XXXX University, Germany.
+
+
+Bachelor of Engineering
+
+2007
+
+
+Electronics and Communication. XXX College of Engineering.
+
+TRAININGS
+
+Foundation Course in “Vedic Mathematics” - XXXX	Academy – Bangalore, India.
+Intensive Course in “C” Programming	- XXXX Bangalore, India.
+
+PROFESSIONAL WORK EXPERIENCE
+
+
+XXXX Technologies Pvt. Ltd., Bangalore Software Engineer
+
+
+March 2009 to present
+
+
+· Promoted from Software Engineer Trainee to Software Developer in March 2010
+
+· Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
+
+· Prepare and install solutions by determining and designing system specifications and standards.
+
+· Update job knowledge by studying state-of-the-art development tools, programming techniques, and computing equipment; participating in educational opportunities; reading professional
+
+XXXXXXXXXXX
+1
+
+publications; maintaining personal networks;
+
+· Provide information by collecting, analyzing, and summarizing development and service issues.
+
+HIGHLIGHTS OF PROJECTS EXECUTED
+
+PROJECT #1:
+
+Client Accounts/Projects: Apple/Pathfinder
+
+Object: Enhancement of the application for better usability and performance.
+
+Key Role: Developer.
+
+Environment: JBoss 7.1 applications sever, Oracle 11g.
+
+Result: Enhancement in progress. Have been present for 3 releases which have been successful.
+
+PROJECT #2:
+
+Client Accounts/Projects: Apple/Counter Dashboard.
+
+Object: Develop a dashboard which shows real time sales/pre orders data of Apple products which is of great imp on the day its products are released. It should be able to track nearly 7000 products (counters) and have good performance.
+
+Key Role: UI designer/Developer.
+
+Environment: Platform: JBoss portal 7.0 sever, Oracle 11g, ExtJs 4.0, Spring, EDS (Apple's alternative for Hibernate).
+
+Result: Successfully completed and delivered the application to the client on time.
+
+PROJECT #3:
+
+Client Accounts/Projects: 6 Drunk Men (Singapore based company)/6DM Sales Application
+
+Object: Develop an sales application through which:
+
+a. Admin/Sales Persons/Customers can place orders/Modify orders
+
+b. Admin can approve orders/Modify already placed orders and add new employee/customer. Key Role: UI designer/Developer
+
+Environment: Platform: JBoss 7.1 applications sever, Oracle 11g.
+
+Result: Successfully completed and delivered the application to the client.
+
+ACADAMIC PROJECTS EXECUTED Bachelor’s Thesis – Design and Analysis of RFID Patch antenna -  2009
+Synopsis – The main objective of the project was to learn d ifferent parameters affecting the efficiency of a patch Antenna. Organization XXXXX India Pvt Ltd.
+
+Internship – RFID Antenna Design for Container Management Syst em - 2010
+
+Synopsis – Part of the design team working on Container Man agement System. Responsible for the design of the RFID Antenna and battery that had to work at negative temperatures. Organization XXXX Universität München.
+
+Master’s Thesis – ESD Reduction in RFID Production Machines – TAL15 K and study of combined effects of humidity and temperature on ESD – 2011
+
+Synopsis – The thesis was aimed at the study of various methods of reduction of ESD in the TAL15K machine that included the study of the substrate material, the Antenna design and the different components in the machine which have direct effect on ESD. One of the objectives was to reduce the ESD voltage below certain threshold. The other part of the thesis was the study of the effects of humidity and temperature, when both the parameters are changing simultaneously. Organization XXXXX AG (Germany)
+
+References: Available upon request.
+
+
+
+
+
+XXXXXXXXXXX	2

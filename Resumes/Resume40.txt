@@ -1,0 +1,76 @@
+SATHEESH REDDY
+
+
+Availability Now
+Location Ideally Ipswich or East Anglia, otherwise all UK
+CV date September 2009
+Skills
+Languages:
+Java (10 yrs), J2EE / Servlets / JSP (7 yrs), Web Services (2 yrs), HTML / JavaScript (5 yrs), REST (2yrs), JSON (2yrs), JDBC/SQL (5 yrs), XML/XSLT (4 years), C++ (11 yrs), shell script, AWK, Pascal, APL, FORTH, etc. (2-3 yrs each), Ruby (1 year), Python (6mo)
+Development environments, tools and methodologies:
+Unix/Linux (10+ yrs), DOS/Windows (4 yrs), Ant (5 yrs), Eclipse (4 years), JUnit (5 yrs), Mojasef/Stringtree (5 years), Spring (2 years), Version Control (CVS / Subversion 4 yrs, Git 6mo), Databases (Oracle 3 yrs, MySQL 3 yrs, Hibernate 1 yr), Object-Oriented Design (10 yrs), Test-Driven-Development (5 yrs), Open Source (6 yrs), Agile (Extreme Programming 4 yrs, Scrum 2 yrs)
+Industry Qualifications:
+Sun Certified Java Programmer
+Academic Qualifications:
+BSc (hons) in Computer Systems Engineering (University of Warwick, 1986, 2.ii)
+City & Guilds 7407, Teaching Adults in Further Education (Suffolk College 2003)
+PGCE (Postgraduate Certificate in Education), specialising in adult and post-compulsory learning (University of East Anglia, 2005)
+Postgraduate Diploma in Computing for Commerce and Industry, (Open University, 2008)
+MSc in Computing for Commerce and Industry, (Open University, in progress)
+I am experienced in all aspects of software development, including object-oriented technologies, user-interface design, network and internet protocols, web and mobile technology, development process and software version control systems. I have evaluated a wide variety of computer and software systems and am confident in specifying architectures and solutions for real-world problems. I have teaching, training, organisational and management experience as well as military and leadership training. I am especially familiar with server-side Java and J2EE including web, wap, servlet, XML, XSLT, JSP, JDBC and Web Services technology and the integration of modern web and server-side technologies with legacy HTML, CGI, shell-script, C/C++, Oracle and PL/SQL software.
+I am a qualified, experienced and flexible teacher and trainer, familiar with classroom teaching, on-the-job training, and distance learning. I have good communication, collaboration and mentoring skills and work well in a team environment.
+Experience
+Jul 2009 - Sep 2009: Smart 421 Limited, Ipswich 
+Consultant Software Developer: Design, implementation and maintenance of server software and XSLT page templates for customer-facing.unified login and registration system for mobile telephone operator O2. Mentoring of development team and review of associated code.Main skills used include Java, XML, XSLT, web services, JavaScript, CSS, JUnit, Subversion, Ant, Eclipse, etc. (2 month contract)
+Sep 2006 - April 2009: iO Global Limited, Ipswich 
+Senior Software Developer: Design, implementation and maintenance of customer-facing systems for management, aggregation and sale of mobile downloads such as ringtones, music and Java games. Design and implementation of trial system for personalization of content and advertising across web, mobile and TV. Design, implementation and maintenance of initial deployment of location-based web/mobile service integration portal for BT and Westminster City Council. Main skills used include Java, Linux, web, wap, MySQL, REST, JSON, web services, JavaScript, CSS, Spring, Hibernate, Mojasef, JUnit, Subversion, Ant, Eclipse, etc. Mentoring of development team and process improvements to handle complex multi-customer workload.
+Mar 2006 - Sep 2006: Smart 421 Limited, Ipswich 
+Consultant: Specification, architecture, design, and implementation of an enterprise licence key management component for Dutch media and telecomms company UPC. Main skills used include Java, J2EE, servlets, JMS, messaging, JDBC, SQL, Weblogic, web services, UML. (6 month contract)
+Jan 2004 - Mar 2006: Efficacy Solutions Limited, Ipswich 
+Consultant: Specification, design, and implementation of systems for a range of local businesses and individuals including: software improvements to an enterprise message-based system using JMS; configuration and management of corporate web presence; design, implementation and testing of drivers for legacy industrial hardware. (Several fixed price contracts)
+Nov 2002 - Mar 2006: Suffolk College, Rope Walk, Ipswich 
+Lecturer in Office Technology and Computing: Teaching software development, web technologies, and expert systems to late teenage and adult learners. Course and lesson planning and delivery, classroom management, mentoring, marking and moderation of work (part-time).
+Nov 2002 - Jan 2004: BT Ignite Global Solutions, Adastral Park, Ipswich 
+Software Engineer: Enhancements and maintenance of complex network monitoring and provisioning system consisting of a servlet/JSP/HTML/JavaScript front-end to custom Java middleware running under iPlanet application server on Solaris and communicating with an Oracle database using JDBC and SQL. Training a team to outsource future development. (Several fixed price contracts)
+Oct 2001 - Jul 2002: BT eXact, Adastral Park, Ipswich 
+Software Engineer: Enhancements to Enterprise Knowledge Repository: User Interface process reengineering and the complete architecture, design and development of a distributable, scaleable, cacheing "middleware" web application using JSP, custom tags, servlets and JDBC to improve the apparent performance of the old, slow system. Provision of flexible website branding and user experience customization using XML and XSLT. Acting as a Java, Object-Oriented Software, Web Services, Software Quality and Extreme Programming mentor for other team members. (Fixed price contract)
+Apr 2000 - Jul 2001: British Telecom, Adastral Park, Ipswich. 
+Software Engineer: Maintenance of legacy Enterprise Knowledge Repository in C++/CGI/HTML/JavaScript, development of replacement web application in Java. Implementation of new SCM system and development process. (Initially a 6 month contract, Extended 10/00, 04/01)
+Feb 2000 - Mar 2000: British Telecom, Martlesham Heath, Ipswich. 
+Software Engineer: Architecture, design, implementation and support of a prototype Java/HTML/JavaScript replacement for the complex multi-page paper forms used by sales account managers. Training the team who will take the project into deployment. (1 month contract)
+Oct 1998 - Feb 2000: British Telecom, Bibb Way, Ipswich. 
+Software Engineer: Maintenance and development of a distributed C++ middleware system to perform real-time system tests for "Home Highway" ISDN service. Included AION knowledgebase on Solaris Unix. (Initially a 6 month contract, Extended 4/99)
+Apr 1995 - Oct 1998: British Telecom, Martlesham Heath, Ipswich. 
+Software Engineer: Design, implementation and maintenance of a complex distributed multi-platform Java system for work scheduling, data-gathering and data-transmission. Design and maintenance of the previous version in C++ and C on a DOS-based Husky FS2 hand-held terminal. Writing a serial device driver in 8086 assembler for the FS2. Acting as a Java, C++ and object-oriented software mentor for other team members. Evaluation of Java and Web technology. (Initially a 6 month contract, Extended 10/95, 4/96, 4/97, 4/98)
+Sep 1994 - Jan 1995: Telemarketing Link Ltd, Slough 
+Systems Manager: Management of a department of five people. Administration and support of a 50-user Pyramid Unix system. Creation and maintenance of telemarketing applications using the EDGE database and 4GL. Research, specification, purchase and installation of a network of office PCs and business software. General systems programming in C, C++ and AWK under Unix and DOS. A feasibility study on replacing dumb terminals with a client-server solution. Designing and implementing work scheduling, training, job logging and documentation procedures.
+Apr 1990 - Sep 1994: Lindos Electronics, Melton, Suffolk. 
+Purchasing Manager: Management of one employee. Design and implementation of combined computer/manual system for tracking and predicting stock shortages, automated component ordering, stocktaking and goods despatch. Liaison with suppliers; specification, ordering and checking of approx £100 000 of stock per year.
+Mar 1988 - Mar 1990: Lindos Electronics, Melton, Suffolk 
+Software Engineer: Design, implementation and support of software in C++ and Assembler under DOS including UI, graphics, language interpreter and device drivers to control the Lindos LA100 Audio analyser. Writing and production of the accompanying manual.
+Jul 1986 - Mar 1988: Kuma Computers Ltd, Pangbourne, Berks. 
+Programmer: Porting of a word processing package from C and Assembler under GEM on the Atari ST, to C under GEM on the PC. Design and implementation of an indexing package for the above. Design and implementation of a word processing package in C under AmigaDos on the Amiga.
+Sep 1983 - Jun 1986: Computer Systems Engineering degree, University of Warwick. 
+Student: Courses in Pascal, C, C++, Unix, Object-Oriented Design, Operating Systems, Database Theory etc. My final year project was a software package to create, display and simulate random ‘fractal’ terrain (C++ under Unix on a VAX) as part of a larger project to research low-level missile guidance algorithms.
+Jan 1983 - Sep 1983: Marconi Space and Defence Systems (Command and Control), Camberley, Surrey. 
+Electronics Assistant Assistance in the manufacture of military computer system prototypes, and writing of test programs in 8086 assembler to evaluate the hardware, a service not provided by the main software contractors.
+Jan 1980 - Oct 1982: Royal Navy, various ships and shore stations. 
+Weapons Engineer Officer: General and Navy-specific engineering training, both theoretical and practical. Leadership and management training.
+
+Personal Details
+Full Name
+Francis Kenneth Carver
+Address
+62 Tomline Road, Ipswich, Suffolk, IP3 8DB
+Telephone (home)
+01473 273621
+Telephone (mobile)
+07803 135744
+Nationality
+British
+Education
+My secondary education was at Farnborough Grammar School, where I obtained ‘O’ levels in Biology, Chemistry, Mathematics, English Language, English Literature, French, German, Technical Drawing and General Studies. followed by ‘A’ levels in Mathematics, Physics and Design and Technology. During the Design and Technology course I was part of a three-man team that designed and built an automatic lawnmower which appeared on BBC TV's ‘Tomorrow's World’. At university the honours degree in Computer Systems Engineering covered the theory and practice of software, electronics and the interface between them - in short, all the most useful parts of Computer Science and Electronic Engineering. In the final year I specialised in software but still retained a good grounding in electronic design. In recent years I have continued my education, taking evening courses ‘for fun’, and have gained ‘A’ levels in English, History, German, Accounting, Philosophy and Geography as well as taking courses in Advanced Driving and Video Making. I have completed a programme of teacher training and am currently writing a MSc dissertation through the Open University. 
+Other Activities
+I have been an active moderator, mentor and reviewer at www.JavaRanch.com since 1999, and have helped thousands of people to a better understanding of Java and associated technologies. JavaRanch has over 250,000 unique visitors per month, and is one of the most popular Java-related web sites in the world. I am a contributor to several open source software projects, including The Mojasef web framework, Stringtree Java utilities, the Resin application server, the WebMacro framework, the Friki web collaboration tool and the Schoolware education management system. 
+I am an active media maker and producer for clients and friends. A selection of short-form video pieces can be seen on my 'video blog' 
+I am a keen player, designer and demonstrator of all forms of social games including role-playing games, war games, board games, card games and paintball games. I run the Western Europe region of the volunteer demonstration team for Steve Jackson Games. From 1991 to 1994 I was the chairman of the Albion Guard Games Club in Ipswich which thrived under my leadership. I have had games, ideas and magazine articles published by several publishers. 

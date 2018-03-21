@@ -1,0 +1,109 @@
+Mahesh Reddy
+
+CONTACT  INFORMATION
+
+	Mailing Address:  
+		Phone:	+
+		Email: 	
+EDUCATION
+
+Doctorate in Management Information Technology, Lawrence Tech. University, Southfield MI, USA (2007)
+MS in Computer Science & Information Systems, University of Michigan, Ann Arbor, MI, USA (1999)
+BS in Mathematics and Computer Science, Lawrence Tech. University, Southfield MI, USA (1995)
+HND with Distinction in Computer Science, University of Wales, South Wales, United Kingdom (1992).
+BS in Automation of Tech Processes in Manufacturing, Kutaisi Technical University, Georgia (1991)
+
+EXPERIENCE
+
+	Lawrence Technological University (2005-Present)- Adjunct Professor, Part time teaching
+Introduction to Java J2EE; Advanced Java J2EE; Database Systems: Oracle Database.
+
+	QEK Global Solutions (2000 – Present) – Chief Software Architect/IT Manager, Bloomfield Hills, MI USA
+
+	Qual-Effic Services International (1999 – 2000) –– Manager Applications Development, Bloomfield Hills, MI USA
+
+	Hamilton Group Services (1996 – 1999) – Lead Developer, Bloomfield Hills, MI USA
+
+	Accounting Systems Inc (12/1994 - 12/1996) – Software Programmer, Troy, MI USA
+Designed and developed custom software products 
+Installed and supported programs on customers' site
+
+Lawrence Technological University (03/1993 – 12/1994) - Lab Consultant, Southfield, MI USA
+Engineering Software Applications Assistance
+
+PROFESSIONAL ACTIVITIES
+
+Templeton College, Oxford University, UK (2005)
+Topic: “Cross-cultural issues in IT Management” 
+Topic: “Business Process Outsourcing with an off-shoring theme”
+
+American Express, London UK (2005)
+Topic: “Global Financial Services” 
+Topic: “Amex E-Business Model” 
+
+US Embassy, London UK (2005)
+Topic: “Doing Business in the UK and European Union” with some IT considerations e.g. the outsourcing issue, standards issue, trade regulations.
+
+Greenwich University, London UK (2005)
+Topic: “Knowledge Management and Organizational Complexity”. 
+Topic: “London’s strategy for achieving sustainable competitive advantage”
+
+Nijenrode University, Amsterdam, Netherlands (2005)
+Topic: “Partnerships between academia and industry – bridging concept and practice”
+Topic: “Globalization, internationalization and organizational change – leading organizational transformation”
+
+BMC Software, Amsterdam, Netherlands (2005)
+Topic: “IT enablement of Business Processes for competitive advantage”
+Topic: “Enterprise Leadership – the European perspective”
+
+Syntegra Learning Solutions , Amsterdam, Netherlands (2005)
+Topic: “Productivity and Innovation”
+Topic: “Business Processes and the Enterprise Architecture”
+
+
+
+RESEARCH AND PUBLICATIONS
+
+IEEE 2007 ELECTRO/INFORMATION TECHNOLOGY CONFERENCE  speaker – Chicago, IL, USA (May,2007)
+Leveraging Social Networks to Improve IS Staff Productivity – Southfield, Michigan, USA (2006)
+American Axle & Manufacturing Portal Project – Southfield, Michigan, USA (2004)
+One-cylinder  motor dynamic model and  account of low-frequency vibration., Tbilisi,  Georgia  (2004)
+Digital  spectral  processing  of  vibro-acoustical signals  for  diagnostics of technical conditions  of mechanical systems., Tbilisi, Georgia  (2004)
+Transfer  of  vibrations  on the  body  of  the  operator  of thermo-motor cultivator  and  the small-sized tractor. Tbilisi,  Georgia   (2003)
+Research  of  Moto cultivator’s  Vibro-acoustics., Tbilisi,  Georgia (2000)
+Lotus  Notes @ Domino Development., Tbilisi,  Georgia (2000)
+Modeling Requirements for Finite Element Analysis 1 to 2 and 3 Dimensions. Tbilisi,  Georgia  (1999)
+Modeling requirements for Finite Element Analysis – Ann Arbor, Michigan, USA, (1999)
+Processing of speech signals with object introduction of information in the computer. Vibration Engineering, Batumi, Georgia (1997)
+The Algorithm of recognition and diagram of informational-diagnostically test complex for vibro-acoustical monitoring of technical conditions in mechanical systems – Tbilisi, Georgia (1994)
+
+OTHER TECHNICAL TRAINNING
+
+Microsoft Certified Professional Developer, MCPD (2006)
+Microsoft Certified Applications Developer, MCAD (2006)
+	Microsoft Certified Database Administrator, MCDBA (2005)
+	Microsoft Certified Solutions Developer, MCSD (2004)
+
+TECHNICAL SKILLS
+
+Microsoft SQL Server
+AS400
+Visual Basic
+Unix
+System Life Cycle
+Microsoft .Net
+XML
+Business Objects
+C/C++/C#
+Databases
+Wireless PDA Technologies
+ASP
+Object Oriented DB
+System Architecture
+Delphi
+Bar code Technologies
+Java
+ERP
+Oracle
+J2EE
+

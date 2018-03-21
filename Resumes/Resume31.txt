@@ -1,0 +1,150 @@
+MaxiM V
+General Qualifications
+Over 6 years experience in web development, all of them on offshore outsourcing projects.
+Decent experience in configuration management, requirements management, change management.
+Over 25 websites.
+Extended experience in tuning and utilization of OSs: MS Windows XP, MS Windows 2000, Linux; tuning web-servers: Apache, PHP, MySQL.
+Expert in client / server web-technologies; portal and web-site engines, payment gateways; OOP in PHP5, OOP in JavaScript, DOM, AJAX, object oriented design patterns; Database connectivity, Database architecture, ADO, ODBC, SQL engines; XML-technologies, SOAP, 3-rd party API integration; Database Management Systems, Enterprise Application Integration.
+Mastered the majority of technologies to transmit data in the Internet, as well as data security when data transition in the Internet, ensuring web-server secureness.
+n
+Education
+1997 - 2002, MS of Design and Architecture, at Kharkiv National University of Civil
+Construction, Design, and Architecture
+2002 - 2003, MS of Computer Science, at Kharkiv National University of Radio Electronics
+Technical Summary
+Hardware:
+IBM PC Compatibles; Intel x86, AMD platform
+Programming Languages
+PHP, Cake PHP, Java, HTML/DHTML/XHTML/XML, RSS XML, JavaScript, CSS, XML/XSLT, PLSQL, Perl, Python
+DB:
+MySQL, Oracle, PostgreSQL, Informix, Access
+Operation Systems/Platforms
+Windows98/NT/2000/XP, Linux/RadHat/Slackware
+Tools and technologies
+Eclipse Development tools, SVN/CVS, Power Designer, IntelliJ IDEA, Jbuilder, MS Project
+CMS
+Joomla, Mambo, Drupal, WordPress, osCommerce, Lore (Help System)
+Professional Experience
+Feb/05- present Company A
+Role:
+Senior PHP Developer
+Front-end and Back-end programming.
+Project Manager, Team Lead
+Project planning.
+Management of the web-development team under management.
+Developing software requirements specification.
+Design of DB and website structure.
+Building software modules and templates for the websites.
+Project A
+Description: Development of a social network site.
+Symfony framework based PHP, MySQL, Ajax.
+Project B
+Description: Development of a community system. Drupal based
+PHP,MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 1
+Project C
+Description: Development of a service system symfony 1.1 framework based
+PHP, MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 2
+Project D
+n
+Description: Development of a service system symfony framework based
+PHP, MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 3
+Project E
+Description: Development of a community system. Drupal based
+PHP,MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 4
+Project F
+Description: Development of a booking system. Drupal based
+PHP,MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 4
+Project G
+Description: Development of a community system. Drupal based
+JavaScript, Mysq, PHP, HTML/DHTML, Ajax, CSS, XML, Apache
+Developers involved: 3
+Project H
+Description: Development of a community system. Drupal based
+PHP, MySQL, Javascript, Ajax, HTML/DHTML, CSS, XML, Apache
+Role: Team Leader, Project Architect, Developer.
+Developers involved: 3
+Project I
+Description: Development of a unique community system based on family relations. Messaging system. Permissions system. Relationship system
+JavaScript, Mysq, PHP, HTML/DHTML, Ajax, CSS, XML, Apache
+Developers involved: 6
+Project J
+Description: Development of a unique system for displaying and management of sports news for the USA.
+JavaScript, Mysql, PHP, HTML/DHTML, CSS, XML, Apache
+Developers involved: 2
+Project K
+Description: Drupal CMS redevelopment. New modules development. Modification existing modules. Modules Installation.
+JavaScript, Mysql, PHP, HTML/DHTML, CSS, XML, Apache
+Developers involved: 1
+Project L
+Description: Development of a unique system for e-mail processing. This portal provides features:
+Huge data volume management capability.
+Strong user role system.
+POP, IMAP, LDAP authentication.
+Reporting tools (Graphic Corda server integration)
+Multi database connections
+Responsibilities included:
+Development and implementation of a sophisticated system of privileges.
+Providing a mechanism to manage of large volumes of information.
+Developed a non-trivial logics of the system.
+JavaScript, Oracle, PHP, HTML/DHTML, CSS, XML, Apache
+Developers involved: 2
+Project M
+Description: This is a consumer-facing mobile content portal that allows users to obtain, store, forward, and manage content for mobile phones - logos, ringtones, java-games, address book, reminder, etc. Among implemented features there is an ability to manage account, blogs and content via SMS.
+Portal is comprised of 3 major components: VWP portal, VWP Catalogue, VWP Communities. There is also Advertise and User help and support area. For user that has not established an VWP account yet there is a Non-authorized VWP-site - generic marketing-flavoured site describing and explaining the VWP system features and benefits.
+PHP 5, MySQL 4, HTML/DHTML, JavaScript, CSS, Eclipse, Apache, Linux, Sybase PowerDesigner 10.
+Developers involved: 10
+Project N
+Description: A brand new website development. The website was built on Joomla! free CMS.
+JavaScript, MySQL, PHP, HTML/DHTML, CSS, XML, Apache
+Developers involved: 1
+Project O
+Description: Development of a unique order management system. A procurement web-based system for several organizations and a lot of suppliers. Different types of payments, EDI documents processing.
+JavaScript, MySQL, PHP, HTML/DHTML, CSS, Apache
+Developers involved: 3
+Project P
+Description: This is an existent website redevelopment. The new website was built on OsCommerce free CMS.
+JavaScript, MySQL, PHP, HTML/DHTML, CSS, Apache
+Developers involved: 2
+Project Q
+Description: A brand new website development. The website was built on OsCommerce free CMS.
+JavaScript, MySQL, PHP, HTML/DHTML, CSS, Apache
+Developers involved: 2
+ 
+Sep/04 - Feb/05 Program - presented Company B
+Responsibilities included:
+Front-end and Back-end programming.
+Cutting of design, HTML imposition.
+Webshop development based on osCommerce CMS
+Project A
+Description: This is a merchant community portal.
+Responsibilities included:
+Development of the site modules
+PHP and JS-programming
+HTML make-up
+Content management system (CMS)
+JavaScript, Postgresql, PHP, HTML/DHTML, CSS, XML, Apache
+Project B
+Description: MLM system. My responsibility was in development of the site modules and bug fixing, PHP and JS-programming, HTML make-up.
+Responsibilities included:
+JavaScript, Mysql, PHP, HTML/DHTML, CSS, XML, Apache
+ 
+Sep/03 - Sep/04 - presented Company C
+Computer Department Manager, Software Support Engineer, Networks Administrator
+Responsibilities included:
+Support and administration.
+English Skills
+Intermediate to fluent, technical inclusive.
+Hobbies
+Cars, Cars Electronic, Car Tuning.
+
+

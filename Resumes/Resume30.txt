@@ -1,0 +1,123 @@
+Denis P
+General Qualifications
+5+ years of experience in web development, 3 of them on high-load project and client-server architecture;
+Experienced in OOD, OOP languages (PHP, C/C++/C#), functional languages(Erlang), SQL Databases (MySQL, PostgreSQL), Markup languages (HTML);
+Have some experience in FOSS projects (some parts of projects has been developed as FOSS and have own little OpenSource project).
+Familiar with the following languages (and scripts): C\C#, Erlang, PHP.
+Other languages (and scripts): C++, Python, SQL, asm.
+Specialties: request balancing systems, thick clients, web-services, caching and distributed architecture, high-load project.
+Education
+2005 - 2007, Master of Science, "Specialized computer systems", at National Aerospace University - 'Kharkiv Aviation Institute', Ukraine
+2001 - 2005, Bachelorof Science, "Specialized computer systems", at National Aerospace University - 'Kharkiv Aviation Institute', Ukraine
+Technical Summary
+<
+IDE
+Eclipse
+Bug Tracking and Utility
+Atlassian JIRA, Atlassian Confluence, Mantis
+Graphics
+Adobe Photoshop, Adobe Illustrator
+DB
+MySQL, PostgreSQL
+UML and CASE
+Rational Rose, Rational Software
+Programming, scripting languages, frameworks and libraries
+PHP5, C/C++/C#, Erlang, JavaScript, jQuery, Markup languages (HTML), Python, SQL, asm
+OS
+Windows / Windows Server, Linux
+Development support tools
+CVS, SVN
+CMS/Frameworks
+Prado
+Completed projects
+Open Source
+My projects
+Project A
+Implementation openID in Erlang;
+Project B
+Implementation Recaptcha in Erlang;
+Project С
+Very simple browser.
+Projects with my patches:
+Project В
+HTML rendering and editing library.
+Not my project (forks, fix some errors or add features):
+Project D
+Erlang based memcached client;
+Project E
+Erlang based framework.
+Professional Experience:
+February/09 - presented Company A
+Management system of products and clients for online retailer
+Platform: PHP(Symphony), MySQL, JavaSscript (jquery)
+Role: Senior Developer
+Project A
+Orgsupply is a web based procurement system used in TUFTS and Princeton universities. It uses cXML Ariba standard for punchout and PO. Orgsupply is integrated in Tufts and Princeton universities.
+Platform: PHP5, MySQL 4, PRADO framework, cXML DTD.
+Role: Senior Developer
+ 
+Mar/08 - Feb/09 - presented Company B
+Time management system for staff
+Platform: PHP, MySQL, JavaSscript
+Role: Senior Developer
+Project A
+Platform: PHP, MySql, Erlang, Smarty, nginx, memcached.
+Mainly develop:
+caching and distributed architecture (nginx + memcached);
+caching logic on backend server and backend logic optimizing (Erlang, memcached);
+caching on scripts level(PHP);
+export/import data to/from other sites;
+widgets for other sites;
+and some other.
+Role: Senior Developer
+n
+Project B
+Platform: PHP + SMTP
+Used xml as input and render with own very simply template engine email (and send:-)).
+Role: Lead developer
+Project C
+Platform: C#(WinForms, .Net 2.0, Mono). Windows(NT5.1-6.0), Linux.
+Fix application to can start on linux.
+Role: Senior Developer
+ 
+Mar/06 - Mar/09 - presented Company C
+Payment system
+Platform: Smarty+PHP+MySql
+Role: Senior Developer
+Project A
+Support:
+openID 1.0 + simple login: password authentication,
+blog,
+wiki,
+forum with tags,
+email delivery(used for registration and news),
+and other features.
+Role: Senior Developer
+Project B
+Platform: C# (WinForms, .Net 2.0, Mono). Windows(NT5.1-6.0), Linux.
+Used own framework based on .Net2.0 with:
+dynamic generation ui from xml and ui editor;
+simple image editor;
+event based ui with high level unification logic;
+own hierarchy object db with some fuzz logic;
+client-server REST xml-based protocol;
+xml patching update system;
+self updating system with binary(full client update) and xml-diff(for data).
+Role: Lead developer with some Product Management function
+Project C
+Platform: C++, Apache, Linux, Cache.
+Create C++ interface for write global's and install scripts.
+Used basically as message gateway with some template logic.
+Role: Developer
+Project D
+Platform: C, Linux.
+Used for:
+load balancing and limitation requests(http) to DB;
+rewrite requests;
+hide the internal infrastructure from the outside world.
+Role: Lead Developer
+ 
+English Skills
+Intermediate.
+
+

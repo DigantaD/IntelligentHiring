@@ -1,0 +1,145 @@
+PERSONAL
+
+NAME:
+abilash
+DATE OF BIRTH:
+18. November 1958
+HOME ADDRESS:
+BIRTHPLACE:
+Birmingham ‑ England 
+
+
+NATIONALITY:
+Irish
+
+
+MARITAL STATUS:
+Married
+
+
+NUMBER OF CHILDREN:
+Two
+
+
+
+
+
+
+
+EXPERIENCE:
+C
+15+ Years
+SKILLS:
+CO/CH4 Monitoring System
+
+UNIX
+15+ Years
+
+Software design
+
+C++
+2.5 Years
+
+Software development & Support
+
+Java
+3 Years
+
+System Test & Integration
+
+Tuxedo
+4 Years
+
+
+
+PL/SQL
+5Years
+
+
+
+
+EMPLOYMENT
+
+● 04.2011 - present		AAH Pharmaceuticals – Coventry, UK
+
+Employed as a C/Unix Developer to write the software design and implement enhancements to the current ordering, invoicing and stock control system, using C, C++ and Ksh. The database being used is C-Tree (a non-relational database), and CVS is used for the software version control.  
+
+● 05.2006 - 09.2010		UBS AG, Zürich, Switzerland
+
+Employed as a PL/SQL programmer to further develop new software as well as to support existing stored procedure software.  This included analysis and improving the performance. I also have to support and development enhancements to the software from my previous time at UBS.  Tools used include SQL Navigator, Toad, Continuus, subversion, pearl and ksh. I also maintained and developed JCS/Redwood scripts, as well as continually improving the installation scripts (ksh, sh and perl).
+Responsible for the maintaining and re-writing Java program for redirection of messages from the main application to a monitoring program using Eclipse.
+Also employed to write and maintain C-Programs (with Pro*C) for extracting data from a database, and for manipulating data files.
+Recent activity included migration from JCS6 to JCS7 (installation as well as Redwood scripts).
+
+● 11.2005 - 04.2006		UBS AG, Zürich, Switzerland
+
+Initially employed for the migration of part of an application from C/Pro*C to another application.  This involved analysis of the current software as an initial step towards the migration, as well as investigation of the capabilities of the target application. A secondary role was as a Programmer/Analyst for further development and maintenance of this financial software for UBS. Using Oracle with embedded SQL in C-Programs (Pro*C) as well as PL/SQL. Continuus used as source version control
+
+● 11.2004 - 11.2005		Vivista Ltd., Chippenham, Wiltshire
+
+Employed as a C-Programmer/Analyst initially for the maintenance of the Police Software CasePrep and Custody.  The database was Oracle, and the software was based on Tuxedo for the transactions with Embedded SQL for the database access.  The BS for the application was written in C with embedded PL/SQL (using Pro*C) and developed on Unix (SunOS). Perl was also used for some of the Web-Based interface stubs for the magistrates court and the DVLA. PVCS was used for the source version control
+Also employed as part of the development team for upgrades/improvements for the applications.
+
+● 01.2001 - 09.2004		PostFinance, Bern, Switzerland
+
+Employed as a C-Programmer/Analyst writing batch programs to perform statistics on monetary transactions stored in a database from Postautomaten (ATM’s), and for transferring data between servers.  The database is ORACLE based and the programs were written in ‘C’ using both embedded as well as dynamic PL/SQL (using Pro*C to pre-compile the ‘C’ source) and Tuxedo.  The Tuxedo transaction monitor was used when transferring data from one server to another.
+I also had to write IPC using pipes, sockets, FIFOs and shared memory for test harnesses and programs.  All the software was developed and tested on Unix systems (SunOS and Tru64). SCCS was used for source version control.
+Employed for the last 2 years of the contract as a Java Programmer to write batch programs for the Back Office applications and for transferring data to other sub-systems.  This included writing an FTP Client and an e-mail interface.  Other responsibilities included writing korn shell scripts for the management of the applications and various tools used by the system.
+
+● 05.1996 - 12.2000		Ascom Infrasys AG/PTT/Swisscom , Bern, Switzerland.
+
+Chief Programmer in charge of a team of up to 9 developers. Development and writing of utilities and programs for retrieving and manipulating data under CICS and DB2 (and later UDB) as part of a centralised database system for the Swisscom Customer applications. Software developed under AIX (4.2.1) on IBM workstations, using ‘C’, embedded SQL (both static and dynamic) and MQSeries and then tested using remote CICS/6000 regions on another part of the network. This also involved writing Error handling and error information (which used MQ Series as the internal communication mechanism), CICS transaction programs as well as so called ABEND handlers.
+These programs were then ported to the MVS mainframe and then system tested.  Involved in writing and maintaining part of the communication/mediation device (SMD), which was written in C++. CVS used for the source version control.
+Re-wrote part of the application in Java, using VAJava, including the error handling and the error information system.
+
+● 02.1993 - 04.1996		Barclays Network Services (BNS), Knutsford, Cheshire.
+
+Involved in the system test and integration for Branch Platforms. The operating system used was AIX on IBM RS6000 series boxes. Involved integrating a reduced version of AIX along with a system management system as well as the individual applications. Activities were de-bugging supplied ksh/bsh scripts, as well as developing customised scripts for installation, execution and integration of the software. Scripts and C programs were also developed as part of the installation and maintenance tape creation process. ClearCase was used for source version control.
+Other activities involved writing tools for departmental use, using X11, Motif, Ingres (both SQL and Windows 4GL) and RPC. These tools included a Hardware Inventory System, Release Management System, a Team Member Location program and a timesheet recorder. Also part of the 3rd line support team, for handling on-line problems arising within the branches.
+The documentation written using Framemaker on RS6000 series boxes under AIX. The documentation written included prototypes/templates for departmental procedures, as well as release notes and handover documentation. 
+Awarded a Quality Award for work done on a project to decrease Down-Time in Branches when Platforms needed to be re-loaded.
+
+● 09.1992 - 10.1992		Digital, Neuchâtel, Switzerland
+
+Writing system test specifications for a national telephone line and satellite channel booking system. Using DecWriter on a VAX/VMS system.
+
+● 07.1990 - 06.1992		SAARBERGWERKE AG, Saarbrücken, Germany
+
+Employed as a Software Engineer/Developer for a CO monitoring system. Main objectives were to improve and to redesign the software as well as to design, write and perform the integration and acceptance tests. The software was targeted for a 68030 based UNIX (BSD 4.3) system and was written in 'C' using IPC (using sockets and  FIFO's ). The improvements involved re‑writing the user and graphics interface for use with 'X11' (X Windows) and OSF/Motif, and implementing the graphics package DataViews and the relational database EMPRESS, extending the monitoring capability to include CH4, as well as improving the efficiency of the whole package. 
+Network and System programming employing NFS, TCP/IP and RPC on both the BSD machine and also Sparc Sun Workstations running under SunOS (also with EMPRESS, DataViews, X11 and OSF/Motif.) were also incorporated to improve the safety and recoverability of the system.  RCS was used for the source version control.
+Other responsibilities include:‑ System manager, Network manager, Teacher for 'C' and UNIX.
+
+● 09.1989 - 06.1990		Micheal Fossler GmbH, Erlangen‑Tenenlohe, Germany.
+
+Engaged primarily as an UNIX 'C' programmer on an BSD 4.3 system. The project was first to integrate and test a CO monitoring system for a Coal mining Company on the new BSD 4.3 system (‑it was originally installed on BSD 4.2), and to create the documentation for it. The next step was to update and port the system so that it worked with a new relational database (EMPRESS) and DataViews, a package for visually representing data in various forms (Line graphs, Bar graphs etc.), on a SUN workstation. Other tasks included:‑ Installation of the system (including system management), writing new 'C' drivers for the A/D cards, and writing the handler programs for both EMPRESS and DataViews. I was also responsible for designing and writing software for a process monitoring (non‑safety) program on a 68020/30 SUN Sparc 1E (VME). This included programming with SunViews. RCS was used for the source version control.
+
+● 11.1985 – 08.1989		LITEF GmbH, Freiburg-im-Breisgau, Germany.
+
+Initially employed as a test engineer in the Test Department within the Development Division of LITEF. Task was to write software, on a Hewlett Packard (HP) computer based test system, to control and aid the automation of an acceptance test procedure for a Motorola 68020 based avionics computer. The software consisted of HP BASIC for the HP and a mixture of Motorola 68000 assembler and assembled C contained within an hardware interface. Some assembler software had to be written to run internally to the avionics computer to enable some of the tests to run. This work, as well as the previous project, included the analysis of a MILBUS 1553B interface board, and its built‑in‑test (BIT) software (68000 assembler) to calculate the BIT coverage, and therefore to specify the external tests needed to test this particular board. The other major project worked on was to automatically convert MILBUS 1553B test instrument data from the form used to control one instrument (an SBA 100), to a form compatible with another 1553B tester (GEC ORION), using 'C'. 
+ 
+● 11.1980 – 10.1985		British Aerospace (BAe), Stevenage, Hertfordshire, England. 
+
+Employed at BAe for just over 5 years as a Test Engineer. The work involved writing test procedures for functional card testing, and then, when all cards had been tested, to write the test procedure for the card assembly. The card testing included modelling and encoding the card circuit diagram on a digital simulator, to analyse test coverage, and also designing of interfaces between the test equipment and the unit under test (UUT). The last project involved in was an automatic optical guidance system for a ground to air missile system. The interface included a simulated memory mapped screen as an input to the UUT for flare simulation, and had to be able to simulate different sizes, as well as stationary and moving flares. 
+The Test system used for this project was an In‑house modular built system, using PASCAL to write the test program and to control the test instruments. The previous major project was a control console for the remote detection of targets, type of targets, and enabling and firing of ground to air missiles. The system was based on a TI32000 family CPU. 
+
+
+EDUCATION
+
+1975 – 1977
+'A' Levels:
+Physics, Mathematics
+1977 – 1980
+HND Applied Physics:
+Pure Mathematics, Applied Mathematics, Electronics, Applied Physics, Pure Physics, Statistics & Computing
+
+
+OTHER INFORMATION
+
+HOBBIES:
+Rugby, swimming, SCUBA diving and generally keeping fit. Golf when I have the time.
+
+LANGUAGES: 
+Having worked and lived in Germany and Switzerland for many years, I speak good German and am able to communicate in both working and social environments. My written German is fair to good. 
+
+VARIOUS:
+I have full British and Swiss driving Licences.  I am certified as a PADI Dive Master, which includes Emergency First Response (First Aid) as part of the Rescue Diver certification.

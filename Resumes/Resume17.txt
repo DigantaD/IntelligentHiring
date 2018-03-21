@@ -1,0 +1,129 @@
+Timur K
+General Qualifications
+Over 7 years of experience in programming in C/C++/C#, QA/QC;
+Strong knowledge of test processes, testing techniques;
+Great leading and management skills.
+Education
+Sumy State Technical University.
+Engineer (corresponds to US master's degree) in Computer Science-system programmer.
+Relevant courses included applied and computing mathematics, mathematical and computer modeling, system programming, databases, computer and engineering graphics.
+Certifications
+2004 TelesensAcademy. IT Project Management.
+2004 Brainbench (http://www.Brainbench.com) - C Programming (Transcript ID#:3220012).
+2004 Brainbench (http://www.Brainbench.com) - C++ Programming (Transcript ID#: 3220012).
+2005 (MASTER) Brainbench (http://www. Brainbench.com) - C++ Fundamentals (Transcript ID#: 3220012).
+Technical Summary
+Platforms OS
+Windows, Windows CE, Linux
+Programming Languages
+C, C++ (high level), C#, Java/J2ME, Python
+DBs
+SQLite, PostgreSQL, Firebird, MySQL, MS Access
+Version Control
+CVS, WinCVS, SVN, TortoiseSVN, Visual Source Safe
+Tools and technologies
+STL, MFC, wxWindows, QT, WTL, ACE, WinAPI, cURL, Add-in Express, Redemption, DevExpress, libiconv, HTML, XML, DOM, SAX, Apache's Xerces-C, TinyXML, TCP/IP, PPP, IPC, posix IPC, Multi-threading, NMEA (GPS), Windows Mobile DriversUML, OEW, Rational Rose, Design patternsNuMega BoundsChecker, TrueCoverage, True-TimeTrac
+Professional Experience
+May 2006 - presented Company A
+Position (12/2007 - to present), Team leader, Project Manager.
+Position (05/2006 - 12/2007), Senior C++ programmer.
+Project A
+
+Mail files viewer.
+Platform:
+Windows;
+Languages: C++;
+Tools/Libs: MAPI, LogicProtect;
+Work: 1 programmer, 6 months;
+Project B
+
+Outlook Add-in for mail encryption.
+Platform:
+Windows;
+Languages: C#;
+Tools/Libs: Add-in express, Redemption, PDFCreatorPilot, LogicProtect;
+Work: 1 programmer, 2 months.
+MessageExport
+Outlook Add-in for mail exporting.
+Platform:
+Windows;
+Languages: C#;
+Tools/Libs: Redemption, PDFCreatorPilot, LogicProtect;
+Work: 1 programmer, 4 months.
+Project C
+
+Outlook Add-in for mail encryption.
+Platform:
+Windows;
+Languages: C#;
+Tools/Libs: Redemption, PDFCreatorPilot, LogicProtect;
+Work: 1 programmer, 4 months.
+Project D
+
+WiFi scanner.
+Platform:
+Windows Mobile;
+Languages: C#, C++;
+Tools/Libs: cURL, wpa-supplicant, NMEA;
+Work: 1 programmer, 6 months.
+Project E
+
+Driver for Stellus GPS SDIO device (StarNet).
+Platform:
+Windows Mobile;
+Languages: C;
+Tools/Libs: Platform builder, SDIO API;
+Work: 1 programmer, 1 months.
+Project F
+
+Golf assistants application. It use GPS signal for determine current position of golfer and point out distances to golf holes and obstacles.
+Platform:
+Windows Mobile;
+Languages: C++, XML;
+Tools/Libs: WTL, TinyXML;
+Work: 1 programmer, 3 months.
+Jan 2005 - May 2006 - presented Company B, C++ programmer.
+n
+Project A
+
+The "SmartOil" system automates the entire technological process of mineral oil sale on a filling station from intake time to delivery time for a client. Also the system provides the automation of associated activity in a filling station: goods retail in a shop, cafe service, and engineering service for cars and car wash.
+Platform:
+platform independable;
+DBMS: FireBird;
+Languages: C++ ,SQL;
+Tools/Libs: Rational Rose, XML, STL, Multi-Threading;
+GUI: QT;
+Work: 7 programmers, 13 months.
+Project B
+
+The developed GUI (graphical user interface) simplifies and makes more obvious the control of SSH connections from Windows.
+Platform:
+Windows;
+Languages: Visual Studio C++;
+Tools/Libs: MFC library, PuTTy library;
+Work: 2 programmers, 1 months.
+Nov 2002 - Jan 2005 - presented Company C, C++ programmer (head of the project group).
+Project C
+
+Corporative stock-taking system elaboration, development and updating. Platform:
+platform independable;
+DBMS: PostgreSQL;
+Languages: C++ ,SQL, Python;
+Tools/Libs: Rational Rose, XML (Apache's Xerces-C);
+GUI: wxWindows;
+Work: 6 programmers, 11 months.
+Jan 2002 - Nov 2002 - presented Company D, C++ Programmer.
+Project A
+
+Distributed system of dispatchers control, monitoring, recording and diagnostic of railway objects behavior, view of archives and creating reports of railway events at region Kiev-Fastov. Creation of the distribution kit Linux.
+Platform:
+Intel x86 PC/ Windows NT, 9x, Linux;
+IDE/ Compilers: GNU GCC, VC6.0;
+Languages: C++;
+Network: TCP/IP, PPP;
+Tools/Libs: XML, MFC, STL, Multi-Threading;
+GUI: WinGUI, QT;
+Work: 5 programmers, 9 months.
+English Skills
+Intermediate.
+

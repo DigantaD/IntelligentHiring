@@ -1,0 +1,106 @@
+ Mahesh phaul
+ 
+
+
+Summary:
+
+Have 3+ years experience as Developer based on HTML and Java architecture and         
+             Client/Server model
+Currently working in IBM India Pvt Ltd from June, 2009
+Have worked for QSO technologies India Pvt Ltd from July 2007 to March 2009
+Was Software Trainee for IIIT-B & Infosys from Oct 2006 to Apr 2007
+Have good knowledge on core Java and OOPS concepts
+Extensively developed Web Applications using Java, JSP, Servlets, JDBC and Java scripts
+Experience in Java Swings, JSP, HTML to implement the UI components
+Have good knowledge on writing complex SQL Queries to pull the reports from the DB 
+Good experience in providing solutions with Application and Web Servers like, Apache 
+             Tomcat 
+Have been involved in the entire project life cycle starting from requirements gathering 
+             to implementation
+Hands-on experience in IDE Tools: Eclipse and NetBeans
+Developed and deployed applications in Windows
+Knowledge and Experience of Manual Testing
+Have very good communication / interpersonal skills and is capable of maintaining and  
+             Working with team
+
+Skills:
+
+Languages
+HTML, CSS, Java, Java Script, SQL
+Technologies/ tools
+Applets, Java Swings, AWT
+Development tools 
+Dream weaver, Eclipse and SQL*Plus
+Platforms/ hardware
+Windows and MAC
+Database
+Oracle and MySQL 
+Web /application
+Servers
+Apache Tomcat Server 	
+
+Projects:
+
+1.  Audiometer
+Abstract:           Audiometry is the technique to identify and quantitatively determine the degree     of hearing loss of a person by measuring his hearing sensitivity, so that suitable medical treatment or one of the appropriate hearing aids and assistive devices can be prescribed. In audiological investigations, the hearing sensitivity is tested for pure tones, speech or other sound stimuli. The result, when plotted graphically, is called an audiogram. The electronic instrument used for measuring the hearing threshold level is called an audiometer. Using it, the tones of different frequencies and levels are generated and presented to the patient and hearing thresholds are determined on the basis of patient’s response. 
+
+Role & Responsibilities:
+Extensive Research on Audiometer Techniques and sound intensity levels
+Worked as a Component Developer to code in Java and J2EE technologies 
+Generated User interface Templates using Java Swings
+Developed the Java Code using Eclipse as IDE
+Involved in generation of sound using Java sound APIs
+Involved in plotting the Audiogram using Java Packages
+Performed Manual Testing
+
+Technologies: 
+ Java, Java Swings, Java sound APIs and Eclipse
+
+
+2.  Data Accessibility in school using Smart card
+Abstract:             This project is developed to maintain the database of the students, staff, admin and the parents. The student’s information like personal information, educational details from the admission in the school till his completion of studies is updated. Also it is stored in the database permanently. Same way the staff  information is stored. The parents can view the details of the student online. The student, staff, admin can enter the School premises using the Smart card. All the rights to view and edit is given to Admin.
+
+Role & Responsibilities:
+Involved in writing technical proposal for the client
+Worked as a Component Developer to code in Java and J2EE technologies
+Generated User interface Templates using JSP, CSS, HTML and Dream Weaver
+Creation and updation of database using mySQL
+Have performed Manual Testing
+
+Technologies: 
+HTML, CSS, JavaScript, Java
+
+
+3. Pension Soft
+Client: 		Allianz Group
+Abstract:           This is a software which helps to give different types of offers to their employees.  This software is mainly used by Allianz sales group. They can add, delete and edit the company employee group and also search the company employee group, employees and also provide various pension schemes to the employees wherein the employee can choose the pension schemes.
+
+Role & Responsibilities:
+Involved in writing technical proposal for the client
+Involved in the development of user interface and Report generation 
+Creation and updation of database using mySQL
+Developed the Java Code using Eclipse as IDE
+Technologies: 
+HTML, CSS, JavaScript, Java swings, Eclipse
+
+
+4. Automation of Infy Bank
+Abstract:           The Main objective of this Project is to provide better service to the Bank customers, Infy Bank plans to automate and web enable their services. Friendly Bank, another leading bank in the country, provides a service to its associated banks to transfer fund from an account in the associated bank to an account in Friendly Bank. Infy bank is associated with Friendly Bank and one objective of the automation of Infy Bank is to leverage this service. 
+
+ The system was designed to provide better service to the customers. There will be three kinds of users namely Manager, Staff and Customer who can avail the service provided by this system. The services would be fund transfer, deposit, and withdraw money and reporting. There will be different levels of authorization as far as maintaining (adding, deleting, editing customer details and change password) the database is concerned.
+
+Role & Responsibilities:
+Understanding the business requirement for database and application design and development
+Developing front-end screens in JSP and HTML
+Client side validation using Java Script
+Database connectivity for applications using JDBC
+      Embedding business logic in Servlets
+Using Back end tools such as SQL Plus in Oracle 9i
+Technologies: 
+Servlets, JSP, Java Script, HTML, JDBC, SQL Plus, Eclipse
+Personal Details:
+Bachelor of Engineering in Electronics & Communication Engineering from Visvesvaraya Technological University in 2006, Bangalore, India.
+Declaration:
+The above information provided by me is true to the best of my knowledge and belief.
+
+                                                                                                          Mahesh Reddy

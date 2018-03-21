@@ -1,0 +1,154 @@
+Dmitry V
+General Qualifications:
+Good knowledge of RDBMS and Internet (TCP/IP).
+Experienced in C/C++/Java development.
+Good knowledge of RDBMS and Internet (TCP/IP).
+Experienced in PHP/Perl/Python
+Experienced in web programming (PHP/Perl/Python+MySQL) and MS Office programming (VB/VBA).
+Experienced in Linux RedHat administration, *BSD/Linux administration.
+Experienced in business apps programming.
+Education
+1998 -2003,MS in Mathematics and Mechanics (Computer Science inclusive), at Kharkiv National University, Ukraine.
+Technical Summary:
+Hardware: IBM PC and compatibles
+Software:
+Languages:
+C/C++, Java, Pascal/Delphi, VB/VBA; PHP, Perl, Python, Django; HTML, XML, RSS XML, JavaScript/VBScript, CSS; PL/SQL, OpenBSD
+OS:
+Windows, Linux RedHat/Fedora
+DBMS:
+MySQL,Oracle 8i, SyBase
+IDE:
+Visual Studio 6 - 2005, IntelliJ IDEA
+Professional Experience:
+Nov/04 - presented Company A 
+Senior Web Developer, Team Leader
+Selected projects:
+DocBook creator
+Description
+A script which takes a bunch of medical articles (.doc files with different formatting), parses them, and creates an Palm/PocketPC medical database of deseases. The conversion is done with the following chain:
+. doc - text - (powerful filter which uses regexps and external parser, built with lex and yacc) - xml - PDB (Palm database). Every article in the database links to several other articles, the result looks like HTML site with crosslinks.
+Python,
+Flex,
+Yacc,
+C
+Role: Project Architect, Developer.
+Duration: 3 months
+Developers involved: 1
+Parent community site
+Description
+A site which allows parents, teachers and PTA to communicate, find other parents by school, which their children attend. Features: calendar (events, reminders), internal email, IM, surveys, after school programs, trends, tracking of volunteers, CC payments.
+Django,
+MySQL,
+Javascript
+AJAX
+Role: Project Architect, Developer.
+n
+Developers involved: 1
+Project A
+Description
+Developing database structure, admin and client functionality, PDB export/import, etc.
+Perl/ Postgresql/MySql/Javascript/Ajax/YUM
+Role: Team Lead, Developer.
+Developers involved: 3
+Project B
+Description
+This is an e-market place and has a powerful admin part with intensive use of AJAX. I have created plug-ins for Fire Fox and Internet Explorer for the quick deal postings. Users can share their deals, post comments to the posts, can communicate via integrated webmail. Although the site is not completely filled with content, as the customer doesn't make a lot of planned advertising. I'm sure this site will be very popular after the proper advertising. The site has unlimited categories nesting, stars rating (like yahoo has), tags (like gmail and docs.google.com have), power search engine, black list words filtering. Dealbundle also uses XML and a lot of JavaScript to make the site quick and user-friendly.
+PHP/MySQL/Ajax/XUL/C++/ATL
+Role: Team lead, Developer
+Developers involved: 2
+Web spider + database frontend
+Description
+Script which crawls bulletin boards, parses html pages, extracts ads that match
+specific search criteria and adds them to database. CGI frontend to collected data.
+Python,
+SQLite.
+Role: Developer
+Developers involved: 1
+Project C
+Description
+Developed script which uploads .mp3 files to iPod, creating Master List and nested lists (band/album/year) by .mp3 tags.
+Python
+n
+Role: Developer
+Developers involved: 1
+Project D
+Description
+Developed script which uploads video files of different formats to iPod. Conversion is done with ffmpeg.
+Python
+Role: Developer
+Developers involved: 1
+Project E
+Description
+The project is an event management web site. Site visitors can subscribe for events, buy tickets, view event details and photos, contacts of event owners etc. The site also contains email lists system to allow the owners of the events to communicate with event subscribers. Paypal and Google Checkout were integrated into the site for tickets purchasing. The site was implemented using PHP 5 with use of Zend framework.
+PHP 5/mySQL/Javascript/Ajax/XHTML
+n
+Role: Team lead, developer
+Developers involved: 2
+Project F
+Description
+Plugin creation for Firefox and Internet Explorer browsers to increase usability of the web site and extend site functionality. I used XUL markup language and Javascipt to create the version of plugin for Firefox. To create the plugin version
+for Internet Explorer I used C++ with wide use of ATL , HTML+Javascript for frontend. The site performance was greatly improved with help of this plugin. It is not necessary to use proxy script for data loading and its parsing, plugin is responsible for this functionality now.
+Role: Developer
+Developers involved: 1
+Role: Project Architect, Developer.
+Developers involved: 1
+Project G
+Description
+Creation of the web interface for the testing system for American schools. A significant part of web interface is Reports system. The main effort was done on data queries optimization and data caching to provide great performance of Reports system. The testing system allows to create custom subjects and custom tests and share them with other schools using highly customizable permission and privileges system. We used PHP 5, our own framework, Javascipt/Ajax/XHTML and MySQL as data source. We also used FPDF library to generate reports in PDF format for printing.
+PHP 5/MySQL/Javascript/Ajax/XHTML
+Role: Team lead, developer
+Developers involved: 3
+Project H
+The project is undelivered yet being under testing
+Description
+The project idea grew on the grounds of the website. We offer a free DNS with some extra functionality to a user. In case a domain cannot be found, the user gets a list of domain names that are consonant with the one typed in the address field by the user; the domain names are given out sorted by their popularity rank. To find consonant domain names we use fuzzy search. A similar page is shown to the user in case the domain name in search is a parked domain that was parked by a provider. Both pages contain context ads from another source.
+As DNS demon we utilized Bind; the modules to detect inexistent domain names and parking provider parked names are designed using Perl.
+mySQL, PHP, Bind, Perl
+Project I
+Description
+This is a corporate portal for an international law company. Lafafsi possesses a network of law affiliates in more than 50 countries that are providing a variety of legal services. When a client applies having either a legal problem or seeking for consultancy services, their request is being automatically redirected to the Lafafsi senior representative in the applicant's country. Legal consultant representatives when registering within the Lafafsi system are to complete registration forms that can be customized to meet the specifics of each representative. The Lafafsi administrator is enabled to define the web form fields essential for a regional representative in the form builder developed by our team. At this each form field is assigned an attribute to make it either visible or not to Lafafsi clients. We have also implemented a file browser in the portal. The client / layer is enabled to grant specific users and groups of users to have shared access to files.
+PHP/mySQL
+Project J
+Description
+This program will seek out random items on eBay, and place non-winning bids on those items for a group of "dummy" users, with the goal of making the dummies appear to be legitimate users.
+n 
+Perl
+Project K
+Description
+This is a community site of a company offering user support.
+The conference members are divided into groups. The moderator is enabled to grant privileges to groups. The discussions can be presented in a tree structure sourcing unlimited nesting of threads.
+Perl, PostgeSQL
+Project L
+Description
+This is a resource for those seeking consultancy from lawyers registered in the system. User can ask a question to the professionals registered in the system after selecting a domain and the answer verbosity level. The registered lawyers are enabled to stake the price their answer is worth. The system provides for advanced lawyer search and a convenient Q / A tracking interface.
+PHP, mySQL
+ 
+Oct/03 - Nov/04 - presented Company B 
+Web Developer, Team Leader
+Project 1: A web portal for mobile content selling. 
+PHP+MySQL, Java
+Project 2: Created add-ons for Oracle Application Server. 
+PL/SQL, Oracle Report / Form Editors
+Project 3: Developed a ERP system. 
+C# widely using .Net Remoting technology.
+Project 4: Maintain code for existing Document Processing System (DI Transform). 
+C++, Perl, SyBase SQL.
+Project 5: Created rulesets for Document Classification Project. 
+VB, PROSAR-AIDA.
+Project 6: Developed various Office automation applications with VB/VBA.
+ 
+Sep/00 - Sep/03 - - presented Company C 
+System Administrator, Web Developer
+Project 1: Developed some tools for administrative use. 
+PERL, Python
+Project 2: Developed a Content Management System.
+Java, JSP, Apache Tomcat
+Project 3: Created a Web Support System.
+PHP, Oracle 8i
+Project 4: Developed two versions of university web site.
+PHP, MySQL
+ 
+English skills:
+Fluent, written and spoken, technical inclusive.
+

@@ -1,0 +1,101 @@
+﻿Charles E. Patisaul	Embedded Software Engineer
+
+
+Cary, North Carolina, USA
+embedded@patisaul.com	http://patisaul.com/resume
+
+
+Objective
+
+To use my low level programming skills developing exciting embedded products; including firmware, operating system, drivers, applications, programmable logic and/or coprocessors.
+
+Education
+
+Bachelor of Electrical Engineering, Cooperative Plan with Honor, Georgia Institute of Technology, 1996 Specializations: Computer Systems and Telecommunications
+
+Skills
+
+• High-level languages: C/C++, Visual Basic, BASIC, HTML, Pascal, and Fortran
+
+• Assembly languages: ARM, M68K DragonBall (68328), M•Core, PowerPC, PIC, and X86
+
+• Knowledgeable in issues related to low-power and mobile devices
+
+• Extensive experience in simultaneous cross-platform development
+
+• Expert at debugging embedded systems with little or no emulator support
+
+• System level software (RTOS, drivers, libraries, and test applications) in embedded environment
+
+• High level hardware and software debugging using oscilloscopes, logic analyzers, and simulators
+
+• Low level software debugging using memory dumps and assembly code tracing
+
+• Operating Systems: Palm OS, WinCE/PocketPC, VRTX, Windows 95/98/NT/2000/XP, Unix and Solaris
+
+• Source/Change Control: PVCS, Perforce, Visual SourceSafe, StarTeam, and Clarify
+
+• Programmable Logic: Xilinx, CoolRunner, and other PLDs
+
+• Electrical soldering (including surface mount components)
+
+• Ham radio operator (KB4WEH, Technician Plus)
+
+Professional Experience
+
+Qualcomm, Inc., Cary, North Carolina
+
+CDMA Technologies
+Senior Engineer - June 2004 to Present
+
+Scientific-Atlanta, Inc., Atlanta, Georgia
+
+Digital Subscriber Networks, Headend Embedded Software Team
+Staff Embedded Software Engineer - April 2002 to May 2004
+
+• Developed and maintained firmware for Quadrature Amplitude Modulator series of products
+
+• Wrote code for multitasking multi-processor system mixing ARM and PowerPC.
+
+• Maintained carrier grade reliability.
+
+• Focused on MPEG-2 Systems Layer and PowerKEY Conditional Access System.
+
+• Worked closely with Digital Network Controller System and set top groups.
+
+Ratio DesignLab, Inc. (became AppForge, Inc.), Atlanta, Georgia
+
+High-tech Product Development
+Embedded Software Engineer - April 1996 to April 2002
+
+• Developed software and firmware for battery powered handheld mobile devices.
+
+• Implemented 32-bit multitasking embedded real-time operating system (RTOS)
+
+• Written in portable Object-Oriented C (critical portions in assembly).
+
+• Simultaneously supported on ARM, ARM Thumb, StrongARM, Motorola M68K DragonBall, and M•Core.
+
+• External modules use position-independent code and data (PIC/PID) for execute in place power savings, flexible configuration, and field upgradability.
+
+• High-speed direct system and inter-module function calling via a COM like interface, implemented in C.
+
+• Wrote numerous device drivers including UART, (IR, RS-232, and RS-485), graphical LCD, coprocessor, touch screen digitizer, and paging and two-way radios.
+
+• Team lead for development of cross-platform GUI controls using C/C++ code shared between Windows and all
+
+embedded targets, in the AppForge Piedmont Framework.
+
+• Senior team member in design and development of AppForge Piedmont (a cross-platform COM-like framework for embedded systems) SDK and run time, for Palm OS and Pocket PC.
+• Wrote and maintained code in programmable logic devices (CPLD and FPGA) and coprocessors to support “zero glue logic and field upgradeable” design philosophy.
+• Wrote programmable logic elements and boot and OS code for modular Hardware Reference Platform
+
+NASA, Voice and Navigation Aids Section, Kennedy Space Center, Florida
+
+Electrical Engineering Student Trainee (Co-Op) - May 1991 to September 1995 (alternating quarters)
+
+• Prototyping, engineering support, and UNIX programming for U.S. Space Shuttle ground communications systems.
+
+Patent Pending
+
+“Methods and systems for providing platform-independent shared software components for mobile devices” United States Patent Application 20030018825, filed 17 July 2001

@@ -1,0 +1,280 @@
+Mahesh Reddy	          Sr. Java/J2EE Developer  
+Executive Summary
+Sethu, is a subject matter expert in IT industry, have SUN / IBM FileNet certifications, with 9 years of both hands on and team lead experience in developing and maintaining Web based, Internet/Intranet, Client/Server, e-business, e-commerce and distributed applications using Java/J2EE Technologies. Sethu is a positive problem solver who will always search for multiple paths to arrive at a goal, weighing the costs and benefits of each. Accomplished strong development, management and leadership skills possess successful team building capabilities, excellent technical communication, presentation, customer service and interpersonal skills, flexible with the team in achieving business objectives.
+Able to translate a business discussion into business requirement using formal techniques.
+Effectively identified and/or analyzed business problems and provided solutions accordingly.
+Ability to manage multiple project tasks with changing priorities & tight deadlines.
+An in-depth understanding of all the phases of Software Development Life Cycle (SDLC).
+P8 Enterprise wide architecture and reengineering.
+Installation/upgrade, configuration and deployment of new FileNet P8 CE/AE/BPM systems to respective FileNet clients.
+Worked extensively on Intel SOA Expressway for healthcare (intel SOAE-H) with codeless workflow engines.
+Configuration of FileNet Content Federated Services for bridging FileNet Image Management Systems to new FileNet P8 Technology.
+Handle administrative tasks associated with day to day maintenance.
+Server System Administration (Covering variety of apps and hardware)
+Design and Implementation of FileNet Records Crawler for bulk loading of Images and Content into FileNet Technologies
+Senior Systems FileNet Specialist providing architectural, design, administration and reengineering of FileNet based network solutions.
+Worked on different development process (such as Agile, Extreme, Refactoring                            methodology).
+Worked extensively in Java, J2EE, SOA, JBoss Drools engine, Java Beans, Servlets, Java Persistence (JPA), JSP, JSF, JMS, JMX, Swing, EJB, MDB, JDBC, XML, Hibernate, XSLT, CSS, GWT, JavaScript and HTML.
+Have good exposure to Content Management, Workflow applications, Microsoft Office, Lotus Notes, user interface, models and prototypes.
+Good exposure and working knowledge in SSO with Siteminder, web services (Axis, WSDL, XML, SOAP) technologies.
+Extensively with mission-critical authentication/authorization tool, SiteMinder (architecture, design, Java/J2EE/Perl API programming, testing, installation (including LDAP directories and web servers)).
+Extensive experience in developing database SQL, PL/SQL Scripts like Stored Procedures,   Trigger, Views, Sequences, Synonyms and Packages.
+Proficient in writing batch scripts using UNIX/ANT Shell Scripts & commands, used putty to connect to the UNIX box, used FileZilla client for ftp.
+Have knowledge of most current design frameworks and be adaptive at solution design, be a very effective communicator. Excellent verbal and written communication skills.
+TECHNICAL REQUIREMENTS SUMMARY            
+Talents
+Years Experience
+Proficiency
+(Training, Light, Medium, Heavy)
+Last Used
+Java/J2EE
+9+
+Heavy
+Current
+SOA , web services
+3+
+Heavy
+Current
+Struts, Hibernate, Spring
+6+
+Heavy
+Current
+WebSphere, DB2, Quest
+5+
+Heavy
+Current
+TECHNICAL SKILLS
+Operating System: 	Windows 2003/NT 4.0/95/98/XP and Unix.
+Java Technologies: 	JDK (1.2, 1.3, 1.4, 1.5) Servlets 2.3, JSP 1.2, HTML, DHTML, XHTML, EJB 2.0, JDBC 2.0,  JNDI, JAAS, LDAP, ANT, RMI, JMS, JMX,  Applets, XML (DTD, Schema, DOM & SAX), XSL, XSLT, Java Beans, Java Mail, Web services (Axis, WSDL, XML, SOAP, WS Security), C++, Weblogic Integration.
+Framework:		MVC 2.0, Struts, Spring.
+OR Mapping:		Hibernate.
+Application Server:	 WebLogic 7.0, 8.1, 9.0, IBM Websphere Application Server (6.0) and JBoss
+Webserver:		Apache
+Messaging Servers:	JMS (Java Messaging Service), IBM Websphere MQ Series 5.3
+Databases: 		SQL Server 7.0/2000, Oracle 9i/10g/XE, Oracle SQL, Access 97/2000, DB2, Sybase.
+		      Configuration Management Tools: CVS, ClearCase, Telelogic and Visual Source safe. 
+IDE  & Tools: 		Eclipse, MyEclipse, WSAD 5.1, RAD 6.0, JDeveloper, JBuilder, JProfiler, Net Beans. 
+Oracle Tools:		SQL Developer, PostgreSQL, PL/SQL Developer, QUEST and TOAD
+Build Technologies:	Ant/Maven.
+EXPERIENCE
+
+Macy’s System Technology, Duluth, GA							Oct 2007 -Till date
+Sr.Java Developer
+Bloomingdales is one of the retails in Macys. I work for the maintenance team in Bloomindales Clienteling application. I had been working on bug fixing, enhancements, purging, code cleanup, and performance issues. I worked on adding new functionality “Customer Style Preference”, “Customer Create List”, “Super User Login” using SOA.  Created and used Web Services to get the account information from Active Directory group, where all the account information is stored. A File containing user information comes from third party application to FileNet Process engine, which triggers workflow, this particular workflow has the intelligence to segregate different products and user group and attaches respective sales deals documents. The users will review the respective deals via front end web based application (b-connected), this application has interface with mainframe to identify the appropriate deals for each specific group of users.
+
+Java/J2EE Developer
+My role would consist of translating customer requirements, formulating detailed specifications and developing Java applications from those specifications.
+80% of development and 20% of Project management, working with offshore team.
+The role includes traditional unit testing and working with other team members (developers, project manager, product manager and management team). 
+Implemented mixture of Rational Unified Process (RUP) methodology and Agile methodology.
+Translated highly complex business requirements into conceptual and physical design.
+Involved in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications and Development of the Application.
+Created and designed web pages using JSF, CSS, XHTML, and Java Script.
+Customized the content and page layout of the JSP pages by using Tiles, struts tag libraries. 
+Used Cascading Style Sheets (CSS) to create the consistent look and feel of the GUI.
+Written JavaScript to parse the XML object return from the web service using AJAX.
+This application’s user interface designed with new technologies such as JQuery and Ajax, Dojo, YUI to create a dynamic and interactive experience. Daily duties consist of creating and extending classes, laying out html interfaces, JavaScript
+Used Pega Rules engine to run separate business user policies and the processed data is integrated with our Bloomindales front end applications.
+Worked on online credit application and adjudication tool for eligible credit approvals.
+ Used XML DOM parser to read the XML (customer) data from the MBS System.
+Developed generic Java packages to produce and consume JMS, JMX messages through topics and queues in asynchronous message processing with guaranteed delivery.
+Used Single Sign On with Siteminder for Super User Login, all the protected pages were served to the client
+(Super User) after the credential validations done on the Server.
+Using Siteminder, created Rules that protect the URLs on your web Server, create a Policy that associates Users with Rules.
+Responses were created and associated with rules in a policy using a UserInfo class returned all LDAP information without using a response.
+Utilized Core J2EE design patterns such as Singleton and Data Access Object (DAO) in the implementation of the services.
+Used Google Web Tool (GWT) to write Ajax (Dojo) programming code in java to validate the UPC without reloading the page. Product code has been stored in the database, we need to validate the code against the database. GWT helped a lot to develop, debug, build and maintain the complex client side logic. It automatically worked in all browsers.
+Used GWT-Ext used for pagination, paging and filter widgets in the “customers page display. 
+Worked with a team to manage and expand the document management environment. Developed custom indexing application as well. Designed and created security group to provide access to the business users using LDAP.
+Developed the application using Bluemartini (struts) frame work with MVC design pattern.
+Prepared and passed the entire manual unit test scripts.
+Worked on Hibernate ORM.  Created Hibernate XML files and Java class files to map the object relation mappings.  Used Hibernate query language.
+Designed and developed the Web Services using Axis (SOA,) to extract the data from third party system. Used SOA (Web Services) for our Super user login, SOAP with WS Security to send the user id and return the user account information. Generated WSDL using XMLSpy , stubs and skeleton using WSDL2JAVA tool.
+Designed XML messages and created XSD schemas. Also used XSLT to transform existing client messages schemas.
+Complex J2EE JPA entity object hierarchy (O/R mapping) with bi-directional relationships
+Data queries written in J2EE JPA Query Language and native SQL
+Spring configured JPA Transaction Management annotation driven
+ Wrote the complete AIX/Unix, Perl, Unix Korn Shell Scripting for purging, updating the tables.
+Wrote the complete AIX/Unix, Unix Shell Scripting for purging, updating the tables and in taking PROD database subset to other boxes like (DEV, INT, PERF)
+Managed the code using IBM ClearCase for version control system. 
+Administered Web Sphere5.1 servers which involves installing, configuring deployed on Test and Production.
+Designed and used Materialized Query Table (MQT) in DB2.
+Used QUEST for application management and DB2 database management. DB2 (Backend programming PL/SQL, PostgreSQL, Procedures, Triggers, Packages etc)
+Developed project on Eclipse for faster development and deployed in AIX/Unix server.
+Wrote unit test cases using Unitils and JUnit Framework.
+Environment:  JDK 1.5, J2EE, JSP, JavaScript, Hibernate, AJAX, Dojo, JQuery, XHTML, Servlets, XML 1.0, XSL, XSLT, MVC 2.0, ClearCase, QUEST, DB2, Web sphere6.0, UNIX, Hibernate,  Siteminder, Jakarta, struts, JUnit, Eclipse, WSDL, WMLSpy, WSDL2JAVA tool.
+
+USAA,	San Antonio (HO), TX	                      						April 2007- Oct 2007
+Senior Java Developer
+United Services Automobile Association is a Fortune 200 financial services company focused on providing banking, investing, and insurance to people and families that serve, or served, in the military of the United States and other selected federal agencies. Homeowner’s is an insurance module for Dwelling, Renters and Fire. USAA implemented new premium coverage for Sinkhole Collapse for the Homeowners policies; it’s an additional coverage for Florida users who are in high Sinkhole prone area. I worked as a onsite lead with 3 offshore teammates, here we were maintaining 2 applications and we have monthly releases which included Bugs, Enhancements and Emergency bug fixes, the main role of the job is I have to sync with release coordinator take all the inputs and sync with offshore team to fix those bugs and enhancements as per the monthly project plan.
+
+Attended all the requirement meetings and grasped all the requirements from the business.
+Prepared and approved the requirement specification matrix.
+Analyzed all the impacts and designed the new coverage using Struts framework for the Homeowner’s policy. Conducted Scrum Meetings before every release.
+Worked in Availability Command Center (ACC) for technical production support.
+Successfully developed presentation part with all the layers of Struts MVC pattern.
+Developed modules that integrate with Web Services that provide global information
+support such as customer and account management.
+Used Refactoring methodology to develop the whole application.
+Developed application,  managed, configured and deployed in WebSphere Server 
+Exposed various capabilities as Web Services using SOAP/WSDL, Axis, XML.
+Designed Database in Oracle 10g and Implemented PL/SQL stored procedures.
+Wrote a JavaScript in Java using GWT display the home owners policy UI accordingly based upon the highly sinkhole prone areas. We have done the whole client side validation for Employee and Customer faced application using GWT, which really helped to do step by step debug, code optimization.
+Created WSDL and XML schema for web services. Used customized their own framework ORM mapping tool like Hibernate
+While developing new Home owners UI screens, we started using the GWT-Ext which is really powerful for highly customizable UI. 
+Validated the Bank Routing Number against the THOMSON Flat File.
+Used SDES Encryption algorithm for encrypting our messages.
+Customized the content and page layout of the JSP pages by using Tiles, struts tag libraries and Cascading Style Sheets (CSS) and validated using JavaScript and Ajax.
+GWT and GWT-EXT are really useful and used for complex client side logic.
+Prepared and passed the entire manual unit test scripts.
+Used Log4j for application logging and tracing.  
+Used JProfiler to monitor the CPU, memory and performance control of the project.
+Managed the code using Borland Star Team version controller. 
+Successfully deployed on Test and Production Web Sphere5.1 servers.
+Developed whole project on RAD 6.0 for faster development.
+Developed the test cases using JUnit. Created Maven/Ant build scripts.
+Environment:  JDK 1.4, J2EE, Struts, JSP, XML 1.0, XSL, XSLT, CSS, Hibernate , Web sphere6.0, Siteminder , TIBCO business works, Sybase, JUnit, JProfiler, Linux, RAD6.0, Oracle 10g.
+
+Logic Planet Inc, Edison, NJ.						                                 Apr 2006 - Mar 2007
+Java Lead Developer
+
+The focus of our team was to build a WASP. This provides you to pay the money for your purchase through a mobile phone. Merchant get the pay code from the authorized users and it will issue the price for that product to the user. Once the user accepts the price, the amount will be transferred from the issuer’s account to the merchant's account and the notifications are sent across. 
+.  
+Involved in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications and Development of the Application.
+Designing the system and documenting Use Cases, Class diagrams, Sequence diagrams.
+Use of the Spring Framework for the application based on the MVC design paradigm.
+Model components include MySQL, Hibernate, Java Persistance, Spring
+Oracle schema design with table constraints optimized for JPA
+Worked on the development of KeyCite Admin GUI using JSF and Spring with oracle 10g as the backend database.
+Involved in establishing connection between the Issuer and Acquirer using threads.
+Involved in designing and implementing communication module to resolve DNS Issuer/Acquirer.
+Involved in validating the user with database and authorize the communication and transferring messages (User credentials, transaction id, etc) through communication module.
+Used JTA for managing the transactions between the Issuer and acquirer, along with standard Java object mapping.
+   Design, develop, test and deploy Java and C code to authenticate and authorize users via SiteMinder policy servers. Java code is both stand-alone and J2EE/WebLogic code.
+Developed Action Servlet Classes, Action Classes, Data Management Classes.
+Developed many JSP pages, used Java Script for client side validation
+Created tables in development environment and wrote SQL queries, Stored procedure in Oracle. Developed tools to track page and sql response times.
+Developed dynamic and interactive web pages using DHTML.
+Design Use Cases, Sequence and Class diagrams using Poseidon, 
+Wrote UNIX Korn shell script to load large amount of data into the tables
+Development of XML files using XSLT, DTDs, Schema's and Parsing using DOM parsers.
+Integrated Hibernate with Spring Web Flow framework to map database.
+Design and develop Servlets, Session to implement business logic and deploy them on the Weblogic Application Server, used JNDI for Directory Service
+Eclipse is used as Java IDE tool for creating JSPs, Servlets, XML
+Designed and developed several EJB’s (Session beans) using Session façade pattern.
+Develop the User Interface Screens for presentation logic using JSP, Spring and HTML.
+Participate in client side and server side data using the JavaScripts and Validators.
+Written and debugged the ANT Scripts for building the entire web application.
+Developed the test cases using JUnit. Created Maven/Ant build scripts.
+
+Environment: Java, EJB, Hibernate, J2EE, JSP, JavaScript, Servlets, OOAD, Ant 1.6, JUnit, XML, CVS, TOAD, Hibernate, Siteminder, Spring, JSF, JDBC, JMS, JMX, EJB, MVC 2.0, Weblogic Application Server 5.1, Eclipse 3.1, Visual Source Safe, UNIX, Oracle 8i.
+
+Prudential Insurance, NJ                      					Aug 2005 - Mar 2006 
+J2EE Developer
+An insurance company project in which, the prospect arrives to the public site where the customer has the possibility to identify the product most suited for his / her needs and also can reply to the specific questions. The customer proposal populates the Marketing Database (MDB). The manager assigns a prospect to a promoter. The promoter together with the prospect fills a form to create the proposal. The proposal, signed by the prospect, is sent to the Head Quarters of Management, where, on receipt of the signed proposal and related payment, the manager changes the status of the proposal and sends the final document to the client. The client from this moment onwards can visit the reserved area of the site and his/her own current position. The MicroStrategy software for qualitative and quantitative analysis will manage the data of MDB. The management can view the details of the promoters. The operators of the call centers can interrogate and update the MDB.
+
+Java Developer
+Developed data access and business logic layer for encapsulating data and providing core business logic. This was developed using in Java, JSP.
+Used UML notation and Rational Rose for Designing.
+Implementing and planning the server-side architecture (Core J2EE Patterns, EJB Patterns, XML, EJBs, Struts and JMS).
+Design and Development of application using JSP, Tag libraries and Struts (MVC) Framework
+Enhanced the application for multithreaded scenarios.
+User’s authentication using LDAP(iPlanet Directory Server 4.6)
+Deployed the application under Websphere Application server 5.1. Resolved the production issues during migration onto the production server. 
+Wrote SQL queries, Stored procedure, Designed Database in Oracle 8i. 
+Developed Java Stored Procedures for uploading the data from various business units.
+Written the deployment descriptors using XML, development of XML files using XSLT, DTDs, Schema's and Parsing using DOM parsers.
+Developed highly configurable, tunable, multi-threaded Java code for performance testing SiteMinder policy servers.
+Design, develop, test and maintain Java code for monitoring and alerting primary support group of potential issues with SiteMinder policy servers and infrastructure. 
+Analyzed impacts & designed new coverage using Spring & Hibernate for Fullview application.
+J2EE JPA entity objects (O/R mapping)
+Data queries written in J2EE JPA Query Language and native SQL
+Spring configured JPA Transaction Management annotation driven, Spring configured Entity Session Management
+Java Data Access Object (DAO) dependency injection via Spring
+Controller components include Struts2, Spring.
+Developed Action classes, Form beans and configuration files using WSAD
+Developed validations done using JavaScript.
+Prepared Business Requirement Document (BRD), Functional specs and working with stake holders on underlining business processes.
+Extensively used UNIX Shell Scripts for automation of maintenance and administration tasks, testing and user creation in LDAP etc.
+Environment: Linux, MVC Design Patterns, UML, Websphere Application server 5.1, Eclipse, Java 2, J2EE (EJB, RMI-IIOP, JNDI, JDBC, Servlets, JSP, Java Mail), Siteminder , LDAP, XML, JavaScript, Shell Scripts, Oracle 8i, TOAD, Visual SourceSafe, SQL*Plus, HTML, Style Sheets (CSS) and ANT.
+
+People United Bank, CT							Jan 2005 - July 2006 
+Sr. Java Consultant
+
+Chimera is designed to be a generic message processing engine/broker between all applications integrated with it. Business services tier functions as heart of the whole message transformation by applying business logic and interacts with technology specific adapters in process of fulfilling a particular business request. Adapters provide generic implementation of message processing specific to a technology. For example, MQ Adapter connects MQ infrastructure, process messages and converts into different forms by using data binding tools, to leave business services technology agnostic. Business services can talk to more than one adapter, as needed, to service a business request. Dedicated instance of adapters will be configured for external applications like BankPro and FlexCube.
+Configured business applications in XML bean definition files using Spring.
+Worked on Hibernate ORM.  Created Hibernate XML files and Java class files to map the object relation mappings.  Used Hibernate query language.
+Created WSDL files for IVR Communication. 
+Developed generic Java packages to produce and consume JMS messages through topics and queues in asynchronous message processing with guaranteed delivery.
+Worked on various services like auditing, caching, logging.
+Utilized Core J2EE design patterns such as Singleton and Data Access Object (DAO) in the implementation of the services.
+Worked extensively on SWING client to implement the Benefit setup, Administration use cases.
+Worked on DB’s like Oracle and Sybase extensively.
+Build & Deployment in BEA Weblogic Application Server (6.0) Application Server.
+Developed generic Java packages produce and consume JMS messages through topics and queues in asynchronous message processing with guaranteed delivery
+Implemented a message producer/consumer to sending/receiving XML messages to a JMS queue. Developed tools to track page and SQL response times. Used Log4j for logging mechanism
+Solid deployment experience on the UNIX platform.
+Performed IUT and Volume testing of different components of the system
+Prepared test plan and documentation using UML
+Environment: Windows NT/95, MVC, Spring, hibernate, JMS, MQ Series, Java 1.2, Servlets, JDBC, HTML, Swing, JavaScript, Oracle, Weblogic, UNIX.
+
+UHC, Hopkins, MN									Mar 2004 - Jan 2005
+J2EE Developer
+UHC is a Preferred Provider Organization (PPO) that has created a network of physicians, hospitals, and other health care providers with the goal of offering affordable health care services. I worked on Claims processing module of the Group Approval Process (GAP).  The claims processing module involved Receipt and Verification of Claim Forms (837) and Claims Attachments (275), Claims Enquiry and Response (276/277), Adjudication, Healthcare Claim Payment/Advice (835) as per HIPAA guidelines.
+Single factor authentication delivered using IBM Secure way LDAP services and Two-factor authentication delivered using VACMAN controller from VASCO.
+Certification Management as a part of security was implemented for client authentication.
+Web Reporting using Crystal Enterprise & Reports. The user interface was designed in such a way that it can invoke the Crystal reports, which are published in the server.
+Job Scheduler was developed to schedule the execution of tasks.
+JAVA-COM integration of third party products was done using J-Integra Middleware.
+Understood the client's requirement for the design and development of several components.
+Designed and Developed JSP, Servlets, Session Beans, Business Objects and Database Objects using WSAD 4.0
+Worked on Intel SOA Expressway for healthcare (intel SOAE-H) provided efficient way to connect to get computable healthcare information from Patient portal to hospital and then to the payer, which goea all the way to the backend. 
+Worked on SOA ESB Intel SOA Expressway for Healthcare (Intel® SOAE-H) is a result of this research. It provides a highly efficient way to get computable healthcare information from one place to another—across departmental systems
+Developed User Interface with HTML, Java Script and CSS
+Designed and Developed Error Handling and Validations for UI.
+Integrated J-Integra Java-COM bridge classes.
+Responsible for Installation and configuration of the application in Weblogic Advanced Edition.
+Deployed and administered the application in Weblogic.
+Development of dynamic menu generation based on the user profile.
+Crystal Report Invocation from the User Interface.
+Preparation of Unit Test Plans and System Test Plans.
+
+Environment:  Java, JSP, Servlets, EJB, JDBC, JavaScript, VisualAge for Java, Weblogic 6.0, Crystal Reports, Rational Rose, Oracle 8i, Windows 2000, and VSS.
+
+eCredit, West wood, MA						Mar 2003 - Feb 2004
+Java Developer
+
+ECredit.com inc. provides services to its customers in real time credit, financing and related services for e- business through Global Financing Network. With the Global Financing Network, the company intelligently connects its customers to financing partners and global information sources so that credit and financing decisions can be processed in real time at the point of sale. This project contains four modules - Business Finance, Business Revolving Line of Credit, Consumer Finance and Consumer Revolving Line of Credit. Consumer Revolving Line of Credit module: This module was designed to develop user interface. When the customer sends the data, the data is validated and then sent to the eCredit.com server. The PAE (Process Automotive Engine) starts a task as back end processing and gets the final credit approval of the customer back to the server. This data is sent back to customers through Servlets.
+Worked in Consumer Revolving Line of Credit module.
+Designed user-friendly screens using HTML and JavaScript.
+Developed Servlets that sends responses back to customer.
+Developed database connectivity using JDBC between Java and the Oracle data base.
+Used MVC design pattern to implement it. Developed and deployed the components on JBOSS application server.
+Involved in Unit and Integration testing.
+Interacted with the users for the User Acceptance Testing (UAT).
+Used HTML, DHTML, XML and JavaScript for designing the front end and for validating the front end.
+Environment: Windows NT/95, MVC, Java 1.2, CSS, Servlets, JDBC, HTML, JavaScript, Oracle, WebLogic, UNIX
+
+UnitedPro Software Solutions, India							Sep 2001 - Jan 2003
+Software Engineer
+
+PACE is a logistic tracking solution developed by Enterprise Business Solution Division This product helps in determining where a parcel is located at a given time. With this system, company can inform the customer about the parcel location through web interface. PACE is an intranet based solution that allows organization to monitor the shipments from their consignments Places to Customer destination workflow. Since PACE is web based it allows User to remotely view the latest data or updated transaction.  PACE allows multiple offices, ware houses & customers to be modeled. It helps to monitor inventory levels at various Warehouses   as well as the inventory in transit. When a parcel is in a special state, the system performs some special action.
+Requirement gathering and analysis.
+Developed Class Diagrams and Sequence Diagrams as a part of System Design.
+Involved in developing the User interface through which it takes the data from the user and gives the required information about the parcel.
+Developed client side validation using Java Script and Server side using Servlets. 
+Involved in the design of User side Commit / Rollback mechanism to reduce the database updates from the client side.
+It uses Java Mail, Java AWT and Swing for its GUI and JDBC to interact with database.
+Wrote SQL queries and used JDBC drivers to connect with database Oracle.
+Wrote Oracle Stored Procedure & Triggers for business delegation. And have good knowledge in RDBMS
+Involved in developing the application using Java, Servlets, JSP, Taglibs, JDBC and XML.
+Involved in writing Test Plan and Test Cases for Manual Testing.
+Environment: Java, JSP, JDBC, Servlets, JavaScript, J2EE, Swing, Tomcat,  HTML, XML, Oracle 7.0.
+
+EDUCATION
+Bachelor of Computer Science & Engineering, Bharathidasan University, Trichy, India.
+CERTIFICATION & TRAINING|
+Sun Certified Web Component Developer for Java 2 Platform 
+Sun Certified Programmer for Java 2 Platform 1.4 
+IBM FileNet BPM Process Design 4.0 
+Project Management Professional PMP Training.

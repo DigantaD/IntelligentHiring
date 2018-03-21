@@ -1,0 +1,412 @@
+﻿3/24/2016	Julius Davies - Java Programmer - Vancouver, BC
+
+Julius Davies, Senior Software Engineer
+juliusdavies@gmail.com	Home: 604­856­8418
+6465 Lancelot Street, Abbotsford, BC, V4X 2E1	Work: 604­714­6566
+
+
+TECHNICAL SKILLS
+
+Languages: Java, SQL, PHP, LDAP, Javascript, Bash
+
+Software: Linux (Ubuntu), Maven, Ant, SVN, Git, RPM, JUnit, IntelliJ, Eclipse
+
+Enterprise: OAS, JBoss, Weblogic, MS AD, MS SQL, Oracle 10G, MySQL, OC4J, Apache
+
+Security: PKI, X509, TLS/SSL, Application Logging and Log Analysis
+
+
+EMPLOYMENT HISTORY
+Mar 2014 ­
+Senior Software Engineer
+
+current
+CENTRAL 1 CREDIT UNION
+
+
+central1.com
+
+
+Git ninja and airborne firefighter. I solve production bugs no one else can.
+
+
+Cut build times in half for 50 developers (saving the company at least $1.5
+
+
+million). Java, Javascript, and SQL wizard. Tamer of the pom poms.
+
+
+Inspiring leader to my one dear co­op student.
+
+
+
+
+
+
+Jan 2011 ­
+Masters Student (2011) and PhD Student (2012)
+
+current
+UNIVERSITY OF BRITISH COLUMBIA, DEPARTMENT OF COMPUTER SCIENCE
+
+
+cs.ubc.ca
+
+
+Graduate student of software engineering under Dr. Gail C. Murphy.
+
+
+Received a Killam Award (UBC's top TA award) for my work with the UBC
+
+
+undergraduate courses, CPSC 210 ­ Software Construction and CPSC 310 ­
+
+
+Introduction to Sofware Engineering.
+
+
+
+
+
+
+April 2010 ­
+Committer
+
+Dec 2013
+APACHE SOFTWARE FOUNDATION, COMMONS PROJECT
+
+
+commons.apache.org
+
+
+Open Source committer focused primarily on 'commons­codec.jar' sub­
+
+
+project:
+
+
+http://commons.apache.org/codec/.
+
+
+
+
+
+
+Jan 2008 ­
+Consultant
+
+Dec 2010
+SELF­EMPLOYED, VICTORIA, BC.
+
+
+juliusdavies.ca
+
+
+Java, SQL, LDAP, and Web Services consultant for various organizations in
+
+
+Victoria and Vancouver, British Columbia, while finishing my computer
+
+
+science undergraduate degree.
+
+
+
+
+
+
+Sept 2005 ­
+Instructor (Part Time)
+
+Dec 2007
+CAPILANO COLLEGE, NORTH VANCOUVER, BC.
+
+
+capcollege.ca
+
+
+Instructor for INTE 202, Advanced Web Authoring.
+
+
+
+
+Introduced students to server side web programming with PHP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://juliusdavies.ca/resume/resume.html	1/4
+
+3/24/2016	Julius Davies - Java Programmer - Vancouver, BC
+
+
+Introduced HTML forms and server side form validation.
+
+Reinforced HTML, CSS, and JavaScript skills.
+
+Stressed W3 validation and cross­browser compatibility:
+(Windows, Mac OS X, Linux) x (IE, Firefox, Safari) x (Screen, Print)
+
+Sept 2001 ­	Application Developer ­ Senior (2005), Intermediate (2003), Junior (2001)
+Dec 2007	CENTRAL 1 CREDIT UNION, VANCOUVER, BC.
+
+cucbc.com
+Java Developer for online banking, internal infrastructure, and staff­facing applications at CUCBC.
+
+Wrote web­based log analyzer for helpdesk. Improved turnaround on many types of support calls. Secured using 2­factor authentication: Windows Password (LDAP) + SSL Client Certificate.
+
+Replaced Excel­based phone directory with LDAP­backed web system.
+
+Java developer for MemberDirect, the Online Banking system used by over 250 Credit Unions across Canada.
+
+Re­engineered online banking web application to support personal and spousal accounts under a single login.
+
+Integrated with CUCBC's Wire­Transfer and Account Sweeping systems.
+
+Developed ISO 8583 WebParser to help diagnose and debug problems communicating with banking­systems.
+
+EDUCATION
+
+
+University of Victoria, Victoria, BC, Canada.
+BSc Honours with Distinction, Computer Science (2011)
+BFA, Creative Writing (2001)
+
+Awards and Scholarships
+
+Date
+Description
+
+2012­
+Alexander Graham Bell Canada Graduate Scholarship (CGS)
+
+2015
+
+
+
+2013
+Killam Graduate TA Award, UBC
+
+2012
+Graduate TA Award, Department of Computer Science, UBC
+
+2011
+Graduate Fellowship, University of Victoria
+
+2011
+1st place, Student Research Competition (SRC),
+
+
+Undergraduate,
+
+
+33rd International Conference on Software Engineering
+
+
+(ICSE­2011)
+
+2011
+1st place, Best Mining Challenge,
+
+
+8th Working Conference on Mining Software Repositories
+
+
+(MSR­2011)
+
+
+
+
+
+
+
+
+
+Value
+
+$105,000
+
+
+$1,000
+
+n/a
+
+$13,500 $500
+
+
+
+
+n/a
+
+
+http://juliusdavies.ca/resume/resume.html	2/4
+
+3/24/2016
+Julius Davies - Java Programmer - Vancouver, BC
+
+2010
+Undergraduate Research Scholarship, University of Victoria
+$1,500
+
+Major Publications
+[1] Davies J.,  Germán D. M.,  Godfrey M. W.,  Hindle A.
+Software Bertillonage: Determining the Provenance of Software Development Artifacts. Journal of Empirical Software Engineering (Special Issue).
+
+
+[2] Davies J.,  Germán D. M.,  Godfrey M. W.,  Hindle A.
+Software Bertillonage: Finding the Provenance of an Entity. 8th International Working Conference on Mining Software Repositories MSR­2011, Honolulu, Hawaii, May 21st­22nd, 2011. Download PDF (461KB).
+
+20 of 61 full research papers accepted: 32.8%. Among best 6 invited to submit extended versions to Springer's Journal of Empirical Software Engineering.
+
+[3] Germán D. M.,  Di Penta M.,  Davies J.
+Understanding and Auditing the Licensing of Open Source Software Distributions. International Conference in Program Comprehension ICPC­ 2010, Braga, Portugal, June 30th ­ July 2nd, 2010.
+
+Download PDF (226KB).
+
+15 of 76 full research papers accepted: 19.7%.
+
+Full publication list:
+http://www.informatik.uni­trier.de/~ley/db/indices/a­tree/d/Davies:Julius.html
+
+Academic Service
+2013, Web Chair, 10th Working Conference on Mining Software Repositories 2013, PC (Challenge Track), 10th Working Conference on Mining Software Repositories
+
+2012, PC (Challenge Track), 9th Working Conference on Mining Software Repositories
+2011, Referee, IEEE Software
+2011, Additional Reviewer, 27th IEEE International Conference on Software Maintenance
+
+Presentations and Lectures
+2012, Refactoring, 90 minutes, presented to Dr. Neil Ernst's undergradute course on software engineering at the University of British Columbia (CPSC 310).
+
+2012, Intro to Java, 60 minutes, presented to Meghan Allen's undergradute course on software construction at the University of British Columbia (CPSC 210).
+
+2012, Software Bertillonage, 60 minutes, presented to Dr. Abram Hindle's graduate course on Topics in Mining Software Repositories, Processes, and Artifacts at the University of Alberta (CMPT 664).
+
+Course Highlights
+MATH 122  A+ (UBC: 228)	durocher	Logic and Foundationss
+
+CSC  115  A+	kaminski	Fundamentals of Programming: II
+
+
+http://juliusdavies.ca/resume/resume.html	3/4
+
+3/24/2016
+
+
+Julius Davies - Java Programmer - Vancouver, BC
+CSC
+225
+A+
+pan
+Algorithms and Data Structures: I
+CSC
+320
+A+
+myrvold
+Foundations of Computer Science
+CSC
+326
+A+
+ruskey
+Algorithms and Data Structures II
+CSC
+330
+A+
+zastre
+Programming Languages
+CSC
+490
+A+
+german
+Directed Studies
+CSC
+499
+A+
+stanger-ross
+Technical Project (co-supervised with german)
+SENG 330
+A+
+kaminski
+Object-Oriented Software Development
+SENG 450
+A+
+wu
+Network Centric Computing
+
+Complete Computer Science Transcripts: http://juliusdavies.ca/resume/school.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://juliusdavies.ca/resume/resume.html	4/4

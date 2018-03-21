@@ -1,0 +1,110 @@
+aadya vatsa
+Java Developer
+
+
+Key Skills
+
+Java 1.6, GWT-1.7.1,  Spring 2.5 (DI, AOP), Hibernate3, JPA, JMS, ActiveMQ, JSP, Servlet, Maven, Ant, Hudson, SVN, MySQl, Oracle 10g, Easy Mock, XStream, XMLBeans, Dozer.
+Agile (XP), Test Driven Development, Continuous Integration, Pair Programming
+
+Profile
+
+A skilled Java Developer experienced in designing and developing Object Oriented solutions using Java. Excellent analytical, design and problem solving abilities. Extremely motivated and committed to delivering the highest standard of work.
+
+Experience
+
+Java Developer
+
+Specsavers Optical Superstores Ltd,
+Fareham, Hampshire, UK (from July 2007 to present)
+Technologies: Linux, Java1.6, GWT-1.7.1, ActiveMQ, Spring (DI, AOP), Hibernate3, JPA, JMS, XML, XSL, XStream, Dozer, XMLBeans, Eclipse Galileo, Hudson, Junit4.4, Lucene, Maven 2.2.7, Ant, MySQL 5, Oracle10g,  SVN, JBoss.  
+Involved in Design and development of business layer and persistence layer using Spring & Hibernate for Payment Processing project. Used Apache XMLBeans to process XML messages exchanged between two different systems. Wrote unit tests and used EasyMock to mock objects dependencies. Used Dozer to convert domain model to DTO for business and presentation layer usage and vice versa. Agile XP methodology is followed for the entire lifecycle of the project. 
+Involved in design and development of many Integration projects. These projects are developed on top of Compiere ERP open source project and these projects are GWT web application with Oracle at the back-end. Except Oracle, the system relies on open-source tools and technologies mostly from the Apache Software Foundation. Developed integration modules using JMS, ActiveMQ, ServiceMix to integrate these systems with other client systems deployed all over UK and Europe, Australia & New Zealand.
+Developed Workflow management for Specsavers Compiere ERP using Spring AOP.
+I involved in these projects from the very beginning working on all aspects of the iterative software development process (Agile XP). To be specific, I participated in project sub modules estimation and development of the core architecture, design of major sub-systems, and development of business logic. We used SVN as repository and Hudson as continuous integration engine.
+Used advanced Java concurrency and multi threading concepts to optimise production system.
+Performed stress testing using JProfiler.
+
+System Engineer
+
+SIEMENS IT Solutions & Services (formerly SIEMENS Business Services) 
+Coventry, West Midlands, UK. (From July 2006 – Dec 2006)
+
+Environment: H/w: Intel, Fujitsu Siemens 
+Technologies: Tomcat Web Server 4.1, Java1.4, and J2EE (Servlet, Jsp), Spring Framework, WebTA 6.0(Siemens Proprietary), WTML, Java Script
+Tools: Eclipse3.1, TOAD, Merant Dimensions PVCS, Beyond Compare
+Project: MOT Computerisation, VOSA (Vehicle Operator Services Agency, UK)   
+Project Description: All vehicles in UK are required to be certified as road worthy and this certification is done by authorised garages on behalf of certifying authority VOSA. Before MOT computerisation, the garages were issuing manual document and no records regarding test were stored in central database. Now, all garages use computerised solution to store test results in central server and issue printed certificates. This helps to authenticate vehicles data and prevents certification frauds.
+Involved in defect verification and fixing in VTS (Vehicle Test Station) device. (Java, Jsp, Spring)
+Defect verification and Fixing in WebTA-Corporate Terminal (HTML, WTML, JavaScript).
+Generating and fixing problems in PDF reports using XSL and XML.
+
+
+System Engineer
+
+SIEMENS IT Solutions & Services (formerly SIEMENS Information Systems Ltd)
+Gurgaon, India (from Jan’07-June’07)
+
+Environment: H/w: Intel, Fujitsu Siemens 
+Technologies: Tomcat Web Server 4.1, Java1.4, and J2EE (Servlet, Jsp), Spring Framework, WebTA 6.0(Siemens Proprietary), WTML, Java Script
+Tools: Eclipse3.1, TOAD, Merant Dimensions PVCS, Beyond Compare
+Worked as java developer in MOT Computerisation project for VOSA (Vehicle Operator Services Agency)   
+Project Description: VOSA MOT
+Involved in defect verification and fixing in VTS (Vehicle Test Station) device. (Java, Jsp, Spring) at offshore development centre of Siemens IT Solutions and services Ltd.
+Assign work to junior developers and help them to understand MOT middle tier framework developed in Spring.
+
+
+Associate
+
+Perot Systems Technology Services,
+Noida, India (Oct 2005- July 2006)
+
+Environment: H/w: Intel S/w: Weblogic Application Server 8.1, Java 1.4, and J2EE (POJO, EJB2.0), Spring Framework, Hibernate, and Oracle 9i, Oracle AQ/JMS Tools: Eclipse3.1, TOAD, Visual source safe 6.0
+Client:  Voca Limited, London, UK (formerly known as BACS Limited).
+VOCA is one of the world’s largest International Automated Clearing Houses. Owned by the UK’s 14 largest banks, it is responsible for physical processing of the Direct Debit and Direct Credit payments, and also maintaining the payment network. Voca’s products and services make all kinds of data transactions significantly more accessible to banks, governments and businesses. As part of the current project, Voca has planned to replace its ICL mainframe based legacy system, called REFT with the J2EE based Payment Engine. The Payment Engine will be responsible for processing of Payment instructions, submitted to VOCA in the form of submission files.
+
+Project: Payment Engine (PE) is the core processing part of the BACS 3 Day Payment Service. The core Payment Engine is an essential platform for Voca Payment services and plays a key role in determining Voca’s competitive position.  It consists of a collection of business and system processes that enable the submission, validation, processing, routing, and output of payment instructions. The engagement with VOCA involved Code cleanup, Enhancement Requests.
+Developed Web utility tool to generate STD18 format data file. 
+This STD18 file is core payment file for Payment Engine processing unit.
+Writing SQL queries to extract STD18 file data from multiple tables across PE database.
+Writing Hibernate mapping file and Spring application context coding.
+Understand the functionality of existing business rule engine and involved enhancement in PE business rule processor module.
+Alter the application context and code according to Enhancement Request(ER).
+
+
+
+
+Associate
+
+Perot Systems Technology Services,
+Noida, India (From April 2005- September 2005)
+
+Environment: H/w: Intel S/w: Weblogic Application Server 8.1, Java 1.4, and J2EE (POJO, EJB2.0), Spring Framework, Hibernate, and Oracle 9i, Oracle AQ/JMS Tools: Eclipse3.1, TOAD, Visual source safe 6.0
+Client:  Voca Limited, London, UK (formerly known as BACS Limited).
+
+Project: BACS ME (Messaging Engine) (From April ‘05- September’05)
+Messaging Engine is responsible to set up direct debit instructions and process non-payment Items. Provides various Messaging Services to the associated Banks / Building Societies and Service Users Messaging Services include AUDDIS, AWACS, ADDACS, ARUCS, and ARUDD was developed.
+
+As a team member involved in coding for ME business rules using Spring IOC.
+Involved in modifying the Messaging Engine business rules using POJO and Spring.
+
+
+Education
+
+Graduation in Bachelor of Engineering in Computer Science from Periyar University.,India 2002.
+
+Professional training And Continuing Education
+
+Training on Business Communication and Social Etiquette from Siemens. India.
+Training on ISO, CMM and QMS from SIEMENS.
+Training on ISO, CMM and QMS at HCL Perot Systems, India.
+
+Additional Information
+
+Date of Birth		05 March 1980
+Gender			Male
+Marital Status		Never Married.
+Home			
+Mobile			
+References		Available on request.
+
